@@ -214,6 +214,10 @@
 
     .post_image {
       margin-bottom: $spacing-unit;
+
+      img {
+        width: 100%;
+      }
     }
 
     .post_footer {
