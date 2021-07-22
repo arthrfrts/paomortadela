@@ -1,6 +1,6 @@
 # Pão com Mortadela
 
-O [Pão com Mortadela](https://paomortadela.com.br/) é um blog sobre cultura. Esse repositório contem o código e todo o arquivo de posts.
+O [Pão com Mortadela](https://paomortadela.com.br/) foi um blog sobre cultura. Esse repositório contem o código e todo o arquivo de posts.
 
 ## Copy-it-right
 
