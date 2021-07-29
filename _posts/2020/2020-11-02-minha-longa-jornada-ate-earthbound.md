@@ -7,6 +7,7 @@ tags:
 - RPG
 - Nintendo
 date: 2020-11-02 18:23 -0300
+permalink: "/post/658085249325121536/"
 ---
 Eu tenho muita dificuldade de jogar RPGs. Eu nunca joguei os de mesa, eu estou falando especificamente dos videogames nesse caso. Eu sou um jogador muito lento (*muito* mesmo), e tenho muita dificuldade de adentrar um jogo com um tutorial de algumas horas, porque eu posso muito bem passar meses progredindo muito pouco (eu acho que metade dos meses que eu passei fazendo o [ranking do Zelda]({% post_url 2020/2020-06-09-the-legend-of-zelda-ranking %}) foi nos tutoriais de *Twilight Princess* e *Skyward Sword*).
 

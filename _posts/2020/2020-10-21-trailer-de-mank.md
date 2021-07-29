@@ -7,6 +7,7 @@ tags:
 - trailers
 - David Fincher
 date: 2020-10-21 11:22 -0300
+permalink: "/post/658084412628549632/"
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/vuKEg9qgDOc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

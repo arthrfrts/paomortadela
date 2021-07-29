@@ -11,6 +11,7 @@ tags:
 - Spike Lee
 - HBO
 date: '2020-11-23 16:41:09 -0300'
+permalink: "/post/658085931571658752/"
 ---
 Uma das memórias mais marcantes da minha infância é a de uma aula na pré-escola. Minha professora explicava sobre os cinco sentidos, e o que cada um deles era. Visão, audição, olfato, paladar e tato. É algo que a gente sempre dá como garantido, uma constante na vida. Mas minha professora tornou aquela aula marcante pra mim com uma pequena observação sobre a existência: a gente sente o tempo todo, mesmo quando acha que não. O corpo está sempre respondendo a um toque, nem que seja da nossa roupa. Os olhos estão sempre enxergando algo, mesmo que fechados. Nosso nariz está sempre atento aos cheiros ao nosso redor. Querendo ou não, a gente tá sempre sentindo algo.
 

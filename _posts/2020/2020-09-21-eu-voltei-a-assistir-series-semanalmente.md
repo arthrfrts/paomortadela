@@ -11,6 +11,7 @@ tags:
 - Netflix
 - HBO
 date: 2020-09-21 21:09 -0300
+permalink: "/post/658077330514804736/"
 ---
 A quarentena aqui por casa já dura seis meses e a cada mês — as vezes à cada semana — eu vou repensando e reavaliando algumas coisas na minha vida. Eu [me reaproximei da música]({% post_url 2020/2020-05-21-no-fim-das-contas-eu-me-reapaixonei-por-musica-no-meio-de-tudo-isso %}), por exemplo. Eu parei de assistir tanto filme e a ler mais (ainda vou escrever sobre isso!). Hoje eu vou falar de uma nova redescoberta.
 

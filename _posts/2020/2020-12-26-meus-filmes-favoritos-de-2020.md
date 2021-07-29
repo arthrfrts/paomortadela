@@ -6,6 +6,7 @@ tags:
 - listas
 - filmes
 date: 2020-12-26 09:08 -0300
+permalink: "/post/658087177961488384/"
 ---
 Eu comecei o ano querendo refazer um projeto que fiz [no longínquo ano de 2013](https://umfilmeumdia.wordpress.com) de assistir um filme por dia e escrever um pouquinho sobre ele. Não acho que tenha sido um bom ano pra fazer essa escolha, aconteceu tanta coisa por tanto tempo que foi difícil de me concentrar pra ver filmes quando o mundo parecia acabar umas três vezes por semana, em média.
 

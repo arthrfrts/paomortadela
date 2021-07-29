@@ -7,13 +7,14 @@ tags:
 - cartazes
 - Christian Petzold
 - cinema alemão
+permalink: "/post/658069658341146624/"
 ---
 
 {: .full-width }
 ![](/uploads/tumblr_files/c871a74e3b372c97691a05f7a25fc8067758c4cd.jpg)
 
 {: .full-width }
-![](/uploads/tumblr_files/6d009d9b1b5c5e64a08c4afeec470d52ce3e1874.jpg)  
+![](/uploads/tumblr_files/6d009d9b1b5c5e64a08c4afeec470d52ce3e1874.jpg)
 
 Nada de especial pra dizer, só apreciando esses cartazes lindos. O filme é lindo também.
 

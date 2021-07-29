@@ -6,6 +6,7 @@ tags:
 - links
 - espaço
 date: 2020-10-28 09:05 -0300
+permalink: "/post/658084810281123840/"
 ---
 {: .full-width }
 ![Constelação de Órion]({% link uploads/2020/10/28/orion.jpg %})

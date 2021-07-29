@@ -6,6 +6,7 @@ tags:
 - links
 - vídeos
 date: 2020-11-04 17:15 -0300
+permalink: "/post/658085413466112000/"
 ---
 A diretora [Andrea Dorfman](https://andreadorfman.com/) e a poeta [Tanya Davis](https://tanyadavis.ca) estão colaborando em pequenos projetos para o National Film Board do Canadá com os curtas *How to be Alone* e *How to be at Home*:
 

@@ -12,6 +12,7 @@ tags:
 - Kentucky Route Zero
 - Cardboard Computer
 date: 2020-10-27 09:05 -0300
+permalink: "/post/658084703605309440/"
 ---
 # I.
 

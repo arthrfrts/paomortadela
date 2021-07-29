@@ -7,6 +7,7 @@ tags:
 - podcasts
 - jogos
 date: 2020-07-29 09:04 -0300
+permalink: "/post/658073762212790272/"
 ---
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Raul-Fontoura-eh42tf/a-a2p130r" frameborder="0" scrolling="no"></iframe>
 

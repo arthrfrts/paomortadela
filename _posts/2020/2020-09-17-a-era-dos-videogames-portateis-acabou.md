@@ -7,6 +7,7 @@ tags:
 - Nintendo 3DS
 - Game Boy
 date: 2020-09-17 11:20 -0300
+permalink: "/post/658077024213254144/"
 ---
 [A Nintendo encerrou a produção de todos os modelos do Nintendo 3DS](https://kotaku.com/nintendo-officially-ends-3ds-production-for-japan-1845087529) no Japão (e provavelmente no resto do mundo também). Esse é, talvez, o fim dos videogames portáteis dedicados.
 

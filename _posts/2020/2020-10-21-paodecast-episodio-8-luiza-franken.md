@@ -7,6 +7,7 @@ tags:
 - podcasts
 - conversas
 date: 2020-10-21 09:01 -0300
+permalink: "/post/658084344965070848/"
 ---
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Luiza-Franken-elalt7" height="102" frameborder="0" scrolling="no"></iframe>
 
