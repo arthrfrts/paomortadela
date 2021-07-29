@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2017-07-24
-title: 'Legion é o futuro brilhante dos super-heróis.'
+title: "Legion é o futuro brilhante dos super-heróis."
 image: "https://arthrfrts.files.wordpress.com/2018/03/legion-s01.jpg"
 tags:
   - séries
@@ -10,6 +10,7 @@ tags:
   - Netflix
   - X-Men
 author: arthurf
+permalink: "/post/658046097366941696/"
 ---
 
 E então, o que tu acha dessa onda de filmes e séries de super-heróis que explodiu nessa última década?
