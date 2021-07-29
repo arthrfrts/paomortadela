@@ -1,5 +1,5 @@
 ---
-date: '2019-04-04 09:00:00 -0300'
+date: "2019-04-04 09:00:00 -0300"
 layout: post
 published: true
 title: Onde estão Os Ratos?
@@ -8,13 +8,15 @@ tags:
   - leituras
   - livros
 author: guilhermen
-image: 'https://i.imgur.com/ghVqKF3h.jpg'
+image: "https://i.imgur.com/ghVqKF3h.jpg"
+permalink: "/post/658051469657997312/"
 ---
+
 Dentre todas as linhas de pesquisa exploradas para dar conta das técnicas e exercícios lúdicos utilizados na construção (e na leitura) de personagens, seja na literatura, ou no audiovisual, uma sempre me despertou particular interesse: o estudo do consumo como agente dos conflitos internos.
 
 _Madame Bovary_ de Flaubert é das mais citadas como uma das primeiras obras mais alinhadas as leis do desejo capitalista que traz essas questões de maneira mais notória (assim como os bêbados dublinenses de James Joyce). Fato é que o consumo, o que se deseja consumir, a maneira com que se deseja, o que isso significa na realidade daquela personagem são detalhes que, quase de maneira desapercebida, foram tornando-se indispensáveis na construção psicológica de qualquer arquétipo que possa aferir algum tipo de identificação por parte do leitor/espectador. E o que definiu isso não foi, de forma alguma, um autor, ou uma obra em particular, ou um "movimento", mas sim as alterações na forma de perceber o mundo provocadas pelo modelo sócio-econômico que foi aos poucos se transfigurando no capitalismo nacionalista atual.
 
-É certo que o consumo pode ser objeto de estudo em períodos muito mais remotos, nossos antepassados nômades já se organizavam socialmente em torno de quem tinha mais comida, ou qualquer tecnologia que lhe imputasse a autoridade sobre o consumo; entretanto, a relação estrita da arte (oriental, anglo-saxônica) com a religião, que ao pregar a vida eterna, rejeitava qualquer referência possível à morte. E falar de consumo é, justamente, falar de morte: das coisas que se consomem e se acabam, do que se come para viver até que se morra, do desfrutar dos prazeres mundanos. Na narrativa bíblica, por exemplo, existe uma punição imposta à Eva por comer um fruto que teria sido designado como proibido - a "mensagem" por trás da história dos primeiros seres humanos, em Gênesis, é bem clara: esquecer dos prazeres e desejos (em especial os materiais) "mundanos" em nome da vida eterna. 
+É certo que o consumo pode ser objeto de estudo em períodos muito mais remotos, nossos antepassados nômades já se organizavam socialmente em torno de quem tinha mais comida, ou qualquer tecnologia que lhe imputasse a autoridade sobre o consumo; entretanto, a relação estrita da arte (oriental, anglo-saxônica) com a religião, que ao pregar a vida eterna, rejeitava qualquer referência possível à morte. E falar de consumo é, justamente, falar de morte: das coisas que se consomem e se acabam, do que se come para viver até que se morra, do desfrutar dos prazeres mundanos. Na narrativa bíblica, por exemplo, existe uma punição imposta à Eva por comer um fruto que teria sido designado como proibido - a "mensagem" por trás da história dos primeiros seres humanos, em Gênesis, é bem clara: esquecer dos prazeres e desejos (em especial os materiais) "mundanos" em nome da vida eterna.
 
 Dante foi e voltou do céu e inferno sem consumir sequer uma barrinha de cereais, nem um gole d'água enquanto sua pele se queimava perto do fogo eterno - mas Dostoievski já não se sentia pecador ao expor a fome de Raskolnikov durante a crise do sistema Czarista, e Machado de Assis elevava o consumo a um estudo social que expunha a verdadeira face da burguesia em um período que compreendeu o império e sua dissolução na atual república.
 
@@ -26,7 +28,7 @@ Com o passar do tempo o consumo, e a cultura que dele imana, tornaram-se importa
 
 O romance nos mostra Naziazeno, um funcionário público que precisa pagar sua dívida de 53 mil réis ao leiteiro, que ameaça cortar o abastecimento caso a dívida não seja sanada até o final do dia. A gritaria do leiteiro é tanta que Naziazeno sente vergonha de fazer o caminho habitual até o trabalho naquela manhã, sente vergonha dos vizinhos, tem a impressão de que todos o observam e cochicham ao seu respeito. O romance se passa em um período de 24 horas, e mostra as andanças da personagem abaixo do sol do verão porto-alegrense, atrás da pífia quantia (o equivalente a 120 - 160 reais).
 
-O estilo é aos moldes da segunda geração do Modernismo na Literatura Brasileira, utilizando os alicerces do realismo de Flaubert aliados à narrativa urbana/paranoide de _Crime & Castigo_ e as imersões de consciência de um James Joyce - Todos já citados. 
+O estilo é aos moldes da segunda geração do Modernismo na Literatura Brasileira, utilizando os alicerces do realismo de Flaubert aliados à narrativa urbana/paranoide de _Crime & Castigo_ e as imersões de consciência de um James Joyce - Todos já citados.
 
 Naziazeno procura sanar a sua dívida pedindo dinheiro emprestado ao diretor da repartição, este já havia lhe auxiliado em situação de enfermidade de um dos filhos, mas agora lhe nega a ajuda replicando um discurso cada dia mais atual de "meritocracia", de uma defesa das individualidades por meio de um discurso de exclusão - pois sonhar com os ratos roendo o seu dinheiro não é um delírio apenas de Naziazeno, quanto mais recursos tem um sujeito mais predisposto ele está a enxergar ratos ao seu redor, mas chegaremos lá mais adiante.
 
@@ -50,19 +52,19 @@ No fundo o Duque é uma espécie de pai ausente, por um lado um herói e por out
 
 Já são quatro da tarde e o dinheiro do almoço que Naziazeno tinha em mãos se foi na tarifa dos bondes que ele tomou atrás da solução de seu problema. Fica a espera da saída de um amigo no seu trabalho para pedir-lhe uns trocados para almoçar.
 
-O que pode ser mais identificável do que a fome de meio da tarde de um sujeito que ainda não almoçou? 
+O que pode ser mais identificável do que a fome de meio da tarde de um sujeito que ainda não almoçou?
 
 Pior, o que é mais identificável que um sujeito sonhando com a riqueza a partir de uma quantia mínima de 10 mil réis?
 
 Podemos perguntar à Betina, que, segundo a publicidade da Internet, fez seus 1.500 reais virarem 1 milhão e meio; ou aos tantos "coach's" e consultores de investimento que enchem nossos ouvidos nos dias atuais. Naziazeno resolve transformar a pequena quantia do almoço emprestada por um amigo na oportunidade de ganhar a fortuna de sua vida na roleta. "É isso que faria o Duque", pensa ele.
 
-O jogo anuncia a sorte do pobre homem, não só tira a quantia que precisa pra pagar o leiteiro, mas ganha mais e mais, parece que nunca perderá - aquele é o seu dia de sorte, pensa consigo - até que arrisca tudo e perde. Não tinha nada, mas perdeu tudo. Lembra-se do rosto da mulher, triste em casa lhe esperando para esquentar o almoço. Não pode voltar de mãos vazias, a coisa já tinha tornado-se pessoal, já havia saído por aí anunciando sua dívida, seu compromisso com a esposa e os filhos. Um lapso da memória ancestral do caçador/coletor primitivo causa-lhe calafrios, mas ele não pode simplesmente matar um animal qualquer e levar até a sua casa, pelo menos não na Porto Alegre dos anos 30. São pouquíssimos anos de civilização, mas o extinto puro de quem tem fome não é mais bem visto, a barbárie só pode ser justificada através de movimentos "intelectualizados", e por quem pode com o valor convencionado do dinheiro interferir nos valores simbólicos da justiça e da moral. Não é o caso de Naziazeno.  
+O jogo anuncia a sorte do pobre homem, não só tira a quantia que precisa pra pagar o leiteiro, mas ganha mais e mais, parece que nunca perderá - aquele é o seu dia de sorte, pensa consigo - até que arrisca tudo e perde. Não tinha nada, mas perdeu tudo. Lembra-se do rosto da mulher, triste em casa lhe esperando para esquentar o almoço. Não pode voltar de mãos vazias, a coisa já tinha tornado-se pessoal, já havia saído por aí anunciando sua dívida, seu compromisso com a esposa e os filhos. Um lapso da memória ancestral do caçador/coletor primitivo causa-lhe calafrios, mas ele não pode simplesmente matar um animal qualquer e levar até a sua casa, pelo menos não na Porto Alegre dos anos 30. São pouquíssimos anos de civilização, mas o extinto puro de quem tem fome não é mais bem visto, a barbárie só pode ser justificada através de movimentos "intelectualizados", e por quem pode com o valor convencionado do dinheiro interferir nos valores simbólicos da justiça e da moral. Não é o caso de Naziazeno.
 
 Precisa honrar a dívida, com o estômago ainda vazio, ir atrás do dinheiro do leiteiro. É assim que o caçador/coletor civilizado resolve os seus problemas. Corre ainda atrás dos amigos. Surge a figura do ricaço amigo do Duque, um homem que não pode ajudar-lhe, claramente, porque não quer - porque gente como Naziazeno são os ratos de seus pesadelos mais macabros. Porque a riqueza da década de 30 (assim como a de hoje) não vem de outro lugar se não da exploração... dar alguns trocados ao pobre funcionário público significa admitir essa culpa.
 
 Naziazeno resolve o seu problema, consegue pagar sua dívida e retornar a sua família, mas o ricaço fica no meio do caminho do romance de Dyonélio, porque não existe lar ao qual possa retornar e, mesmo que ele tivesse uma família, não conseguiria olhar nos olhos dos próprios filhos sem enxergar os mesmos ratos. O homem poderia simplesmente dar à quantia a Naziazeno, não lhe faria falta alguma, ele não o faz - porém segue acompanhando as andanças de Naziazeno e seus amigos atrás da quantia, porque existe, para ele, algo de entretenimento nisso tudo.
 
-Quem resolve os seus problemas é o Duque!? 
+Quem resolve os seus problemas é o Duque!?
 
 E isso faz com que o amigo ganhe ainda mais moral na imaginação de Naziazeno, mas Duque não faz mais do que arranjar um empréstimo a partir de um penhor, logo logo Naziazeno terá de perambular novamente para pagar a nova dívida - e não o fará de outra forma senão adquirindo uma nova, mas nesse meio tempo Naziazeno volta para casa com a dignidade restaurada, o que não é o caso do ricaço, do Duque, do diretor da repartição, ou de qualquer outro personagem que tenha encontrado no caminho. Todos seguem afoitos pelos próximos lucros, cobranças e ganhos; mas eles não devem nada para ninguém.
 
@@ -72,8 +74,8 @@ Sonha com ratos de verdade porque não consegue enxergar seus semelhantes como r
 
 "Os Ratos" tem toda essa importância porque fala de um dia comúm na vida de um funcionário público qualquer, dentre outros tantos dias iguais a este, dentre tantos outros Naziazenos pelo Brasil desde que este se fez colônia portuguesa. Hoje, mais do que nunca, essa parcela da população representada pela personagem de Dyonélio vai vendo aos poucos os seus direitos básicos serem roídos por ratazanas de castas distantes, e ainda ouvem por aí as vozes acusando sua indignidade.
 
-Naziazeno não pediu pra nascer, e um dia morrerá sem aviso prévio. 
+Naziazeno não pediu pra nascer, e um dia morrerá sem aviso prévio.
 
 Enquanto esse dia não chega, ele tem de sentir-se indigno sempre que se vê incapaz de cumprir qualquer espectativa social que recaia sobre ele.
 
-Um ano após o lançamento do romance, Dyonélio Machado recebe o prêmio Machado de Assis de dentro de uma penitenciária, como preso político. Os militares da ditadura Vargas entendiam como subversiva essa revelação trazida pelo romance, de que um dos grandes problema do Brasil é que nos ensinaram a enxergar ratos nos rostos errados. 
+Um ano após o lançamento do romance, Dyonélio Machado recebe o prêmio Machado de Assis de dentro de uma penitenciária, como preso político. Os militares da ditadura Vargas entendiam como subversiva essa revelação trazida pelo romance, de que um dos grandes problema do Brasil é que nos ensinaram a enxergar ratos nos rostos errados.

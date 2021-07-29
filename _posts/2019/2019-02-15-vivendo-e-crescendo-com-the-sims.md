@@ -1,5 +1,5 @@
 ---
-date: '2019-02-15 09:00 -0200'
+date: "2019-02-15 09:00 -0200"
 layout: post
 title: Vivendo e crescendo com The Sims
 excerpt: >-
@@ -12,9 +12,11 @@ tags:
   - The Sims
   - Maxis
   - Will Wright
-image: 'https://i.imgur.com/CwM5w0l.jpg'
+image: "https://i.imgur.com/CwM5w0l.jpg"
 author: arthurf
+permalink: "/post/658050321898242048/"
 ---
+
 Minha vizinha, a amiga que tinha um computador que rodava os jogos que a gente gostava de jogar (_Harry Potter e a Pedra Filosofal_, _Croc 2_), me mostrou um jogo onde a gente podia criar uma casa, colocar gente lá dentro e fazer eles negligenciarem o banheiro. Eu tinha sete anos, era férias de verão e eu ia começar a primeira série quando eu conheci _The Sims_.
 
 ![Captura de tela de Gozando a Vida](https://i.imgur.com/GQ6IHFw.jpg)

@@ -1,10 +1,10 @@
 ---
-date: '2019-02-21 07:56 -0300'
+date: "2019-02-21 07:56 -0300"
 layout: post
 category: Essenciais
 published: true
 title: Onde Vivem os Monstros é uma obra-prima sobre a infância
-image: 'https://i.imgur.com/3sXyDeb.jpg'
+image: "https://i.imgur.com/3sXyDeb.jpg"
 tags:
   - essenciais
   - filmes
@@ -14,7 +14,9 @@ tags:
   - Onde Vivem os Monstros
   - HBO
 author: arthurf
+permalink: "/post/658050930342756352/"
 ---
+
 Carol é grande e tem a voz esganiçada, Alexander tem um nariz ranhoso, Ira e Judith estão apaixonados um pelo outro, o Touro é quieto e assustador, e KW tem um olhar doce e cabelos ondulados. Todos eles são peludos, só alguns tem chifres, outros tem rabos longos e dentes pontudos. Mas tem um que é pequeno e não tem pelos. Ele veste uma roupa de lobo e apareceu no meio desses monstros depois de brigar com sua mãe e fugir de casa. Esse é Max, e os outros monstros o chamam de rei.
 
 Max, interpretado aqui pelo novato Max Records, é o protagonista de _Onde Vivem os Monstros_, um filme intensamente original e maravilhoso. Depois de uma produção complicada que demorou anos e refilmagens e rumores, o projeto — a adaptação de um livro infantil composto por um punhado de frases e imagens lindas — ganhou vida e uma crueza emocional nas mãos de Spike Jonze, um diretor que já tinha mostrado histórias esquisitas com uma crueza emocional inusitada em _Quero Ser John Malkovich_ e _Adaptação_. Com _Onde Vivem os Monstros_, Jonze expande e detalha o mundo do autor Maurice Sendak no que pode ser o seu filme mais complexo e mais adorável até aqui. Uma jornada pela infância com a empolgação, a fúria e a melancolia de uma criança.
@@ -24,6 +26,7 @@ No livro de Sendak, publicado pela primeira vez em 1963 nos EUA (e só em 2009 n
 Os monstros de Sendak podem ser (e foram) interpretados de várias maneiras, mas Jonze, que escreveu o roteiro com o badalado autor Dave Eggers, evita esse caminho e prefere algo mais honesto. Em sua adaptação, ele expande essas criaturas e as deixa tão reais quanto Max acredita que elas sejam. _Onde Vivem os Monstros_ ainda é a história de um garoto, sua mãe, seu quarto e dos vários monstros que ele criou; mas Jonze dá mais material para explorarmos essa história, mais detalhes para complementar quaisquer interpretações que damos aos monstros do livro, como uma irmã mais velha, Claire, cujo cabelo ondulado e o olhar cansado são vistos também na mais dócil dos monstros, KW.
 
 {:.full-width}
+
 <iframe src="https://www.youtube-nocookie.com/embed/G6DD3K86X8k"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 _Onde Vivem os Monstros_ abre com Max correndo atrás do seu cachorro escada abaixo, seguido por uma câmera de mão que mal consegue acompanhá-lo em quadro; mas depois de abrir a sua história com uma agitação desorientadora, Jonzr estabelece uma melancolia que perdura o filme inteiro em um interlúdio que nos revelará tudo o que precisamos saber sobre o garoto e anuncia o que acontecerá no resto do filme. Essas cenas iniciais são íntimas e carinhosas. Jonze, trabalhando com seu diretor de fotografia Lance Acord, nos aproxima de Max enquanto ele constrói um iglu, começa uma guerra de bolas de neve com os amigos de Claire e é deixado chorando quando seu iglu é destruído — e quando Max entra no seu iglu para fugir dos amigos de Claire, a câmera está junto com ele quando a neve vem abaixo. O mundo é cruel, e Max também. Ele enfrenta sua mãe, que o enfrenta de volta. Ele se enfurece e então sai correndo pela noite, sem rumo e sozinho.

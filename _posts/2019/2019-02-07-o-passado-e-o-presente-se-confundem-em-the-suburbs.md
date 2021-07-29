@@ -1,5 +1,5 @@
 ---
-date: '2019-02-07 08:20 -0200'
+date: "2019-02-07 08:20 -0200"
 layout: post
 published: true
 title: O passado e o presente se confundem em The Suburbs
@@ -9,10 +9,12 @@ tags:
   - músicas
   - indie
   - Arcade Fire
-excerpt: 'A obra-prima do Arcade Fire vai fazer dez anos, e é cada vez mais essencial.'
-image: 'https://i.imgur.com/GvF7Bdg.jpg'
+excerpt: "A obra-prima do Arcade Fire vai fazer dez anos, e é cada vez mais essencial."
+image: "https://i.imgur.com/GvF7Bdg.jpg"
 author: arthurf
+permalink: "/post/658050218106011648/"
 ---
+
 Eu escuto _The Suburbs_ todo o verão desde seu lançamento, em 2010. Quando eu descobri o Arcade Fire, um pouco antes do lançamento do álbum, eu escutava _Funeral_ e _Neon Bible_ direto, no repeat, quase todos os dias. Foi a trilha-sonora do último ano do ensino fundamental e do meu primeiro ano do ensino médio. _The Suburbs_ mudou tudo. Ele entendia a minha vontade de sair de casa e nunca mais voltar. Ele me acompanhou no meu primeiro emprego arrumando computadores de uma lan-house (!!). Ele soava como os meus dias de verão — gigantes, ensolarados, onde o dia durava uma eternidade de tédio, do bom e do ruim.
 
 É interessante continuar ouvindo _The Suburbs_ depois de todos esses anos. É um álbum feito tanto das memórias de uma juventude, quanto dos sonhos e frustrações que elas criaram. É um álbum sobre querer sair de casa, querer viver uma vida sem as amarras de nossos pais e das comunidades que crescemos. É um álbum que lembra de quando se descobre quem você é, daqueles dias com seus amigos onde você dá o primeiro beijo, descobre o primeiro amor, aprende a dirigir e a beber.

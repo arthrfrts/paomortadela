@@ -13,6 +13,7 @@ tags:
   - links
   - leituras
   - músicas
+permalink: "/post/658060465565548544/"
 ---
 
 Eu escrevo essas listas de “melhores do ano” desde 2015 para o PCM, e muita coisa mudou nesses quatro anos por aqui. Minhas ideias sobre o que o site é e a finalidade daquilo que eu escrevo por aqui foram algumas dessas coisas. Quando a gente criou o blog, lá em 2014, ele servia como um espaço para fazermos resenhas daquilo que a gente gosta para recomendarmos uns para os outros.
@@ -25,13 +26,13 @@ Então aí estão as cinco coisas que eu mais gostei de ter experimentado esse a
 
 A gente se vê na próxima quarta, com uma lista muito especial pra fechar o ano (e a década).
 
-***
+---
 
 ## O melhor link: _The Best of a Bad Situation_ (n+1 Magazine)
 
 [_The Best of a Bad Situation_](https://nplusonemag.com/issue-33/the-intellectual-situation/the-best-of-a-bad-situation/) me deixou mal. É um texto gigante sobre a nova ascenção do facismo, o colapso ambiental, e a incapacidade da sociedade de sacrificar o luxo por um futuro. Mas foi uma das coisas que mais me marcou nesse ano — um ensaio sobre o estado das coisas, um exercício em tentar relacionar a grande depressão contemporânea da sociedade com a crise financeira e com a mudança climática. Não é uma tarefa fácil, mas a carta dos editores da n+1 entrega. E ficou na minha cabeça desde então.
 
-É daqueles textos que conseguem _enxergar_ o mundo, capturar toda aquela complexidade dos nossos problemas sem diminuí-los à uma fórmula, e sem torná-los abstratos ao ponto de não significarem nada. É como a terceira temporada de _Serial_, de enxergar um panorama grande o suficiente mas sem esquecer que ele é feito pelos detalhes. _The Best of a Bad Situation_ não vai ser fácil de ler, mas foi necessário nesse ano tão confuso e caótico, porque conseguiu identificar esse caos, me fazer entender ele melhor. Pode não ajudar em nada para resolver os problemas que ele observa tão bem, mas ao ajudar a decifrar esse emaranhado da vida contemporânea ajuda a tornar ele menos corrosivo na nossa mente, para que seja mais fácil de enxergá-lo com nossos olhos. 
+É daqueles textos que conseguem _enxergar_ o mundo, capturar toda aquela complexidade dos nossos problemas sem diminuí-los à uma fórmula, e sem torná-los abstratos ao ponto de não significarem nada. É como a terceira temporada de _Serial_, de enxergar um panorama grande o suficiente mas sem esquecer que ele é feito pelos detalhes. _The Best of a Bad Situation_ não vai ser fácil de ler, mas foi necessário nesse ano tão confuso e caótico, porque conseguiu identificar esse caos, me fazer entender ele melhor. Pode não ajudar em nada para resolver os problemas que ele observa tão bem, mas ao ajudar a decifrar esse emaranhado da vida contemporânea ajuda a tornar ele menos corrosivo na nossa mente, para que seja mais fácil de enxergá-lo com nossos olhos.
 
 **Aproveite e clique também:**
 
@@ -41,7 +42,7 @@ A gente se vê na próxima quarta, com uma lista muito especial pra fechar o ano
 - [_The Night The Lights Went Out_](https://theconcourse.deadspin.com/the-night-the-lights-went-out-1834298070) (Drew Magary, Deadspin)
 - [_Chernobyl_](https://podcasts.apple.com/us/podcast/the-chernobyl-podcast/id1459712981) (podcast, HBO)
 
-***
+---
 
 ## O melhor disco: _Remind me Tomorrow_ (Sharon van Etten)
 
@@ -59,7 +60,7 @@ Eu não sei escrever sobre música, então deixo aqui [o texto de Cleber Facchi]
 - _Watchmen (Music from the HBO Series)_ (Trent Reznor & Atticus Ross)
 - _When I Get Home_ (Solange)
 
-***
+---
 
 ## O melhor filme: _Pássaros de Verão_ (Ciro Guerra e Cristina Gallego, 2018)
 
@@ -77,7 +78,7 @@ O melhor filme que eu vi esse ano, porém, foi uma aposta. Eu amo _O Abraço da 
 - _Em Trânsito_ (Christian Petzold, 2018) — no [Looke](https://www.looke.com.br/filmes/em-transito), [iTunes](https://itunes.apple.com/br/movie/em-trânsito/id1467362388) e [Google Play](https://play.google.com/store/movies/details/Em_Trânsito?id=1xfL6H4WECo.P).
 - _Parasita_ (Bong Joon-ho, 2019) — nos cinemas!
 
-***
+---
 
 ## O melhor jogo: _The Touryst_ (Shin'en Multimedia, Nintendo Switch)
 
@@ -95,7 +96,7 @@ Mesmo assim, nenhum outro jogo me ofereceu algo tão bacana como _The Touryst_. 
 - [_Untitled Goose Game_](http://goose.game) (House House, Nintendo Switch, PC)
 - [_WHAT THE GOLF?_](http://www.whatthegolf.com) (Triband, Apple Arcade, PC)
 
-***
+---
 
 ## A melhor série: _Succession_ (segunda temporada, HBO)
 

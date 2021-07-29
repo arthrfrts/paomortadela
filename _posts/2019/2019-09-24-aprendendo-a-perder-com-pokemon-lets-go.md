@@ -12,6 +12,7 @@ tags:
   - Nintendo
   - Nintendo Switch
   - RPG
+permalink: "/post/658059418827669504/"
 ---
 
 Eu não dei muita bola para _Pokémon Let’s Go! Eevee_ na primeira vez que eu joguei, no ano passado. Focado nos novos jogadores que conheceram os monstrinhos através de _Pokémon Go_, _Let’s Go!_ é um remake dos primeiros jogos da franquia (_Pokémon Yellow_, pra ser mais exato) com algumas diferenças no sistema de capturas, que se assemelha mais à mecânica do jogo de celular. Antes, você batalhava com um pokémon selvagem para você enfraquecê-lo e ficar mais fácil de capturá-lo, agora você só precisa acertar bem a mira da pokébola.
@@ -38,7 +39,6 @@ O que muda em _Let’s Go!_, e que pra mim é o grande acerto do jogo, é a form
 
 {: .full-width }
 ![Eevee e seu treinador brincando](/uploads/2019/eevee.jpg)
-
 
 A Vivi veio da rua. A minha vizinhança tem isso como característica: como moramos afastados da cidade, as pessoas da cidade vêm e largam seus cachorros que elas não querem mais aqui. Alguns cachorros sortudos sobrevivem seus dias na rua até que algum vizinho de coração mole decida deixar ele entrar (os menos sortudos morrem de frio ou atropelados, ou sufocados porque as pessoas mais cruéis jogam eles fora enrolados em um saco de lixo). Para atrair um cachorrinho que teve sua confiança abalada, que está sentindo dor e frio é um processo difícil, de criar confiança nele que você vai ser um dono melhor, que você não vai desapontá-lo.
 

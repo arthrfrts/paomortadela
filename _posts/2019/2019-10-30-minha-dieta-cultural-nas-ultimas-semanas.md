@@ -12,13 +12,14 @@ tags:
   - séries
   - filmes
   - dieta cultural
+permalink: "/post/658059825870225408/"
 ---
 
 Oi pessoal! As últimas semanas têm sido uma loucura, e eu infelizmente tô sem tempo pra terminar os posts que eu tenho planejado pra postar no PCM. Em um mundo perfeito eu teria contribuições bacanas pra postar nas semanas que eu não consigo escrever, mas em um mundo _mais_ perfeito ainda eu teria dinheiro pra pagar meus amigos pra escrever algo legal, então eu não fico chateado com isso (mas esse é um dos meus planos pro PCM em 2020, spoiler!).
 
 Então, eu decidi que essa semana eu não vou forçar sair um texto ruim sobre algo que eu gosto (como eu fiz com [Succession]({% post_url 2019/2019-08-07-succession %}) semanas atrás), eu decidi fazer um resumo do que eu gostei de ler, ver, escutar e jogar nas últimas semanas. É algo inspirado no que o [Jason Kottke faz há anos no seu blog](https://kottke.org/tag/media%20diet) (que eu também gosto muito, então essa a primeira dica).
 
-***
+---
 
 ### Links
 
@@ -40,23 +41,25 @@ Além disso, o Deadspin, um blog sobre esportes que também posta sobre cultura,
 
 Eu tenho uma categoria na minha lista de leituras no Pinboard chamada “alguém me socorre desse mundo” em que eu coloco textos sobre como parece que a gente tá vivendo no fim dos tempos, meu tipo favorito de literatura porque reflete minha vida. O mais novo integrante dessa seleta categoria de excelentes textos na internet é [_The 2010s Broke Our Sense Of Time_](https://www.buzzfeednews.com/article/katherinemiller/the-2010s-have-broken-our-sense-of-time). É provavelmente o texto que eu mais recomendo você ler de todos esses. **Deixa eu pôr uma ênfase aqui pra chamar a atenção.**
 
-***
+---
 
 ### Séries
 
 {: .full-width }
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/mvC2FEnkY0w"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Além de _Watchmen_, que eu tô apaixonado, e de rever _Gilmore Girls_ diariamente pra manter a minha saúde mental intacta nesse mundo, eu terminei [_The Deuce_](https://www.hbogo.com.br/content/d76463ec-8b56-11e7-80ea-0050569a010f) (HBO Go) ontem. Uma das melhores séries que eu já vi no último ano, é uma jornada pela história do início da indústria de filmes pornográficos na Nova York dos anos 70 e 80. É pesada, como as outras séries do David Simon (_The Wire_, _Treme_), mas vale cada segundo. (Não tem tanto James Franco quanto o material publicitário vende, o que é sempre bom pra saúde).
 
 {: .full-width }
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/bagwg_tXlhc"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu também tô assistindo [_Forever_](https://www.primevideo.com/detail/0TVNJJQYMZMNZAQADQK4H4I2VG/ref=atv_hover_title) (Prime Video), uma comédia com Maya Rudolph e Fred Armisen sobre um casal que vive uma vida bem pacata, até que tudo muda (em uma surpresa boa demais pra estragar aqui) e eles começam a questionar sua rotina e o casamento. É muito boa, e como boa parte das “comédias” nessa década, é cheia daqueles momentos silenciosos e tristes sobre o vazio da existência. Uma pena que foi cancelada. :(
 
 _Silicon Valley_ voltou esse domingo também! Eu ainda não vi o episódio, mas tô empolgado. É a última temporada.
 
-***
+---
 
 ### Filmes
 
@@ -65,6 +68,7 @@ Aí vai um segredo que meus amigos da faculdade de cinema não podem saber: eu n
 Mas enfim, eu vi algumas coisas que eu gostei muito nas últimas semanas. O melhor deles foi um curta que vi no MUBI, _…À Valparaiso_. Ele já saiu do serviço mas ei, olha quem eu achei no YouTube:
 
 {: .full-width }
+
 <iframe width="695" height="521" src="https://www.youtube-nocookie.com/embed/_qH5-d7SVX4"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Meu amigo Leo me recomendou [_De Olhos Bem Fechados_](https://br.hbogola.com/content/74c11cd6-5a64-464e-b71d-ef4447fd0a31) (HBO Go), o último filme do diretor Stanley Kubrick, um cara que eu não gosto muito (sem piada), mas esse filme é fantástico e levemente perturbador. Recomendo muito.

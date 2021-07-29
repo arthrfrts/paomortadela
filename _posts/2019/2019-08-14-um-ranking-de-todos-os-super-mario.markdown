@@ -11,6 +11,7 @@ tags:
   - Super Mario
   - Nintendo
   - rankings
+permalink: "/post/658056474321354752/"
 ---
 
 Durante a maior parte de 2017, ninguém suspeitava que algum outro jogo ia conseguir destronar [_Breath of the Wild_]({% post_url 2017/2017-07-25-the-legend-of-the-zelda-breath-of-the-wild %}) dos prêmios de melhor jogo do ano. Foi o GOTY mais rápido e mais unânime que eu já vi: logo na semana do lançamento, no início de março, parecia que não importava o que fosse lançado, nada seria do tamanho do último Zelda. Até que outubro chegou e com ele veio o **outro** jogo que a Nintendo tinha preparado para o primeiro ano do seu novo videogame, _Super Mario Odyssey_ chegou e as listas de final de ano indicavam que a Nintendo não tinha só um GOTY na manga. Se algum jogo fosse destronar um clássico instantâneo da Nintendo, só mesmo o próprio Mario.
@@ -21,7 +22,7 @@ Essas perguntas ficaram na minha cabeça nos últimos dois anos, e eu decidi res
 
 Então me acompanhe na minha jornada de três meses em que eu joguei todos os jogos de plataforma do _Super Mario_, que podem também ser considerados três meses de febre intensa em que eu nunca tive tanta raiva da imprecisão dos meus dedos enquanto um Bullet Bill me persegue enquanto eu cruzo um bosque cheio de Koopas e morro não porque o Bullet Bill me alcança ou porque eu errei um pulo e um Koopa acabou me pegando, mas porque eu fui tentar pegar uma moeda que eu nunca precisava em primeiro lugar e logo acima dela tinha a porra de um espinho e puta que pariu eu amo esses jogos demais.
 
-***
+---
 
 {:.full-width}
 ![Captura de tela do jogo](/uploads/2019/08/20-nsmb2.gif)
@@ -32,7 +33,7 @@ Vamos deixar claro que nenhum jogo de plataforma do Mario é ruim. Essa é a fra
 
 Coletar moedas é um aspecto essencial dos jogos de plataforma do Mario, e em muitos é um dos desafios mais difíceis que existem para que jogadores mais experientes possam voltar em fases mais simples e encontrarem um novo nível de dificuldade que beira à insanidade emocional. _NSMB2_ coloca esse aspecto na frente e acaba por tirar todo o fator de replay que a franquia aperfeiçoou por décadas. Nos seus melhores momentos, _NSMB2_ é uma versão bem simplória de uma das melhores séries dos videogames; nos seus piores, é uma visão desesperadora da Nintendo de tentar conseguir um dinheiro rápido enquanto o Wii U afundava.
 
-***
+---
 
 {:.full-width}
 ![Captura de tela do jogo](/uploads/2019/08/19-sml.gif)
@@ -43,7 +44,7 @@ _NSMB2_ é o único jogo dessa lista que pode ser considerado desnecessário. Ca
 
 _Super Mario Land_ só não é um jogo melhor porque é curto demais, mas ele também não tem grandes ideias para expandir como seus irmãos maiores fizeram. Então… isso também é algo bom? Ajuda que alguns níveis são tão bem fechadinhos que dá vontade de você se aperfeiçoar neles até conseguir terminá-los em 30 segundos. E _isso_ é bem difícil de fazer.
 
-***
+---
 
 {:.full-width}
 ![Mario correndo no Mundo 1-1](/uploads/2019/08/18-smr.gif)
@@ -54,7 +55,7 @@ Geralmente os jogos do Mario apresentam uma mecânica de jogabilidade de uma for
 
 No primeiro jogo de plataforma fora de um console da Nintendo, _Super Mario Run_ pula por todo o período de adaptar seu jogador à uma mecânica, e vai direto ao ponto: em uma mistura única de _endless runner_ com plataforma, _SMR_ já começa demandando ao jogador a extrapolar a tela de toque do seu celular. É uma curva de aprendizado que a série nunca explorou com tanta força antes, e que demora para começar a recompensar o jogador. Eventualmente, _Super Mario Run_ supera esses tropeços inicias e entrega uma experiência que é desafiadora mas divertida com um multiplayer simples, mas muitíssimo eficaz.
 
-***
+---
 
 {:.full-width}
 ![Mario morre com um cogumelo envenenado](/uploads/2019/08/17-smbtll.gif)
@@ -65,7 +66,7 @@ Talvez a coisa que mais me impressionou jogando os _Super Mario_ um atrás do ou
 
 Não é o que _The Lost Levels_ faz. Lançado originalmente como a continuação direta do _Super Mario Bros._ original no Japão, e chegando no ocidente uma geração depois como parte do pacote _Super Mario All-Stars_, _The Lost Levels_ é um jogo que subverte muitas das regras fundamentais do jogo anterior de Mario mais para aumentar a dificuldade do que para propôr uma nova maneira de jogar. Inimigos são empilhados ou escondidos, espinhos e buracos aparecem inesperadamente, e bugs infestam essa versão do jogo. Jogar _The Lost Levels_ nem sempre é recompensador como os outros jogos são, mas é um dos títulos da série que envelhece muito bem graças aos glitches que permitem aos jogadores descobrirem todas as excelentes formas de quebrar o jogo.
 
-***
+---
 
 {:.full-width}
 ![Mario usa o FLOOD para atravessar o mar](/uploads/2019/08/16-sms.gif)
@@ -76,7 +77,7 @@ Jogando agora, _Super Mario Sunshine_ é o jogo perfeito para continuar o legado
 
 _Sunshine_ é perfeito também por dificultar a comparação com _Super Mario 64_. Se o jogo anterior reintroduzia todos os conceitos de Mario para uma dimensão nova, o Mario do GameCube não tem uma missão tão importante. Ele é mais uma prova de que a execução de _64_ foi tão impecável que muito pouco precisou ser aperfeiçoado em termos de jogabilidade — e o FLOOD, a grande novidade, é mais um artifício para impressionar com uma ou outra invenção bacana, mas nada que a franquia fosse herdar.
 
-***
+---
 
 {:.full-width}
 ![Mario sobe uma escada de Legos](/uploads/2019/08/15-sml2.gif)
@@ -87,7 +88,7 @@ A simplicidade de _Mario Land_ é uma qualidade e um problema para o primeiro Ma
 
 Essa experimentação se estica até o ponto que _Land_ apresenta um vilão novo, uma versão ao contrário de Mario (Wario, que hoje em dia tem suas próprias aventuras) e uma jornada mais pessoal para o herói em um mundo que as vezes parece o oposto do Reino do Cogumelo. _Land 2_ é uma constante brincadeira, com seus visuais cartunescos e uma aparente simplicidade que está sempre surpreendendo por causa do seu fator de replay. É provavelmente tudo o que o _Land_ original precisava ser.
 
-***
+---
 
 {:.full-width}
 ![Mario fica gigante e destroi tudo](/uploads/2019/08/14-nsmb.gif)
@@ -98,7 +99,7 @@ _New Super Mario Bros._ foi o primeiro jogo do Mario em 2D em onze anos (desde _
 
 _NSMB_ segue à risca a fórmula de plataforma que os clássicos _Super Mario Bros. 3_ e _Super Mario World_ definiram décadas antes e apresenta poucos elementos que adicionam à experiência — um cogumelo gigante e um pequenininho são os mais divertidos. Mas o visual novo e o uso inventivo das duas telas do DS fazem _New Super Mario Bros._ ser refrescante de jogar: é _exatamente_ aquele Mario que a gente conhece e que tinha sumido por um tempo, mas está mais bonito e colorido. Como não amar?
 
-***
+---
 
 {:.full-width}
 ![Mario, Luigi, Toad e Peach com o placar final](/uploads/2019/08/13-smb2.gif)
@@ -109,7 +110,7 @@ De maneira semelhante a _Super Mario World 2: Yoshi's Island_, a continuação a
 
 _Super Mario Bros. 2_ ainda é uma continuação de um jogo muito maior, mas as mecânicas diferentes de seus personagens fazem com que os estágios sejam repletos de segredos muito específicos que só podem ser desbloqueados em condições específicas, o que faz o jogador _querer_ voltar a esse jogo diversas vezes (algo que a Nintendo ia aperfeiçoar tanto nos jogos seguintes que foi um problema pra execução própria deste post!)
 
-***
+---
 
 {:.full-width}
 ![Mario cantando a Macarena](/uploads/2019/08/12-smo.gif)
@@ -122,7 +123,7 @@ _Odyssey_ transforma Mario em sapos, árvores, estátuas e até mesmo em Goombas
 
 Mas também, embora apresente tantas mecânicas novas e satisfaça até mesmo o mais experiente dos jogadores, que vai conseguir realizar os movimentos dificílimos que o jogo pede com sequências de botões surreais, _Odyssey_ nunca leva todas essas mecânicas a um clímax onde elas se complementam da mesma forma que outros jogos da franquia conseguiam. Ao invés de dificultar, jogos como _Mario 64_ e _Galaxy 2_ brincam de reformular suas mecânicas somando umas às outras de maneiras inventivas que nos fazem repensar os fundamentos de Mario. _Odyssey_ nunca vai a tal ponto, mas nos apresenta todas as novas brincadeiras que em breve vão ser elevadas dessa forma.
 
-***
+---
 
 {:.full-width}
 ![Luigi destroi uma fileira de Goombas](/uploads/2019/08/11-nsmbu.gif)
@@ -133,7 +134,7 @@ Muitas vezes é difícil de ver porque um jogo do Mario é bom, como eu falhei c
 
 É gratificante como poucas coisas nessa vida. E _NSMBU_ faz isso em um jogo enorme, e na quarta potência (e ei, pra um jogo dessa década funcionar _tão bem_ em um videogame já é um milagre, imagina num Wii U).
 
-***
+---
 
 {:.full-width}
 ![Yoshi atira um ovo-bomba](/uploads/2019/08/10-smw2.gif)
@@ -144,7 +145,7 @@ _Yoshi's Island_ é uma continuação de um jogo quase perfeito, e não tem o f�
 
 Em _World_, Yoshi possui duas características principais: sua língua comprida e sua velocidade. É fácil esquecer que não é de _SMW_ que o pulo flutuante e o carisma do Yoshi que são característicos do personagem. _Yoshi's Island_ apresenta esses detalhes através de uma mecânica de jogabilidade tão intensa e intrincada com seus visuais riquíssimos (o jogo faz o SNES suar) ao expandir as capacidades do dino que pode atirar ovinhos (!), mudar de forma (!!) e tem uma voz fofa pra caramba (!!!). É tão estranho a gente não lembrar tanto de _Yoshi's Island_ hoje em dia, porque muito do que consideramos fundamental da franquia foi apresentado aqui.
 
-***
+---
 
 {:.full-width}
 ![Mario morre por causa de um Goomba](/uploads/2019/08/9-smb.gif)
@@ -155,7 +156,7 @@ Imagina como deve ser difícil você criar um personagem que o jogador possa con
 
 Por trás da aparente simplicidade de um jogo como _Super Mario Bros._ vive a exceção à regra que os jogos dessa série levam como cotidiano: a extrema perfeição de jogabilidade, de um game design calculado de tal maneira que retribui o jogador por aprender uma mecânica ou por aperfeiçoá-la. É tão difícil fazer isso, e é mais difícil fazer isso parecer tão natural como _Super Mario Bros._ faz ser. E ele ganha mais pontos pela sua simplicidade — é um jogo que pode ser vencido em menos de uma hora, porque essa perfeição natural se estende a cada elemento na tela em um tempo que era necessário calcular o quanto era possível colocar num cartucho. Cada bloco e cada pulo de Mario teve que ser calculado para esse jogo ser tão bom quanto pudesse ser. E hoje, mais de trinta anos depois, ainda é.
 
-***
+---
 
 {:.full-width}
 ![Um poste foge do Cat Mario](/uploads/2019/08/8-sm3dw.gif)
@@ -166,20 +167,20 @@ _Super Mario 3D World_ (que eu joguei em um emulador no PC porque honestamente q
 
 _3D World_ expande e preenche os mundos de _3D Land_ para dar mais espaço para os quatro jogadores poderem explorar os níveis com liberdade o suficiente, mas mesmo assim o jogo continua sendo baseado em cursos e todos precisam seguir até o poste que termina esses cursos. Mas ao invés de incentivar o caos como _NSMBW_, _3D World_ investe em permitir que os jogadores explorem esses cursos da forma que melhor suprir seus personagens. Ajuda também que o jogo retribui com uma pancada de itens (inclusive a novíssima roupinha de gato que meu deus) e uma beleza visual que dá inveja até mesmo no _Odyssey_.
 
-***
+---
 
 {:.full-width}
 ![Mario, Luigi e dois Toads se enfrentam em vários estágios do Reino](/uploads/2019/08/7-nsmbw.gif)
 
 ## 7. _New Super Mario Bros. Wii_ (Wii, 2010)
 
-Aqui vai um grande segredo: _New Super Mario Bros. Wii não é um jogo do _Super Mario_. É um jogo com os personagens de Mario e parece um jogo de plataforma. Mas na verdade o que move ele é o mesmo preceito de _Super Smash Bros._: completo caos.
+Aqui vai um grande segredo: _New Super Mario Bros. Wii não é um jogo do \_Super Mario_. É um jogo com os personagens de Mario e parece um jogo de plataforma. Mas na verdade o que move ele é o mesmo preceito de _Super Smash Bros._: completo caos.
 
 _NSMBWii_ pode ser jogado como um jogo singleplayer, mas isso honestamente é contra seu propósito: é um jogo com cenários espaçosos que está pronto para deixar os quatro personagens (Mario, Luigi e dois Toads) se destruirem enquanto decidem quem vai conseguir alcançar o poste no final dos cursos. Em certos momentos sequer importa que a câmera está mais distante dos personagens, é impossível ver qualquer coisa porque alguém explodiu um Koopa que bateu num POW e tudo se transformou em moeda e agora todo o mundo morreu em menos de três segundos.
 
 Sério, é perfeito.
 
-***
+---
 
 {:.full-width}
 ![Mario pega o Bowser pelo rabo](/uploads/2019/08/6-sm64.gif)
@@ -192,7 +193,7 @@ Isso faz com que _Super Mario 64_ seja pior de jogar hoje em dia do que _Ocarina
 
 Ajuda muito que _Mario 64_ ainda é muito divertido de jogar: há um apreço pelos detalhes no jogo que estabeleu um nível muito alto para seus sucessores bater (e é compreensível porque _Sunshine_ teve que se esticar do jeito que se esticou para ser inventivo). _64_ brinca com a ênfase dos seus conceitos mais simples para revitaliza-los e prepará-los para toda uma nova geração. Considerando que demorou anos para que outros jogos alcançassem esse patamar, e mais ainda para superá-lo, é um legado imenso que o escopo de _Mario 64_ faz questão de nos lembrar — desde os controles de câmera até os pulos infinitos de Mario, tudo aqui parece novo a todo o momento, e ainda assim funciona do mesmo jeito que funcionava antes. É como mágica.
 
-***
+---
 
 {:.full-width}
 ![Mario e Peach saem voando do Reator Estelar de Bowser](/uploads/2019/08/5-smg.gif)
@@ -205,7 +206,7 @@ Se isso faz você imaginar que _Super Mario Galaxy_ é um jogo que restringe a j
 
 Poucos jogos são tão perfeitos como _Super Mario Galaxy_, que tem o uso mais ideal do sensor de movimentos do Wii e explora o poder de processamento do videogame até o seu limite. É impressionante como a Nintendo conseguiu tirar visuais tão lindos e tão únicos de uma plataforma tào fraca, mas _Galaxy_ faz isso 120 vezes seguidas.
 
-***
+---
 
 {:.full-width}
 ![Tanooki Mario corre de um Bowser gigante](/uploads/2019/08/4-sm3dl.gif)
@@ -218,7 +219,7 @@ Poucos jogos são tão perfeitos como _Super Mario Galaxy_, que tem o uso mais i
 
 _3D Land_ também é lindo. Herdando a beleza visual de _Galaxy_, o jogo usa o poder gráfico do 3DS para entregar um dos mundos mais vívidos da franquia, cheio de cores, texturas e pesos. E tem uma pequena surpresa final, quando você enfrenta o Bowser e descobre que essa é só a primeira metade do jogo, apresentando depois _ainda mais_ boas ideias para você explorar.
 
-***
+---
 
 {:.full-width}
 ![Mario arrasa com um monte de blocos](/uploads/2019/08/3-smb3.gif)
@@ -231,7 +232,7 @@ _SMB3_ foi lançado já no fim da vida do NES, e por anos os consoles de 16 bits
 
 Coloque um controle na mão de uma pessoa ela aprenderá os conceitos mais básicos logo na primeira tela de forma quase instintiva. _Super Mario Bros. 3_ conversa com seu jogador de uma forma íntima e animal. Não é a toa que ainda é considerado o ápice da franquia e um dos melhores jogos de todos os tempos. Ele é. É só jogar para provar.
 
-***
+---
 
 {:.full-width}
 ![Yoshi engole um balão e sai voando](/uploads/2019/08/2-smg2.gif)
@@ -244,7 +245,7 @@ No fim das contas, _Super Mario_ são jogos de confiança. Você sobe aquela col
 
 É algo que _Galaxy_ já fazia, mas não com a mesma frequência ou intensidade. _Galaxy 2_ não só eleva tudo à enésima potência, mas também reapresenta o Yoshi na jogada, que revitaliza as mecânicas de _Yoshi's Island_ que há anos foram relegadas a spin-offs. _Super Mario Galaxy_ queria dar a impressão que você atravessava um espaço sideral de fases do _Super Mario_, mas é _Galaxy 2_ que entrega essa promessa naquele que talvez seja o jogo 3D definitivo.
 
-***
+---
 
 {:.full-width}
 ![Tela de título do Super Mario World](/uploads/2019/08/1-smw.gif)

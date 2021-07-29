@@ -1,8 +1,8 @@
 ---
-date: '2019-04-17 09:00:00 -0300'
+date: "2019-04-17 09:00:00 -0300"
 layout: post
 title: A Notre Dame de Victor Hugo
-image: 'https://i.imgur.com/mgAX8vK.jpg'
+image: "https://i.imgur.com/mgAX8vK.jpg"
 tags:
   - requentando
   - leituras
@@ -10,7 +10,9 @@ tags:
   - Victor Hugo
   - momentos
 author: arthurf
+permalink: "/post/658052212642152448/"
 ---
+
 “Paris foi decapitada”, [disse um homem ao New York Times](https://www.nytimes.com/2019/04/15/world/europe/notre-dame-fire.html) quando o pináculo da Catedral de Notre Dame caiu, consumida pelas chamas.
 
 Ainda não se tem ideia do quanto da Notre Dame se perdeu no incêndio de segunda-feira, mas o evento foi acompanhado pelo mundo com tristeza e desespero. O fogo não apenas ameaçou levar um dos mais conhecidos espaços sagrados do ocidente, e não apenas um tesouro artístico. Notre Dame, e obras arquitetônicas como ela espalhadas pelo mundo, são uma lembrança da realização humana como sociedade. Notre Dame não é a obra de uma pessoa, mas de gerações e gerações que a construíram, das gerações que a visitaram, e da geração que, por um momento, imaginou perdê-la.
@@ -23,10 +25,10 @@ Notre Dame representa, em sua arquitetura e em seu legado como arte, a beleza da
 
 ![Capa da primeira edição de Notre Dame de Paris](https://i.imgur.com/2B4A9tQ.jpg)
 
-“Grandes construções, como grandes montanhas, são o trabalho de séculos”, escreve Hugo em _Notre Dame de Paris_, o romance que ficou conhecido por aqui como _O Corcunda de Notre Dame_. “A arte  sofre uma transformação enquanto pendente […]. A nova arte toma o monumento onde o encontra, nele se incrusta, assimila-o a si mesmo, desenvolve-o de acordo com a sua fantasia e o termina se puder”. O autor continua:
+“Grandes construções, como grandes montanhas, são o trabalho de séculos”, escreve Hugo em _Notre Dame de Paris_, o romance que ficou conhecido por aqui como _O Corcunda de Notre Dame_. “A arte sofre uma transformação enquanto pendente […]. A nova arte toma o monumento onde o encontra, nele se incrusta, assimila-o a si mesmo, desenvolve-o de acordo com a sua fantasia e o termina se puder”. O autor continua:
 
 > O homem, o artista, o indivíduo, se apagam nessas grandes massas, que carecem do nome de seu autor; a inteligência humana está aí resumida e totalizada. O tempo é o arquiteto, a nação é o construtor.
-> 
+>
 > Todas essas tonalidades, todas essas diferenças, não afetam apenas as superfícies dos edifícios. Foi a arte que mudou de pele. […]
 
 Victor Hugo escreveu _O Corcunda de Notre Dame_ como uma ode à catedral, que na época sucumbia à falta de restauro e manutenção. Notre Dame era considerada antiquada, símbolo de uma outra França, de um outro povo, e por isso acabou negligenciada e vandalizada. O livro de Victor Hugo, uma obra magnífica por si só (e muitíssimo extensa, não tome como parâmetro a [excelente] animação da Disney), lê-se hoje como uma celebração do quão magnífica era uma realização humana como a Notre Dame, e quão triste seria perdê-la — o livro começa com Hugo prevendo que a igreja em breve “desapareceria da face da terra”.

@@ -1,15 +1,15 @@
 ---
-date: '2019-03-29 09:00'
+date: "2019-03-29 09:00"
 layout: post
 title: A justiça que nos cerca
 author: arthurf
-image: 'https://i.imgur.com/YieSypth.jpg'
+image: "https://i.imgur.com/YieSypth.jpg"
 tags:
   - essenciais
   - links
   - podcasts
   - Serial
-published: true
+permalink: "/post/658051351918559232/"
 ---
 
 A terceira temporada de _Serial_ começa com a história de Anna, uma mulher que se meteu em um briga de bar depois de vários homens agarrarem ela. Anna acabou sendo a única presa e acusada (de agredir um policial) no incidente. Durante o episódio, Anna vai precisar visitar o tribunal várias vezes para as várias etapas do seu julgamento; vai ser enterrada em taxas administrativas pra pagar; e vai aprender sobre “inocência como uma contravenção” — a ideia de que o sistema de justiça dá mais incentivos para encorajar pessoas marginalizadas para declarar-se como culpadas em crimes que elas não cometeram.
@@ -24,12 +24,11 @@ Nas temporadas anteriores, _Serial_ usava sua serialidade para se aprofundar nas
 ![Mural na parede lateral de um bar, exibindo uma mulher jurando perante a corte](https://i.imgur.com/oLZCCNAh.jpg)
 _Um artista foi convidado para aplicar um mural em uma área relevante para cada episódio._
 
-
 Spencer acaba no hospital com um osso orbital quebrado, com risco de ficar cego. Em seguida, ouvimos um juiz ameaçar outro homem de aumentar sua sentença se ele tiver mais filhos. O réu escuta calado porque sabe que o Juiz Gaul, um homem branco, gosta de falar mas dá sentenças mais leves. Ouvindo essas histórias, a aparência de que o caso de Anna, que saiu da sua sentença apenas com uma dívida para a vida inteira, talvez tenha sido o melhor resultado possível.
 
 Com esse mergulho, _Serial_ nos proporciona uma visão íntima e horripilante de como os sistemas de justiça americanos interagem e afetam as comunidades às quais eles supostamente servem. Talvez o ponto alto da temporada seja no momento em que Koenig conhece a mãe de Tamir Rice, outro garoto negro morto por um policial branco na cidade. Em uma reunião da polícia com a população, impaciência de Samaria Rice é palpável. E _Serial_ faz questão de mostrar o porquê quando um representante da polícia pergunta para ela — a mãe de um garoto morto pela mesma força policial — o que ela pode fazer para ajudá-los. Rice é categórica: não é papel da população ajudar a polícia à entendê-los, e sim da força de mudar seu pensamento de se defender mas confrontar a população. Koenig não pergunta para Rice o que ela quer dizer com isso, mas vai atrás da polícia em si para procurar ilustrar o problema. Minutos depois, ouvimos o presidente do sindicato dos policiais que a culpa da morte de qualquer suspeito morto pela polícia é do próprio suspeito. “Um garoto num corpo de homem”, o presidente diz. “Ele sabia exatamente porque os policiais estavam correndo atrás dele”. Ao invés de permitir a retórica racista do homem, Koenig apenas resume sua opinião como “Ações de suspeitos promovem a reação policial”, em uma aula de como apresentar ambos os lados sem propagandear o ódio de um dos lados.
 
-É nesse terceiro episódio, a partir dessa fala de Samaria Rice, que _Serial_ mostra o efeito-cascata da falta de confiança entre a comunidade e a polícia. Quando uma criança é morta na porta de casa e ninguém oferece informações do que aconteceu. Num lugar onde não há relações entre as forças da lei e a população, se alguém oferece algum detalhe ou é suspeito, ou é coagido. O que leva à pessoa errada a ser acusada. O que leva à mais uma vida destruída e mais desconfiança do sistema que deveria protegê-la. O que leva mais incerteza para a comunidade, e o que eventualmente à destrói por ser, como diz os noticiários, “violenta demais”. Nesse ponto  de _Serial_, que se tornou um fenômeno por escavar à fundo para descobrir a verdade, ela parece inatingível.
+É nesse terceiro episódio, a partir dessa fala de Samaria Rice, que _Serial_ mostra o efeito-cascata da falta de confiança entre a comunidade e a polícia. Quando uma criança é morta na porta de casa e ninguém oferece informações do que aconteceu. Num lugar onde não há relações entre as forças da lei e a população, se alguém oferece algum detalhe ou é suspeito, ou é coagido. O que leva à pessoa errada a ser acusada. O que leva à mais uma vida destruída e mais desconfiança do sistema que deveria protegê-la. O que leva mais incerteza para a comunidade, e o que eventualmente à destrói por ser, como diz os noticiários, “violenta demais”. Nesse ponto de _Serial_, que se tornou um fenômeno por escavar à fundo para descobrir a verdade, ela parece inatingível.
 
 <iframe src="https://serialpodcast.org/embed/250" width="375" height="400"  webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 

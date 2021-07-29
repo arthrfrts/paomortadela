@@ -9,6 +9,7 @@ tags:
   - listas
   - filmes
   - blockbusters
+permalink: "/post/658060025568378880/"
 ---
 
 Na primeira metade de 2019 eu comentei com um amigo meu que eu queria muito assistir _Godzilla II: Rei dos Monstros_. Vários motivos me fizeram dar essa importante declaração: 1. o [trailer do filme](https://youtu.be/wVDtmouV9kM) é sensacional; 2. nenhum filme do _Godzilla_ é ruim; e 3. eu amo um fracasso de bilheteria, e _Godzilla II_ parecia muito que ia ser bem o meu tipinho de fracasso.
@@ -24,11 +25,12 @@ Esses filmes não são bons porque foram um fracasso, nem são um fracasso porqu
 
 Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mais perderam dinheiro:
 
-***
+---
 
 ## A Grande Muralha (_The Great Wall_, 2016)
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/gd2n92fKtvo"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 75 milhões de dólares
@@ -39,11 +41,12 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 
 **É ruim? Vou gostar?** Quase. O filme tem seus problemas, mas nunca é chato. Se a história deixar de fazer sentido ali no meio, nem esquenta a cabeça, Zhang Yimou vai te deixar satisfeito com as batalhas belíssimas.
 
-***
+---
 
 ## _Blade Runner 2049_ (2017)
 
 {: .full-width }
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/gCcx85zbxz4"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 82 milhões de dólares
@@ -54,11 +57,12 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 
 **É ruim? Vou gostar?** Eu não acho ruim. Inclusive acho excelente. Mas se o tom do _Blade Runner_ original parece firula demais pra você, _BR2049_ é basicamente isso na segunda potência.
 
-***
+---
 
 ## _Speed Racer_ (2008)
 
 {: .full-width }
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/8V8sLlqJB2w"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 93 milhões de dólares
@@ -69,9 +73,10 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 
 **É ruim? Vou gostar?** Olha, o filme foi uma piada quando foi lançado, mas hoje em dia é considerado um dos filmes mais subestimados dos anos 2000.
 
-***
+---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/1k59gXTWf-A"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Tomorrowland: Um Lugar Onde Nada É Impossível (_Tomorrowland_, 2015)
@@ -84,11 +89,12 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 
 **É ruim? Vou gostar?** É. Quer dizer, é de longe o pior filme do Brad Bird, que também é um dos melhores diretores americanos em atividade hoje em dia. Mas é um filme com ideias demais na cabeça e se perde frequentemente em tentar colocar elas na tela. Você vai ficar tão perdido quanto a personagem principal no meio do filme que simplesmente se perde e não sabe o que fazer. Bem realista.
 
-***
+---
 
 ## A Invenção de Hugo Cabret (_Hugo_, 2011)
 
 {: .full-width }
+
 <iframe width="806" height="436" src="https://www.youtube-nocookie.com/embed/Hv3obL9HqyY"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 101 milhões de dólares
@@ -99,14 +105,15 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 
 **É ruim? Vou gostar?** Não e sim! _Hugo_ é um filme muito divertido e provavelmente o mais redondinho dessa lista. É ótimo pra ver com a família na noite de Natal, vai por mim.
 
-***
+---
 
 ## Uma Dobra no Tempo (_A Whinkle In Time_, 2018)
 
 {: .full-width }
+
 <iframe width="806" height="335" src="https://www.youtube-nocookie.com/embed/GDP3GO1lILI"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**O prejuízo:** 131 milhões 
+**O prejuízo:** 131 milhões
 
 **O que é:** A grande Ava DuVernay dirige a adaptação de um livro considerado inadaptável com a Oprah gigante. 10/10.
 
@@ -114,11 +121,12 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 
 **É bom? Vou gostar?** Eu gosto, mas eu não tenho ideia se você vai gostar ou vai achar louco demais. É bem único, isso sim (e é bom ver a Disney apostando pesado em um filme diferente demais, pra variar um pouco).
 
-***
+---
 
 ## _Final Fantasy_ (_Final Fantasy: The Spirits Within_, 2001).
 
 {: .full-width }
+
 <iframe width="1280" height="557" src="https://www.youtube-nocookie.com/embed/GnE64DbnUzY"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** 133 milhões de dólares
@@ -129,11 +137,12 @@ Aqui vão meus fracassos favoritos do cinema, dos mais bem sucedidos aos que mai
 
 **É bom? Vou gostar?** _Final Fantasy_ é mais curioso do que bom, mas ele é _muito_ curioso de se assistir, porque é bem escancarado que é uma vitrine para o poder artístico da equipe de desenvolvimento da Square em criar modelos humanos. O filme, porém, falha em capturar qualquer humanidade emocional — e a distância dos jogos que o inspiraram faz ele ser uma peça de museu bem mais do que um fan service.
 
-***
+---
 
 ## John Carter: Entre Dois Mundos (_John Carter_, 2012)
 
 {:.full-width}
+
 <iframe width="1280" height="557" src="https://www.youtube-nocookie.com/embed/nlvYKl1fjBI"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **O prejuízo:** entre 138 milhões e 213 milhões de dólares.

@@ -1,7 +1,7 @@
 ---
-date: '2019-10-23 10:30 -0300'
+date: "2019-10-23 10:30 -0300"
 layout: post
-title: 'Socorro, eu não consigo sair de Pocket City'
+title: "Socorro, eu não consigo sair de Pocket City"
 image: /uploads/2019/10/pocket-city.jpg
 author: arthurf
 tags:
@@ -9,7 +9,7 @@ tags:
   - jogos
   - simulação
   - iOS
-published: true
+permalink: "/post/658059717499863041/"
 ---
 
 Eu acho que simulação é o meu gênero favorito de jogo. Eu já escrevi várias vezes aqui sobre [The Sims]({% post_url 2014/2014-08-11-the-sims-4-parece-ser-de-uma-nova-maxis %}) e [Spore]({% post_url 2019/2019-05-31-spore %}) e [The Sims]({% post_url 2019/2019-02-15-vivendo-e-crescendo-com-the-sims %}) de novo. É um gênero que retribui o nível de atenção que eu estou disposto a dar. Se eu me sinto inspirado e me dedico, eu posso passar gerações inteiras com meus Sims no _The Sims_. Se eu quero só relaxar um pouco, basta colocar umas zonas residenciais e comerciais no meio de um terreno pra ver uma cidade tomar forma e se ajeitar no _SimCity 4_.
@@ -19,6 +19,7 @@ Simulação é um gênero gigante nos jogos. No final da década de 1980, em mei
 Não ajuda que o gênero sofreu bastante na última década: o último _SimCity_ foi um fracasso; _Cities: Skylines_ é ótimo… como um construtor de cidades, mas não um simulador; e as centenas de joguinhos de celular que imitam os líderes do gênero são atulhados de temporizadores e microtransações, quebrando completamente o fluxo da jogatina. E é por isso que _Pocket City_ me impressionou ainda mais.
 
 {: .full-width }
+
 <iframe width="427" height="240" src="https://www.youtube-nocookie.com/embed/fEwT-u1qvzI"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [_Pocket City_](https://pocketcitygame.com) custa R$ 11,90 no Google Play e R$ 10,90 no na App Store, e é isso. Sem microtransações, sem “tempos de construção” que duram duas horas (ou 1 minuto se você pagar R$1,99!). Comprando o jogo você tem uma experiência completa que vale muito a pena.

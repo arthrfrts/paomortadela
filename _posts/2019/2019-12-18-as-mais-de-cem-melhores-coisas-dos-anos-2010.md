@@ -15,7 +15,8 @@ tags:
   - jogos
   - canais
   - clipes
-image: '/uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/capa.jpg'
+image: "/uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/capa.jpg"
+permalink: "/post/658061294524661760/"
 ---
 
 Quando eu e o Fillipe começamos com a ideia que resultaria no PCM, em 2012, nosso objetivo era criar um espaço onde nosso grupo de amigos podiam recomendar, uns para os outros, aquilo que gostávamos naquele momento. Das músicas que ouvíamos nas nossas reuniões na garagem da casa dos meus pais aos filmes que estávamos empolgados para assistir (teve um momento que esse filme era o _Alice no País das Maravilhas_ do Tim Burton, essa década foi uma bagunça).
@@ -26,7 +27,7 @@ Então, pra acabar o ano e acabar a década, eu decidi voltar à esse espírito.
 
 A proposta foi simples: eu pedi que cada um deles me enviasse uma lista daquilo que mais gostaram nos anos 2010. Alguns me deram várias listas, outros me deram uma lista com justificativas, outros foram criando uma lista enquanto conversávamos sobre as coisas que gostávamos. Cada uma delas é única e deliciosa de ler, e acho que é o jeito certo de encerrar um ano bem produtivo pra esse blog. São 118 dicas no total (agrupando repetidas e partes de outras coisas), e eu não poderia pedir um retrato melhor da última década do que esse.
 
-***
+---
 
 ### Afonso Alban
 
@@ -63,14 +64,13 @@ _Donald Glover e Lakeith Stanfield em Atlanta._
 5. [_A Rede Social_](https://www.netflix.com/title/70132721) (David Fincher, 2010)
 6. _Coringa_ (Todd Philips, 2019)
 
-***
+---
 
 ## [Emanuele Spies](/autor/emanueles)
 
 {: .full-width}
 ![Uma mulher olha para o pára-brisa do carro, coberto de neve]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/carol.jpeg %})
 _Rooney Mara em Carol._
-
 
 Os padeiros do PCM me pediram para refletir sobre a minha lista da década. Aquelas coisas que me marcaram nos últimos dez anos. Eu tenho certeza que ela é completamente enviesada nos últimos 5 anos muito mais do que os primeiros 5. Mas acredito que isso seja até natural, afinal a gente tende a lembrar com mais carinho das coisas que nos marcaram recentemente.
 
@@ -157,7 +157,7 @@ Fui ficando boa no jogo. Trazendo novos amigos pra jogar juntos. Até um videoga
 Nenhum jogo chegou a esse nível. Nenhum jogo me fez acompanhar história de personagem. Atualizações constantes. Jogar os eventos até o fim. Acompanhar o campeonato mundial! Sim, eu virei essa pessoa.
 Atualmente não tenho mais videogame, e de todos os jogos que acumulei nos últimos 8 anos com consoles, somente um faz falta. _Overwatch_.
 
-***
+---
 
 ## [Guilherme Bragança](/autor/guilhermeb/)
 
@@ -201,11 +201,11 @@ _(Nota do editor: Sim)_
 
 **Nintendo Switch**. O Switch foi o terceiro console Nintendo que tive na vida, antes dele tive um GameBoy Color e o SNES, no momento que liguei o meu pela primeira vez pensei comigo “ok, esse foi o melhor eletrônico que já comprei na vida”.
 
-**_Final Fantasy XIV: A Realm Reborn_ (Square Enix, 2013)**. Esse aqui foi uma das maiores histórias de superação na indústria dos games, o jogo começou com tantos problemas de bugs e gameplay que [resolveram simplesmente aniquilar](https://www.youtube.com/watch?v=YgEg8kXmifo) o mundo todo e começar de novo em A_ Realm Reborn_. Para mim ele é o melhor MMORPG já feito então podem cancelar todos os outros (estou olhando para você, _WoW Classic_).
+**_Final Fantasy XIV: A Realm Reborn_ (Square Enix, 2013)**. Esse aqui foi uma das maiores histórias de superação na indústria dos games, o jogo começou com tantos problemas de bugs e gameplay que [resolveram simplesmente aniquilar](https://www.youtube.com/watch?v=YgEg8kXmifo) o mundo todo e começar de novo em A* Realm Reborn*. Para mim ele é o melhor MMORPG já feito então podem cancelar todos os outros (estou olhando para você, _WoW Classic_).
 
 **O final de _Boa Noite PunPun_ (Inio Asano, 2013)**. Tem duas coisas no mundo que me fazem chorar 100% das vezes: cachorros sofrendo e o volume final de _Boa Noite PunPun_.
 
-***
+---
 
 ## Leonardo Michelon
 
@@ -213,9 +213,9 @@ _(Nota do editor: Sim)_
 ![Um rosto no meio da escuridão da noite, em Cavalo Dinheiro]({% link uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/twin-peaks.jpeg %})
 _Twin Peaks: O Retorno, de David Lynch._
 
-Eu acho que a gente vive em um tempo sem esperança.  Eu sou um fã desse negócio de “sinais dos tempos”, e mesmo sabendo que uma época não pode ser resumida num tema só, o que eu observo vendo essa lista é esse grande apreço pela nostalgia, já que as pessoas não tem como saber o que vem pela frente, viram pra trás. Essa ideia de que o tempo é uma repetição infinita nunca esteve tão clara, e eu acho que de fato o futuro não esta na incerteza, mas na reafirmação de coisas óbvias que muitas vezes a gente acaba esquecendo.
+Eu acho que a gente vive em um tempo sem esperança. Eu sou um fã desse negócio de “sinais dos tempos”, e mesmo sabendo que uma época não pode ser resumida num tema só, o que eu observo vendo essa lista é esse grande apreço pela nostalgia, já que as pessoas não tem como saber o que vem pela frente, viram pra trás. Essa ideia de que o tempo é uma repetição infinita nunca esteve tão clara, e eu acho que de fato o futuro não esta na incerteza, mas na reafirmação de coisas óbvias que muitas vezes a gente acaba esquecendo.
 
--  _Tio Boonmee, Que Pode Recordar de Suas Vidas Passadas_ (Apichatpong Weerasethakul, 2010)
+- _Tio Boonmee, Que Pode Recordar de Suas Vidas Passadas_ (Apichatpong Weerasethakul, 2010)
 - _La Folie Almayer_ (Chantal Akerman, 2011)
 - _Cavalo Dinheiro_ (Pedro Costa, 2014)
 - [_Ela Volta Na Quinta_](https://www.looke.com.br/filmes/ela-volta-na-quinta) (André Novais, 2014)
@@ -229,7 +229,7 @@ Eu acho que a gente vive em um tempo sem esperança.  Eu sou um fã desse negóc
 
 Obs.: a lista tá em ordem de lançamento.
 
-***
+---
 
 ## [Raul Fontoura](/autor/raulf/)
 
@@ -240,6 +240,7 @@ _Night in the Woods, do estúdio Infinite Fall._
 Fiz minha lista tentando trazer o que foi pra mim o espírito da década: o tipo de jogo, série, filme e música que conversou com os meus anseios, meus medos, minhas experiências. Entrar em um emprego, a encruzilhada de o que estudar na faculdade, sair da casa dos pais em maus termos por causa da minha bissexualidade, viver os anos do jovem baladeiro, lidar com abuso e trauma, compreender as próprias escolhas, e até reavaliar a forma como eu tomava escolhas. Essa década basicamente marcou o caminho da minha saída da "infância" para a vida adulta, de forma até bem caricata - do meu primeiro beijo até o meu primeiro divórcio, literalmente. A lista reflete um pouco dessa pessoa que eu fui nesse tempo, a pessoa que eu deixei de ser, e a pessoa que eu passei a ser pessoal, política e socialmente. Quem será que eu posso ser daqui 10 anos?
 
 {: reversed="reversed"}
+
 1. [_The Suburbs_](https://open.spotify.com/album/3DrgM5X3yX1JP1liNLAOHI) (Arcade Fire, 2010)
 2. _The Legend of Zelda: Breath of The Wild_ (Nintendo, 2017)
 3. [_Language_](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) (MNEK, 2016)
@@ -251,7 +252,7 @@ Fiz minha lista tentando trazer o que foi pra mim o espírito da década: o tipo
 9. [_Que Horas Ela Volta_](https://www.telecineplay.com.br/filme/Que_Horas_Ela_Volta_3679) (Anna Muylaert, 2015)
 10. [_Night In The Woods_](http://www.nightinthewoods.com) (Infinite Fall, 2017)
 
-***
+---
 
 ## Tainara Fraga
 
@@ -260,6 +261,7 @@ Fiz minha lista tentando trazer o que foi pra mim o espírito da década: o tipo
 _Elizabeth Moss em Mad Men._
 
 **Séries:**
+
 - [_Mad Men_](https://www.netflix.com/title/70136135) (AMC, 2007–2015)
 - [_Sherlock_](https://www.netflix.com/title/70202589) (BBC, 2010–)
 - [_Girls_](https://www.hbogo.com.br/content/5683eb73-cc9a-4a52-be5b-bbd6fa9f82aa) (HBO, 2012–2017)
@@ -307,6 +309,7 @@ _Elizabeth Moss em Mad Men._
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/WDZJPJV__bQ"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Videoclipes:**
+
 - _Formation_ (Beyoncé) (acima)
 - [_Moonlight_](https://youtu.be/O6Y5-hlTreU) (Jay-Z)
 - [_Queen of Peace_](https://youtu.be/KSM0lLbVYOo) (Florence + the Machine)
@@ -315,12 +318,14 @@ _Elizabeth Moss em Mad Men._
 - [_St. Jude_](https://youtu.be/xEMSJf723BI) (Florence + the Machine)
 
 **Música:**
+
 - [_St. Jude_](https://open.spotify.com/track/6yaxFXK0ABNEee6SmeQMKg) (Florence + the Machine)
 - [_Don't Know How to Keep Loving You_](https://open.spotify.com/track/2MncBwEd2IVUA72OGcpeuy) (Julia Jacklin)
 - [_Writer in The Dark_](https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc) (Lorde)
 - [_Ride_](https://open.spotify.com/track/7yFMhCJOsH7khgpdnyrZAZ) (Lana Del Rey)
 
 **Discos:**
+
 - [_How Big How Blue How Beautiful_](https://open.spotify.com/album/2btszoya78vyT8fwelmVnz) (Florence + the Machine)
 - [_Don't Let the Kids Win_](https://open.spotify.com/album/1BAQysvP0rnwlOqcFeijh3) (Julia Jacklin)
 - [_Melodrama_](https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF) (Lorde)
@@ -337,12 +342,13 @@ _Elizabeth Moss em Mad Men._
 <iframe width="695" height="521" src="https://www.youtube-nocookie.com/embed/oD4ap_0wRAY"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Melhor abertura de série:**
+
 - _True Blood_ (HBO) (acima)
 - [True Detective](https://youtu.be/FxXRkqXfhYM) (HBO)
 - [Big Mouth](https://youtu.be/TSWPOp7mQxM) (Netflix)
 - [Westworld](https://youtu.be/DAbOkBvVe7U) (HBO)
 
-***
+---
 
 ## [Arthur Freitas](/autor/arthurf/)
 
@@ -369,6 +375,5 @@ Dez anos depois, muita coisa mudou no mundo. É fácil um álbum sobre sentir sa
 **_The Leftovers_ (HBO, 2014–2017)**. A sinopse oficial da series finale de _The Leftovers_ é “Nada é respondido. Tudo é respondido. E então acaba”. Para uma série que se preocupava em enxergar as maiores perguntas possíveis (qual o sentido de tudo, o que há depois da morte, existe uma força maior?), essa é uma sinopse capaz de gerar grandes expectativas e muita decepção, algo que é comum para o criador da série, Damon Lindelof (de _Lost_ e da adaptação de _Watchmen_ para a HBO). Mas, quer saber? Ela é perfeita. Não só para a finale, mas para a série inteira. Em suas três temporadas, _The Leftovers_ criou uma experiência em que o espectador não espera por nada porque não sabe o que esperar, e fica contente com aquilo que vier. Seria fácil seguir o caminho simples, entregar qualquer coisa que viesse à cabeça dos roteiristas e deixar assim, mas _The Leftovers_ entrega tudo, inclusive respostas. E então acaba. Foi a experiência emocional mais forte que tive nesses dez anos, uma montanha russa entre a depressão, a euforia, a íntima felicidade e, finalmente, um certo tipo de paz. _The Leftovers_ foi a série que perguntou as maiores perguntas possíveis, e me ensinou a não me apavorar com a falta de respostas, mas aceitar que a beleza da vida é correr atrás delas até o final.
 
 Eu escrevi sobre _The Leftovers_ em 2015, [sobre a segunda temporada](/2015/12/the-leftovers-segunda-temporada/), e em 2017, [sobre a última](/2017/09/the-leftovers-s03/).
-
 
 [^1]: Vou contar os dois jogos como um pois não consigo escolher o melhor entre eles

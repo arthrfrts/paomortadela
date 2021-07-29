@@ -1,5 +1,5 @@
 ---
-date: '2019-01-24 09:00 -0200'
+date: "2019-01-24 09:00 -0200"
 layout: post
 title: Guia PCM pro Oscar
 excerpt: Nós te ajudamos a assistir os filmes indicados ao Oscar desse ano.
@@ -10,8 +10,8 @@ tags:
   - Oscar
   - Não é Mad Max
 author: arthurf
-image: 'https://i.imgur.com/iVjDPWW.jpg'
-published: true
+image: "https://i.imgur.com/iVjDPWW.jpg"
+permalink: "/post/658050141116366848/"
 ---
 
 Ontem de manhã a AMPAS, a academia que organiza e celebra o Oscar, anunciou os indicados ao prêmio que define toda a temporada de premiações do ano. Em um ano que a celebração já está repleta de polêmicas, novas e velhas.
@@ -25,6 +25,7 @@ Como todo o ano, o Oscar é divertido de acompanhar porque ele traz um punhado d
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/ICR6YvcyyJc"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Roma
@@ -38,6 +39,7 @@ _Roma_ pode ser visto no [Netflix](https://www.netflix.com/br/title/80240715). S
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/et_9k6BU_is"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## A Favorita
@@ -51,6 +53,7 @@ _A Favorita_ foi lançado nos cinemas hoje, 24/01.
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/WGsA2aXYBGo"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Nasce uma Estrela
@@ -64,6 +67,7 @@ _Nasce uma Estrela_ será lançado em blu-ray, DVD, no iTunes e no Google Play e
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/iCdS6yVOA0w"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Vice
@@ -77,6 +81,7 @@ _Vice_ será lançado nos cinemas dia 31/01.
 ---
 
 {:.full-width}
+
 <iframe width="806" height="335" src="https://www.youtube-nocookie.com/embed/wL4a4MafSjQ"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Pantera Negra
@@ -90,6 +95,7 @@ _Pantera Negra_ pode ser visto no [Telecine Play](https://www.telecineplay.com.b
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/bbOJwWSEUmo"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Infiltrado na Klan
@@ -103,6 +109,7 @@ _Infiltrado na Klan_ foi lançado em novembro nos cinemas, e ainda está em cart
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/GryRsVhOvxo"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Bohemian Rhapsody
@@ -116,6 +123,7 @@ _Bohemian Rapsody_ está nos cinemas, e vai bem, obrigado. Um sucesso de públic
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/QxXJ7vkFk48"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Green Book: O Guia
@@ -129,19 +137,21 @@ _Green Book: O Guia_ foi lançado nos cinemas hoje, 24/01.
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/hfAB8y5ZBwc"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## O Primeiro Homem
 
 **Indicações:** 4. Design de Produção, Edição de Som, Mixagem de Som, Efeitos Visuais.
 
-Como _Nasce uma Estrela_, _O Primeiro Homem_ era visto como um dos favoritos a todos os prêmios principais da noite.  É um lindo, íntimo retrato de Neil Armstrong e sua jornada entre o luto pela sua filha e a lua, o destino que o escreveria na História. O diretor Damien Chenzelle, dos queridinhos do Oscar _Whiplash_ e _[La La Land]({% post_url 2017/2017-01-20-la-la-land-cantando-estacoes %})_, apostou em uma estética e abordagem arriscadas, um intimismo extremo que agradou a crítica mas afastou o público, e o seu burburinho apagou cedo. Uma pena, é um belo filme que só cresceu com o tempo, e que eu espero rever antes da premiação.
+Como _Nasce uma Estrela_, _O Primeiro Homem_ era visto como um dos favoritos a todos os prêmios principais da noite. É um lindo, íntimo retrato de Neil Armstrong e sua jornada entre o luto pela sua filha e a lua, o destino que o escreveria na História. O diretor Damien Chenzelle, dos queridinhos do Oscar _Whiplash_ e _[La La Land]({% post_url 2017/2017-01-20-la-la-land-cantando-estacoes %})_, apostou em uma estética e abordagem arriscadas, um intimismo extremo que agradou a crítica mas afastou o público, e o seu burburinho apagou cedo. Uma pena, é um belo filme que só cresceu com o tempo, e que eu espero rever antes da premiação.
 
 _O Primeiro Homem_ será lançado em blu-ray, DVD e no iTunes e Google Play em 6/02.
 
 ---
 
 {:.full-width}
+
 <iframe width="806" height="336" src="https://www.youtube-nocookie.com/embed/doBT-eeWNHk"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## O Retorno de Mary Poppins
@@ -155,6 +165,7 @@ _O Retorno de Mary Poppins_ está nos cinemas.
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/rJqOKGLH_mw"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## A Balada de Buster Scruggs
@@ -168,6 +179,7 @@ _A Balada de Buster Scruggs_ já está disponível no [Netflix](https://www.netf
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/ISR_9pHqASU"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Poderia Me Perdoar?
@@ -181,6 +193,7 @@ _Poderia Me Perdoar_ será lançado nos cinemas em 7/02.
 ---
 
 {:.full-width}
+
 <iframe width="806" height="453" src="https://www.youtube-nocookie.com/embed/-kOYORgvljA"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Guerra Fria
@@ -194,6 +207,7 @@ _Guerra Fria_ será lançado nos cinemas em 7/02.
 ---
 
 {:.full-width}
+
 <iframe width="1280" height="568" src="https://www.youtube-nocookie.com/embed/sIBdHJQWK5M"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Se A Rua Beale Falasse

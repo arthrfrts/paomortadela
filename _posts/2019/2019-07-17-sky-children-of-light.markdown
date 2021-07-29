@@ -1,7 +1,7 @@
 ---
 layout: post
 date: "2019-07-17 09:00:00 -0300"
-title: 'Explorando lugares mágicos em Sky: Children of Light'
+title: "Explorando lugares mágicos em Sky: Children of Light"
 author: arthurf
 image: /uploads/2019/07/sky.jpg
 tags:
@@ -9,6 +9,7 @@ tags:
   - jogos
   - iOS
   - aventura
+permalink: "/post/658055390289969152/"
 ---
 
 [_Journey_]({% post_url 2015/2015-08-10-journey %}) é um dos melhores jogos que eu já joguei. _flOw_ e _Flower_, os jogos anteriores da thatgamecompany, são experiências lindas e únicas. Mas _Journey_ sempre foi algo a mais: uma aventura em um deserto infinito que é linda por fora e reveladora por dentro. Uma jornada de autodescoberta como só um jogo consegue revelar.
@@ -18,6 +19,7 @@ Uma das melhores coisas que _Journey_ fez foi criar uma experiência multijogado
 Em _Sky: Children of Light_ (disponível na [App Store](https://itunes.apple.com/us/app/sky-children-of-the-light/id1462117269?ls=1&mt=8)), o novo jogo da thatgamecompany, você é uma criança explorando um mundo em sete partes temáticas — uma floresta chuvosa, um templo no meio das nuvens, e assim vai —, tendo que encontrar espíritos antigos que vão te ensinar emoções. Cada emoção alimenta o seu poncho mágico com uma luz ancestral que permite que você voe mais longe. Quanto mais longe você consegue voar, mais áreas você consegue alcançar e explorar, e é onde você pode encontrar mais espíritos para aprender mais emoções, e assim por diante.
 
 {:.full-width}
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/g3r1KbzSiT8"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu estou jogando uma versão de testes do _Sky_ há uns meses, e o que mais me apaixonou nele é que, mesmo sendo um jogo de exploração com objetivos específicos, ele não é um jogo sobre ser bom em algo, e sim em descobrir aquilo que você sabe e aprender coisas novas — e não necessariamente ser o melhor naquilo. Você pode explorar os lugares de _Sky_ com até sete outros amigos ou desconhecidos, em uma experiência não competitiva em que vocês trocam emoções uns com os outros enquanto descobrem ruínas que revelam o passado desse lugar. Saber fazer um pulo diferente ou ter uma capa melhor não é a finalidade dessa interação — você nem sabe qual o nível dos seus companheiros, por exemplo.

@@ -1,5 +1,5 @@
 ---
-date: '2019-09-18 09:00:00'
+date: "2019-09-18 09:00:00"
 layout: post
 title: Crazy Ex-Girlfriend terminou na sua melhor forma
 image: /uploads/2019/09/cxgf.jpg
@@ -10,10 +10,10 @@ tags:
   - comédia
   - musical
   - Netflix
-published: true
+permalink: "/post/658059296022642688/"
 ---
 
-Uma das forças fundamentais da “[nova era do ouro da TV](https://en.wikipedia.org/wiki/Golden_Age_of_Television_(2000s–present))” é a ideia do anti-herói, como o Tony Soprano (_Família Soprano_), Don Draper (_Mad Men_) ou o Walter White (_Breaking Bad_): homens que têm o mundo nas mãos (ou, no caso do Walter, conquistam ele) mas que se deparam que o temo faz o mundo mudar, e o tempo é indiferente à eles. A jornada desses personagens geralmente é trágica: diferente dos heróis televisivos, que aprendem, mudam ou crescem, os anti-heróis preferem fazer o mundo ao redor deles mudar a serviço deles, e a indiferença do mundo quanto ao que eles querem (ou o poder deles de fazer o mundo deixar de ser indiferente) causa destruição — seja da alma do personagem ou daqueles ao redor dele.
+Uma das forças fundamentais da “[nova era do ouro da TV](<https://en.wikipedia.org/wiki/Golden_Age_of_Television_(2000s–present)>)” é a ideia do anti-herói, como o Tony Soprano (_Família Soprano_), Don Draper (_Mad Men_) ou o Walter White (_Breaking Bad_): homens que têm o mundo nas mãos (ou, no caso do Walter, conquistam ele) mas que se deparam que o temo faz o mundo mudar, e o tempo é indiferente à eles. A jornada desses personagens geralmente é trágica: diferente dos heróis televisivos, que aprendem, mudam ou crescem, os anti-heróis preferem fazer o mundo ao redor deles mudar a serviço deles, e a indiferença do mundo quanto ao que eles querem (ou o poder deles de fazer o mundo deixar de ser indiferente) causa destruição — seja da alma do personagem ou daqueles ao redor dele.
 
 Essa forma foi muito bem sucedida nos anos 2000, e até hoje séries consagradas usam ela. _Game of Thrones_ ou [_Sucession_]({% post_url 2019/2019-08-07-succession %}) são dois exemplos recentes. Mas esse tipo de pessoa começou a ganhar mais poder hoje em dia — eles são presidentes de novo, olha só —, e acompanhar séries sobre pessoas assim agora parece muito mais uma obrigação para entender _o que está acontecendo_ mais do que entender _como essas pessoas também são humanas_, como _Família Soprano_ e _Mad Men_ fizeram tão bem lá atrás.
 
@@ -22,6 +22,7 @@ Nos últimos anos, então, começou a aparecer uma variação do anti-herói: a 
 Com _Crazy Ex-Girlfriend_ (na [Netflix](https://www.netflix.com/title/80066227)), esse tipo de personagem dá mais um passo e cria uma das melhores séries da década.
 
 {:.full-width}
+
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/RUYhukcMgEo"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu já comentei ([brevemente]({% post_url 2017/2017-01-23-crazy-ex-girlfriend %})) sobre a primeira temporada de _CXGF_ aqui. Naquela época, a série ainda parecia “apenas” uma comédia sobre comédias românticas, que tentava pegar os clichês do gênero e desconstruí-los para mostrar como elas podiam nos dar ilusões sobre o amor. A primeira temporada de CXGF é divertidíssima, mas o que a série começou a fazer depois dela é genial.
@@ -37,6 +38,7 @@ Na primeira temporada, Rebecca vai até West Covina guiada por essas emoções f
 Se na primeira temporada da série nós somos apresentados à esse grupo de personagens e como eles agem entre si — como Paula ajuda Rebecca porque ela mesma queria viver uma “grande história de amor”; como Josh é o manda chuva dos seus amigos e está trancado nas memórias da adolescência; como Valencia prefere que Josh não tenha personalidade; ou como Greg, o melhor amigo de Josh, se apaixona por Rebecca **porque** ela não tá afim dele — a partir da segunda ela transforma em uma observação como nós procuramos em nossos amigos e amores alguém que valide também nossos vícios, não só nossas virtudes, e como elas podem ser prejudiciais quando juntamos esses piores lados.
 
 {:.full-width}
+
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/bkAjUBtn_TM"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 É aí que _Crazy Ex-Girlfriend_ não tenta só desconstruir a comédia romântica, mas também a comédia de amigos. Por mais bela que seja a amizade entre Rebecca e Paula, as duas acabam criando ilusões uma para a outra sobre suas ações. Paula acha que a busca de Rebecca pelo amor é um romance de vampiros ao vivo; Rebecca acha que o suporte de Paula é o que uma verdadeira mãe devia fazer. Greg vê no seu amor destrutivo com Rebecca a chance de validar seu pior lado; e Josh insiste em viver com Valencia porque ele não consegue acreditar que seus dias de glória já passaram.
@@ -45,8 +47,8 @@ Se na primeira temporada da série nós somos apresentados à esse grupo de pers
 
 Mas _Crazy Ex-Girlfriend_ também valoriza que, mesmo se estamos perdidos, vai ser mais fácil encontrar um caminho melhor juntos.
 
-
 {:.full-width}
+
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/OG6HZMMDEYA"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Não é novidade o que _CXGF_ faz. _Community_ sempre foi fascinada pela ideia de que, por mais que o grupo de estudos seja algo necessário para a vida das pessoas, eles nem sempre fazem bem uns aos outros. Em _Crazy Ex-Girlfriend_, essa jornada é interna: a compreensão de que você faz parte de um todo e esse todo talvez não tenha mais tanta certeza quando você imaginava, e como isso pode desestabilizar ainda mais você. Rebecca não vê um futuro porque é infeliz, e _CXGF_ não quer que ela descubra a felicidade em outra pessoa. A jornada de Rebecca é em descobrir o que a faz infeliz e insuficiente para si mesma, e como ela pode melhorar.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: r.izze.nhas é uma boa leitura sobre boas leituras
-date: '2019-07-03 09:00'
+date: "2019-07-03 09:00"
 author: arthurf
 tags:
   - esquinas
@@ -9,9 +9,10 @@ tags:
   - blogs
   - livros
 image: /uploads/2019/07/rizzenhas.png
+permalink: "/post/658055145684434944/"
 ---
 
-Nessa última década parece parece que a Internet diminuiu. Quer dizer, é impossível a Internet diminuir porque a cada dia existem mais páginas, mais sites e mais tuítes de presidentes que são incapazes de  evitar falar asneira. Mas _parece_ que ela diminuiu. Parece que acessamos menos desses sites, a gente descobre menos coisas novas. A gente conversa com nossos amigos no Facebook, a gente reclama dos nossos tios no Twitter, a gente escuta música no Spotify, e se for preguiçoso não precisa nem procurar uma música nova pra ouvir. A gente sequer precisa sair da primeira página de resultados do Google pra ter uma opinião formada esses dias.
+Nessa última década parece parece que a Internet diminuiu. Quer dizer, é impossível a Internet diminuir porque a cada dia existem mais páginas, mais sites e mais tuítes de presidentes que são incapazes de evitar falar asneira. Mas _parece_ que ela diminuiu. Parece que acessamos menos desses sites, a gente descobre menos coisas novas. A gente conversa com nossos amigos no Facebook, a gente reclama dos nossos tios no Twitter, a gente escuta música no Spotify, e se for preguiçoso não precisa nem procurar uma música nova pra ouvir. A gente sequer precisa sair da primeira página de resultados do Google pra ter uma opinião formada esses dias.
 
 Por um lado, essas plataformas ajudaram muitas pessoas a acessarem a Internet por darem a impressão que você está seguro indo do Facebook para o YouTube para o Twitter para o Google e voltando pro Facebook — eles oferecem tudo o que você precisa, então você não precisa sair deles. Mas por outro, a gente perdeu aquela experiência que definiu boa parte da minha geração que foi a de _navegar a Internet_. De explorar os confins de um assunto e descobrir coisas novas. Encontrar um blog sobre músicas e descobrir a discografia inteira de uma banda que inspirou aquela banda que você gosta. De procurar sobre um autor no Google, ir pra página da Wikipédia sobre ele e, duas horas depois, se ver conversando em um fórum onde uma bibliotecária do Rio não sabe que está tendo uma boa conversa sobre um livro de contos de sua autora favorita com uma garota de treze anos.
 
@@ -23,6 +24,6 @@ Eu acompanho o r.izze.nhas desde meados de 2010, e quase que inconscientemente e
 
 O r.izze.nhas também é uma lembrança, pra mim, de como é bom descobrir coisas novas na Internet. Quantos blogs de pessoas apaixonadas por músicas e filmes devem existir por aí e, no meio dos seus arquivos de posts, se escondem minha nova banda favorita ou o filme que vai mudar a minha vida?
 
-Como todo o blog, o r.izze.nhas é um documento do tempo: a Taíze  comentou centenas de livros durante esses anos, e quem a acompanha também acompanha seu crescimento como leitora e escritora. Esse é um tipo de experiência que eu acho que é um dos melhores frutos da Internet, e que o r.izze.nhas nos propicia: não só excelentes dicas do que ler, mas também nos ensina a entender e considerar a voz dos outros. Porque aprendemos a ler e a entender a autora tanto quanto ela aprendeu a ler e a escrever sobre os livros.
+Como todo o blog, o r.izze.nhas é um documento do tempo: a Taíze comentou centenas de livros durante esses anos, e quem a acompanha também acompanha seu crescimento como leitora e escritora. Esse é um tipo de experiência que eu acho que é um dos melhores frutos da Internet, e que o r.izze.nhas nos propicia: não só excelentes dicas do que ler, mas também nos ensina a entender e considerar a voz dos outros. Porque aprendemos a ler e a entender a autora tanto quanto ela aprendeu a ler e a escrever sobre os livros.
 
 Do lado de fora na Internet a gente ainda tem lições de empatia, e isso é sempre bom de lembrar.
