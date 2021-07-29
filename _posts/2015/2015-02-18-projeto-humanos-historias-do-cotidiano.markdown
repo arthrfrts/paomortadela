@@ -7,6 +7,7 @@ tags:
   - links
   - podcasts
   - achados
+permalink: "/post/658003945220931584/"
 ---
 Ivan Mizanzuk é designer, com mestrado em filosofia/sociologia e doutorado em tecnologia e design. Mas nada disso importa aqui. No maravilhoso mundo da internet ele é apresentador do [Anticast](http://www.brainstorm9.com.br/anticast/) e idealizador do _Projeto Humanos_.
 

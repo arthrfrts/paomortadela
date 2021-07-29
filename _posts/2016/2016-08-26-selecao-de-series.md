@@ -12,6 +12,7 @@ tags:
   - Veep
   - The Leftovers
   - Silicon Valley
+permalink: "/post/658008047233466368/"
 ---
 
 <p><em>Game of Thrones</em> acabou nesse último domingo com um monte de morte e um monte de pistas pro que vai acontecer nas duas próximas (e últimas?) temporadas. Você vai ter até o ano que vem para esperar uma nova temporada e as férias de inverno estão aí. Péssimo <em>timing</em>, HBO, a gente vai precisar de algumas coisas pra ver.</p>
