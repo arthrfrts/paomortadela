@@ -1,22 +1,20 @@
 ---
 layout: post
-title: 'Os filmes de Cannes que eu quero ver, edição 2018'
-date: '2018-05-21 02:53:15 UTC'
+title: "Os filmes de Cannes que eu quero ver, edição 2018"
+date: "2018-05-21 02:53:15 UTC"
 author: arthurf
 tags:
   - filmes
   - festivais
   - Festival de Cannes
+permalink: "/post/658048939259576320/"
 ---
 
 Todo ano eu fico meio _assim_ com Cannes, porque lendo a lista dos selecionados nada parece muito empolgante. "Ah, um novo do Von Trier! Quanto será que ele vai me irritar agora?" foi a reação mais forte que eu tive ao conferir a lista no início do mês. Agora que o festival acabou, que o [Notebook](https://mubi.com/notebook) já viu de tudo e postou notas sobre eles, eu começo a ficar interessado nas coisas tudo e preciso correr atrás.
 
-
 Pra me organizar e acompanhar esses filmes, aí vai a lista do que eu quero ver de Cannes esse ano:
 
-
 **Competição:**
-
 
 - _Everybody Knows_: o novo do Asghar Farhadi com Pelenope Cruz. Abriu o festival com críticas mornas, mas eu não consigo não me empolgar pra um novo do Farhadi. Ou da Penelope Cruz. Parece uma delícia de assistir.
 
@@ -38,9 +36,7 @@ Pra me organizar e acompanhar esses filmes, aí vai a lista do que eu quero ver 
 
 - _The Wild Pear Tree_: o novo do Ceilan (que ganhou a Palma em 2015) fechou a competição e não fez muito barulho. Mas tem quase três horas e todo filme dele é como assistir uma homilia. Lindo, misterioso e que fica na tua cabeça por algum motivo indefinido.
 
-
 **Fora de competição e exibições especiais:**
-
 
 - _A Casa que Jack Construiu_: eu não tenho interesse nenhum em um filme que o Von Trier parece embelezar sua própria misoginia, mas ao menos isso vai dar uma boa sessão + cerveja com o Erê.
 
@@ -50,9 +46,7 @@ Pra me organizar e acompanhar esses filmes, aí vai a lista do que eu quero ver 
 
 - _Fahrenheit 451_: vai vir pro HBO, é claro que eu vou ver.
 
-
 **Un Certain Regard:**
-
 
 - _Long Day's Journey Into Night_.
 
@@ -60,19 +54,14 @@ Pra me organizar e acompanhar esses filmes, aí vai a lista do que eu quero ver 
 
 - _Dunbass_: o novo do Loznitsa (eu ainda quero assistir o _Uma Criatura Gentil_ dele, esquecido na competição do ano passado) é simplesmente o filme que eu mais quero ver de Cannes esse ano.
 
-
 **Semana da Crítica:**
-
 
 - _Wildlife_: esse filme do Paul Dano parece bom demais pra ser verdade.
 
-
 **Quinzena dos Realizadores:**
-
 
 - _Pássaros de Passagem_: novo filme da equipe de _O Abraço da Serpente_, um dos meus filmez favoritos dos últimos anos. Um drama familiar no meio do conflito do narcotráfico colombiano. Parece lindo.
 
 - _Climax_: o novo do Gaspar Noé que tão dizendo ser o melhor dele!!!!
-
 
 Bastante coisa esse ano. Queria ter visto um James Gray ou uma Claire Denis nessa lista também, mas ainda tem Veneza, né.
