@@ -8,6 +8,7 @@ tags:
   - livros
   - leituras
   - Jennifer Egan
+permalink: "/post/658004566262054912/"
 ---
 
 Você gosta de ler contos? Contos são excelentes formas de narrativa, grandes o suficiente para eu me prender a um personagem, pequenos o suficiente pra nos deixar com água na boca. Então, eu não gostava de ler contos. E eu aprendi a gostar deles com um romance.

@@ -15,6 +15,7 @@ tags:
   - leituras
   - vídeos
   - músicas
+permalink: "/post/658004510169612289/"
 ---
 
 2015, o pior ano de todos (ou, pelo menos, desde o surgimento do Twitter, que foi quando eu comecei a mensurar esse tipo de coisa), tá acabando. Finalmente, vamos pôr nossos pés no arroz, pra dar sorte.

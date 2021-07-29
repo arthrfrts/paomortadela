@@ -9,7 +9,7 @@ tags:
   - jogos
   - corrida
   - Burnout
-permalink: "/post/657958285000982528/"
+permalink: "/post/658002552856707072/"
 ---
 
 Antes de levar o nome da franquia Need for Speed de volta ao topo dos jogos de corrida nessa geração com dois jogos excelentes (suas visões dos clássicos Hot Pursuit e Most Wanted), a Criterion já era um estúdio amado pela indústria. Seus títulos demoravam um tempo não muito curto, mas também não muito longo, e Black e a série Burnout sempre impressionaram por sua qualidade.

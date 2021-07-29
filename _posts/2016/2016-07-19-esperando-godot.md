@@ -9,6 +9,7 @@ tags:
   - teatro
   - Samuel Beckett
   - absurdo
+permalink: "/post/658007659348459520/"
 ---
 
 **Esse é um péssimo texto sobre o melhor livro que eu já li na minha vida.**
