@@ -10,6 +10,7 @@ tags:
   - Kentucky Route Zero
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/the-entertainment.jpg"
+permalink: "/post/658041236785184768/"
 ---
 
 > Seja lá o que você acha que é, _The Entertainment_ é fantástico.

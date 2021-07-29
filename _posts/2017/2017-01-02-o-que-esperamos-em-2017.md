@@ -12,6 +12,7 @@ tags:
   - leituras
   - links
 image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-expectativa-2017.jpg"
+permalink: "/post/658008428231475200/"
 ---
 
 Olá, e boas vindas a 2017! Se tá lendo isso, é porque tu provavelmente está no futuro. Como foi a virada de ano? Alguma tragédia nesses quatro dias de diferença? 2017 já é melhor que 2016? Esperamos que sim.
@@ -34,7 +35,7 @@ Todos os outros _Alien_ são piores, sem exceção (e eu nem tô falando daquele
 
 Voltar pro horror talvez seja a melhor coisa que _Alien: Covenant_ poderia fazer, aliás. Os melhores momentos de _Prometheus_ (que é lindo, mas meh) é quando o pânico se instaura naquele planeta, e Ridley Scott sabe brincar com o pânico. A gente quer muito ver _Alien: Covenant_. Se o filme ficar ruim (ei, tem chances), ao menos a gente vai poder ver os fan services que tem no trailer na tela grande. Ver o xenomorfo surgir da espinha de um cara sempre vai ser interessante, que venha logo 18 de maio.
 
-***
+---
 
 ## 4. Pra ler: _Peanuts Completo, vol. 9_.
 
@@ -45,7 +46,7 @@ A L&PM tá lançando os volumes de _Peanuts Completo_ sem pressa nenhuma. Dos vi
 
 Seja como for, _Peanuts Completo_ é um conjunto da obra. Não só o conteúdo é incrível (os anos 60 são o início do ápice da turma do Charlie Brown), mas o tratamento é impecável. A L&PM traz _Peanuts Completo_ com a mesma qualidade que ele foi publicado lá fora: capa dura, conteúdos especiais (todos os volumes têm um prefácio com um autor convidado e um posfácio) e o formato original. A cada página, três tiras no seu tamanho de publicação. Eu mal posso esperar pra pôr minhas mãos no próximo volume.
 
-***
+---
 
 ## 3. Pra ouvir: o novo álbum do The xx.
 
@@ -55,7 +56,7 @@ O The xx trabalha devagar, e eu não tenho nenhum problema com isso. Com um debu
 
 Não temos previsão pra quando o novo do trio vai chegar, mas o The xx diz que será “em breve”. Seja como for, os dias de desespero deles (_xx_) e de medo (_Coexist_) mudaram. Como parecem indicar com “On Hold”, o The xx parece tentar deixar-se levar, porque o destino não é nada mais que uma desilusão. Pode soar melancólico e um pouco pessimista, mas depois de um ano como 2016, o terceiro álbum do The xx parece ser aquilo que precisamos pra nos abraçar, acalmar e nos empurrar pra frente.
 
-***
+---
 
 ## 2. Pra jogar: _The Legend of Zelda: Breath of the Wild_.
 
@@ -65,7 +66,7 @@ Não só [a maior fila da história da E3](http://www.polygon.com/e3/2016/6/15/1
 
 Depois de décadas sendo (inclusive ainda é) parâmetro de cópias para qualquer jogo de ação-aventura por aí, _The Legend of Zelda_ finalmente se dispôs a olhar pra concorrência. Com _Breath of the Wind_, a Nintendo busca a inspiração nos grandiosos _The Elder Scrolls_ e _The Witcher 3: Wild Hunt_ para trazer Hyrule, o reino de Zelda, em toda a sua glória em um imenso mundo aberto. Aonuma, o designer do jogo, diz que a narrativa desse novo capítulo será muito como o dos jogos antigos da série: um conto de destruição e ruína, e de rendição. O que muda: dessa vez, as missões são feitas na ordem que o jogador quer — e ele pode terminar a narrativa do jogo sem sequer visitar sessões do mapa. Vendo a grandiosidade do lugar, eu não duvido que eu não visite alguns lugares por ali.
 
-***
+---
 
 ## 1. Pra ver na TV: _The Leftovers_, terceira temporada.
 

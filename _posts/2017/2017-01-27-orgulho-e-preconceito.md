@@ -9,6 +9,7 @@ tags:
   - clássicos
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/orgulho-e-preconceito.jpg"
+permalink: "/post/658041443693281280/"
 ---
 
 O livro foi publicado pela primeira vez no início em 1813, mas continua sendo inusitado, divertido e moderno até hoje. _Orgulho e Preconceito_ não precisa de defensores e sim de leitores.

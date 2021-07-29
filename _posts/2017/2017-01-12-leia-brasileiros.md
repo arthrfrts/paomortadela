@@ -9,6 +9,7 @@ tags:
 date: 2017-01-12
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/leia-brasileiros.jpg"
+permalink: "/post/658040511454691328/"
 ---
 
 (Tá aí uma dica que foi difícil de encontrar uma imagem pra ilustrar).
