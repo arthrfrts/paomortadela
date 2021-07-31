@@ -2,7 +2,9 @@
 
 O [Pão com Mortadela](https://paomortadela.com.br/) é um blog sobre cultura.
 
-Esse repositório contem o código e todo o arquivo de posts até 22/07/2021, quando o site era hospedado no GitHub Pages com o Jekyll. Hoje ele é hospedado no Tumblr com o tema [Manteiga](https://github.com/arthrfrts/manteiga)
+Esse repositório contem o código e todo o arquivo de posts até 22/07/2021, quando o site era hospedado no GitHub Pages com o Jekyll.
+
+Hoje ele é hospedado no Tumblr com o tema [Manteiga](https://github.com/arthrfrts/manteiga).
 
 ## Copy-it-right
 
