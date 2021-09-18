@@ -12,7 +12,7 @@ tags:
 - festivais
 - Kinoforum
 date: 2020-08-27 14:01 -0300
-permalink: "/post/658075907420045312/"
+tumblr_url: "/post/658075907420045312/"
 ---
 A principal mostra dentro dos programas brasileiros esse ano foi composta por três sessões com quatro filmes em cada. Dos doze filmes selecionados, sete são produções do estado de São Paulo, dois de Pernambuco, um do Espírito Santo, um de Santa Catarina e um do Rio Grande do Sul. Os filmes estiveram online durante a semana e retornam por 24h a partir das 19h de hoje, dia 27 de agosto, então corre lá pra dar tempo de ler nossos comentários e assistir as indicações que preparamos para você.
 

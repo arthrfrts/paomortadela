@@ -10,7 +10,7 @@ tags:
   - links
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/house-california.jpg"
-permalink: "/post/658007599016493056/"
+tumblr_url: "/post/658007599016493056/"
 ---
 
 O som de grilos em uma noite. Parece que vai chover depois. Uma criança fala para a avó que está muito escuro. Ela não consegue dormir.

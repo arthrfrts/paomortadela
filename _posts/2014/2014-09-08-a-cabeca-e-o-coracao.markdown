@@ -8,7 +8,7 @@ tags:
   - achados
   - músicas
   - indie
-permalink: "/post/658003061523054592/"
+tumblr_url: "/post/658003061523054592/"
 ---
 
 Pra começar essa ótima semana, a dica é The Head and the Heart.

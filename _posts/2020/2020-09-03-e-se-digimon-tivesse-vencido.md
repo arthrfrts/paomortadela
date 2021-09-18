@@ -9,7 +9,7 @@ tags:
 - Pokémon
 - Digimon
 date: 2020-09-03 08:49 -0300
-permalink: "/post/658076710839910400/"
+tumblr_url: "/post/658076710839910400/"
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/Ooq3GXLP2TY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

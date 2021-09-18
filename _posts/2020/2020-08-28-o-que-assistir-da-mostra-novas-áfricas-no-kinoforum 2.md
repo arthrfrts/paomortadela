@@ -10,7 +10,7 @@ tags:
 - festivais
 - Kinoforum
 date: 2020-08-28 09:43 -0300
-permalink: "/post/658076139328274432/"
+tumblr_url: "/post/658076139328274432/"
 ---
 Quando fui convidado pelo meu amigo [Guilherme]({% link _authors/guilhermen.md %}) a escrever um texto sobre uma das mostras do Kinoforum eu imediatamente me atrai pela mostra Novas Africas. Não por ser um grande conhecedor dos cinema africanos, mas justamente pela minha curiosidade sobre essas cinematografias que de forma geral são pouco conhecidas até mesmo para as pessoas mais interessadas por cinema. Tendo uma produção que historicamente é restrita a poucas obras (com algumas notáveis excessões[^1]). Mas que na última década teve um considerável aumento na produção de filmes e os curtas como sempre surgem com força, especialmente para os novos realizadores. A mostra é composta por 3 sessões, cada uma com seu tema, tendo produções de diversos países como: República Democrática do Congo, Líbia, Quênia, Senegal, Marrocos e Burkina Faso; França e Bélgica também participam de algumas produções[^2].
 

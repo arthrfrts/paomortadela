@@ -6,7 +6,7 @@ tags:
 - links
 - achados
 date: 2020-10-30 08:33 -0300
-canonical_url: "https://paomortadela.com.br/post/658085074288476160/"
+tumblr_url: "/post/658085074288476160/"
 ---
 [Lexicografia Positiva](https://hifisamurai.github.io/lexicography/) é um projeto iniciado por [Tim Lomas](https://www.drtimlomas.com/) que reúne palavras intraduzíveis de uma língua para outra que representam algo feliz.
 

@@ -8,7 +8,7 @@ tags:
   - indie
 author: vanessao
 image: "https://arthrfrts.files.wordpress.com/2018/03/2baeb64276ae4bffbf47887a7e75f66f.jpg"
-permalink: "/post/657958807979327488/"
+tumblr_url: "/post/657958807979327488/"
 ---
 
 _Lily and Madeleine_ até agora era o meu tesouro particular. Daquelas descobertas tão especiais, que compartilha-las é como presentear alguém, e nada melhor para uma primeira postagem, do que um presente.

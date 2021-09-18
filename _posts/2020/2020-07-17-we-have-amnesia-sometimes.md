@@ -6,7 +6,7 @@ tags:
 - músicas
 - Yo La Tengo
 date: 2020-07-17 13:55 -0300
-permalink: "/post/658073197502185472/"
+tumblr_url: "/post/658073197502185472/"
 ---
 {: .full-width }
 <iframe  src="https://bandcamp.com/EmbeddedPlayer/album=2575935432/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/">

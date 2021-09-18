@@ -11,7 +11,7 @@ tags:
   - Não é Mad Max
 author: arthurf
 image: "https://i.imgur.com/iVjDPWW.jpg"
-permalink: "/post/658050141116366848/"
+tumblr_url: "/post/658050141116366848/"
 ---
 
 Ontem de manhã a AMPAS, a academia que organiza e celebra o Oscar, anunciou os indicados ao prêmio que define toda a temporada de premiações do ano. Em um ano que a celebração já está repleta de polêmicas, novas e velhas.

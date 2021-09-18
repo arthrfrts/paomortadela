@@ -10,7 +10,7 @@ tags:
   - cinema nacional
   - Marcelo Gomes
   - documentários
-permalink: "/post/658055567439527936/"
+tumblr_url: "/post/658055567439527936/"
 ---
 
 > "Bem-vindos à capital do jeans"

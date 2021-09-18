@@ -10,7 +10,7 @@ tags:
   - Abbas Kiarostami
   - mistério
 image: "https://arthrfrts.files.wordpress.com/2018/03/copia-fiel.jpg"
-permalink: "/post/658007384657133568/"
+tumblr_url: "/post/658007384657133568/"
 ---
 
 Filmes nos conectam. Nos conectam com diferentes realidades, com diferentes ideias, com diferentes pessoas. Seja na própria imagem, seja nas conexões que criamos ao ir no cinema com alguém, ao discutir um filme com alguém, mas filmes nos aproximam de relações, não de coisas.

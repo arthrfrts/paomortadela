@@ -9,7 +9,7 @@ tags:
   - podcasts
   - essenciais
   - Serial
-permalink: "/post/658005969531437056/"
+tumblr_url: "/post/658005969531437056/"
 ---
 
 Os podcasts, por anos, tentaram se identificar. Uma versão atualizada dos programas de rádio, agora na Internet, podcasts sempre tiveram o problema de não serem relevantes, de não introduzirem nada de novo que valha a eles serem considerados um meio de expressão. Não se engane: podcasts são divertidos pelos mais diferentes motivos, de serem verdadeiros diários sonoros a conversas fantásticas ou um modo interessante de contar histórias.

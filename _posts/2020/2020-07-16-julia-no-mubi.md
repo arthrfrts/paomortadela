@@ -8,7 +8,7 @@ tags:
 - drama
 - thriller
 date: 2020-07-16 11:14 -0300
-permalink: "/post/658073027964207104/"
+tumblr_url: "/post/658073027964207104/"
 ---
 {: .full-width }
 <iframe src="https://www.youtube.com/embed/VDDWeWknMl0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

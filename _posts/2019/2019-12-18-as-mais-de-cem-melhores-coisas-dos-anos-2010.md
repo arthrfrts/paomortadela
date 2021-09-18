@@ -16,7 +16,7 @@ tags:
   - canais
   - clipes
 image: "/uploads/2019/12/as-mais-de-cem-melhores-coisas-dos-anos-2010/capa.jpg"
-permalink: "/post/658061294524661760/"
+tumblr_url: "/post/658061294524661760/"
 ---
 
 Quando eu e o Fillipe começamos com a ideia que resultaria no PCM, em 2012, nosso objetivo era criar um espaço onde nosso grupo de amigos podiam recomendar, uns para os outros, aquilo que gostávamos naquele momento. Das músicas que ouvíamos nas nossas reuniões na garagem da casa dos meus pais aos filmes que estávamos empolgados para assistir (teve um momento que esse filme era o _Alice no País das Maravilhas_ do Tim Burton, essa década foi uma bagunça).

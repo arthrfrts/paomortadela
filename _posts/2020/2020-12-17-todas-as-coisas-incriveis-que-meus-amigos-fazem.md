@@ -10,7 +10,7 @@ tags:
   - canais do YouTube
   - podcasts
   - comida
-permalink: "/post/658086784768573440/"
+tumblr_url: "/post/658086784768573440/"
 ---
 
 Eu gosto muito de estar próximo dos meus amigos. Antes desse ano, que me forçou a ficar longe deles, eu sempre estava com algum amigo. Seja conversando, seja trabalhando, seja fazendo absolutamente nada enquanto a gente fica sentado no sofá. Eu gosto de estar na companhia dos meus amigos, e sinto bastante falta deles.

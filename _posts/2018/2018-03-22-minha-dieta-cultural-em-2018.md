@@ -6,7 +6,7 @@ author: arthurf
 tags:
   - geral
   - leituras
-permalink: "/post/658048619888410624/"
+tumblr_url: "/post/658048619888410624/"
 ---
 
 Faz um tempinho já que eu andei pensando no porquê eu andar tão desinteressado por ver filmes e séries com a mesma frequência que eu andava assistindo. Eu cheguei na conclusão que é porque eu andava _assistindo demais_. Também fiquei preocupado quando o meu Kindle começou a ficar meses parado (a bateria dele morreu já algumas vezes, um verdadeiro crime) ou porque as minhas mixes do Spotify começaram a ter sempre os mesmos artistas.

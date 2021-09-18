@@ -10,7 +10,7 @@ tags:
   - Victor Hugo
   - momentos
 author: arthurf
-permalink: "/post/658052212642152448/"
+tumblr_url: "/post/658052212642152448/"
 ---
 
 “Paris foi decapitada”, [disse um homem ao New York Times](https://www.nytimes.com/2019/04/15/world/europe/notre-dame-fire.html) quando o pináculo da Catedral de Notre Dame caiu, consumida pelas chamas.

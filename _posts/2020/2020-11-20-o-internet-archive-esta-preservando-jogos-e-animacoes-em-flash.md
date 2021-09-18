@@ -8,7 +8,7 @@ tags:
 - Internet Archive
 - Flash
 date: '2020-11-20 10:59:09 -0300'
-permalink: "/post/658085836327436288/"
+tumblr_url: "/post/658085836327436288/"
 ---
 O Flash foi uma daquelas tecnologias tão fundamentais quanto odiadas da juventude da internet: era um jeito fácil e simples de criar animações e jogos complexos que podiam ser jogados num navegador, na época em que a tecnologia básica da internet — o HTML, o CSS e o JavaScript — estavam começando a amadurecer. Sites usavam Flash para criar efeitos e animações complexos, e portais como o [Kongregate](https://www.kongregate.com), o [Miniclip](https://www.miniclip.com) e [Newgrounds](https://www.newgrounds.com) hospedaram centenas de jogos feitos com essa tecnologia com o passar dos anos.
 

@@ -9,7 +9,7 @@ tags:
   - livros
 author: guilhermen
 image: "https://i.imgur.com/ghVqKF3h.jpg"
-permalink: "/post/658051469657997312/"
+tumblr_url: "/post/658051469657997312/"
 ---
 
 Dentre todas as linhas de pesquisa exploradas para dar conta das técnicas e exercícios lúdicos utilizados na construção (e na leitura) de personagens, seja na literatura, ou no audiovisual, uma sempre me despertou particular interesse: o estudo do consumo como agente dos conflitos internos.

@@ -10,7 +10,7 @@ tags:
 - Liz Garbus
 - HBO
 date: 2020-07-20 19:55 -0300
-permalink: "/post/658073508235149312/"
+tumblr_url: "/post/658073508235149312/"
 ---
 Histórias de assassinos em série fazem sucesso em serviços de streaming, e não é pra menos. Alguns desses casos são tão horripilantes e grotescas que colocam até a ficção mais inventiva de *[Hannibal]({% post_url 2019/2019-06-19-hannibal %})* ou *True Detective* no chinelo. Muitas dessas histórias, porém, estão mais preocupadas em tentar “decifrar” as figuras desses assassinos e estupradores, e veem o rastro de dor e de violência que eles deixaram para trás muito mais como elemento que elevam esses casos à forma de mito. Sejam eles nomes conhecidos, como Ted Bundy e David Berkowitz (o “Filho de Sam”); até os desconhecidos, como o Jack, O Estripador e o Assassino do Zodíaco, o que eles têm em comum é que, mesmo depois de serem pegos ou terem desaparecido ou morrido, eles continuam tendo o controle sobre como a gente conta suas histórias e entendemos o que eles fizeram.
 

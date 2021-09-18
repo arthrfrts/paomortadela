@@ -10,7 +10,7 @@ tags:
   - Nintendo
   - Nintendo Switch
 author: arthurf
-permalink: "/post/658046438265257985/"
+tumblr_url: "/post/658046438265257985/"
 ---
 
 É gigante.

@@ -8,7 +8,7 @@ tags:
   - leituras
   - livros
   - Jennifer Egan
-permalink: "/post/658060078154498048/"
+tumblr_url: "/post/658060078154498048/"
 ---
 
 Fiquei surpreso quando fui conferir os arquivos do Pão com Mortadela e percebi que nunca recomendei meu livro favorito dos anos 2000, _A Visita Cruel do Tempo_. Escrito por Jennifer Egan, o livro (vencedor do Pullitzer de 2011) é dividido em treze capítulos, cada um contando a história de uma pessoa levemente relacionada à anterior: começamos com uma mulher na terapeuta, discutindo suas tendências cleptomaníacas; depois acompanhamos seu chefe; depois, a madrasta dos filhos desse chefe; e assim por diante. Cada capítulo de _A Visita Cruel do Tempo_ é estruturado de uma maneira diferente (um é em primeira pessoa, outro parece um artigo científico, tem um que é uma apresentação de PowerPoint), e narra um momento específico — no final, você acompanhou dezenas de pessoas durante quarenta anos, e viu o tempo passar diante dos seus próprios olhos. É um livro absurdo de tão bom.

@@ -7,7 +7,7 @@ tags:
 - vídeos
 - cinema nacional
 date: 2020-11-06 07:43 -0300
-permalink: "/post/658085485300908032/"
+tumblr_url: "/post/658085485300908032/"
 ---
 <iframe class="full-width" src="https://player.vimeo.com/video/474057458" frameborder="0" allowfullscreen></iframe>
 

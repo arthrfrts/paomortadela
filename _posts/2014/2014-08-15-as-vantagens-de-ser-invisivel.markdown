@@ -8,7 +8,7 @@ tags:
   - livros
 author: vanessao
 image: "https://arthrfrts.files.wordpress.com/2018/03/maxresdefault.jpg"
-permalink: "/post/657977043064078336/"
+tumblr_url: "/post/657977043064078336/"
 ---
 
 Um adolescente atormentado que encontra abrigo em grupo de desajustados, até aí nenhuma novidade. O primeiro contato com sexo, álcool e drogas, a tortura do ensino médio? A mesma coisa de sempre. No entanto, Chbosky narra o conhecido drama adolescente de uma forma muito singular, ele não nos apresenta um problema, mas sim uma vantagem. Ou melhor, _As vantagens de ser invisível_.

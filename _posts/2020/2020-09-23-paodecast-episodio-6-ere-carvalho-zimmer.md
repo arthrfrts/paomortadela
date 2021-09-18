@@ -7,7 +7,7 @@ tags:
 - podcasts
 - conversas
 date: 2020-09-23 08:38 -0300
-permalink: "/post/658082806496411648/"
+tumblr_url: "/post/658082806496411648/"
 ---
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Er-Carvalho-Zimmer-ejusds" height="102" frameborder="0" scrolling="no"></iframe>
 

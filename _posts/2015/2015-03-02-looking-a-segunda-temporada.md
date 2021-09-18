@@ -8,7 +8,7 @@ tags:
   - romance
   - Andrew Haigh
   - HBO
-permalink: "/post/658004268302974976/"
+tumblr_url: "/post/658004268302974976/"
 ---
 
 Desde a primeira temporada eu defendo que _Looking_ é uma grande série que tem como maior defeito buscar um nicho bastante restrito do público. Bem, eu estava errado. Com o episódio dessa semana, *Looking* se tornou uma das melhores séries na TV atualmente — e se focar em um público específico talvez seja seu maior acerto.

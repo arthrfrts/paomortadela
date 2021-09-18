@@ -8,7 +8,7 @@ tags:
 - festivais
 - Kinoforum
 date: 2020-08-24 09:21 -0300
-permalink: "/post/658075311823552512/"
+tumblr_url: "/post/658075311823552512/"
 ---
 Com um extenso catálogo de 212 filmes, o festival já começa a disponibilizar os filmes. A ideia é emular virtualmente as consagradas sessões de curtas-metragens do evento, disponibilizando-as a cada 24 horas do dia 20 ao dia 27 de agosto - do dia 27 ao dia 30 o catálogo deverá estar inteiramente disponível possibilitando o acesso e navegação entre todas as sessões.
 

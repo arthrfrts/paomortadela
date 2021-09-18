@@ -10,7 +10,7 @@ tags:
   - drama
   - James Gray
 author: arthurf
-permalink: "/post/658046509355614208/"
+tumblr_url: "/post/658046509355614208/"
 ---
 
 James Gray é um diretor fenomenal. É um dos únicos diretores em atividade hoje em dia no cinema americano que consegue criar aquela sensação de estar assistindo o filme de uma vida — um sentimento que parece vindo diretamente da Era de Ouro de Hollywood, com aqueles grandes e intensos dramas que acompanhavam seus personagens de perto enquanto criavam uma parábola sobre a situação americana.

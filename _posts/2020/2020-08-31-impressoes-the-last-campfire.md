@@ -10,7 +10,7 @@ tags:
 - Apple Arcade
 - Nintendo Switch
 date: 2020-08-31 08:58 -0300
-permalink: "/post/658076620695945216/"
+tumblr_url: "/post/658076620695945216/"
 ---
 Eu passei esse fim de semana jogando *The Last Campfire*, que foi lançado no último dia 27 no Apple Arcade (e no PC, no Switch, no Xbox e no PS4). É o meu novo jogo favorito do serviço de assinatura de jogos da Apple, e eu tô considerando comprar ele no Switch pra poder jogar na TV.
 

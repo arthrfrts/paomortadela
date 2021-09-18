@@ -6,7 +6,7 @@ tags:
 - Pãodecast
 - podcasts
 date: 2020-08-26 09:09 -0300
-permalink: "/post/658075686406389760/"
+tumblr_url: "/post/658075686406389760/"
 ---
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Cassio-Fagundes-eik66o/a-a31gh5i" height="102" frameborder="0" scrolling="no"></iframe>
 

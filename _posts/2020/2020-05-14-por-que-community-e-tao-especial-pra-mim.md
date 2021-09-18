@@ -13,7 +13,7 @@ tags:
   - Community
   - Netflix
   - Prime Video
-permalink: "/post/658069980042100736/"
+tumblr_url: "/post/658069980042100736/"
 ---
 
 Essa é a quarta vez que eu escrevo sobre _Community_ pro Pão com Mortadela. Nas duas primeiras vezes, eu escrevi sobre temporadas específicas enquanto elas iam ao ar. Ano passado, eu escrevi [sobre um episódio específico]({% post_url 2019/2019-03-13-remedial-chaos-theory-e-o-episodio-mais-importante-de-community %}). _Community_ é o tema que mais rendeu posts aqui no Pão, é a minha série favorita, e é o que eu estou sempre pensando sobre. Essa é a quarta vez que eu escrevo sobre _Community_ pro Pão, e muito provavelmente não vai ser a última.

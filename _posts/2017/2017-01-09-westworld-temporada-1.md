@@ -8,7 +8,7 @@ tags:
   - HBO
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/westworld-s01.jpg"
-permalink: "/post/658040339610894336/"
+tumblr_url: "/post/658040339610894336/"
 ---
 
 “O que nos faz humanos?” pergunta _Westworld_ desde a primeira cena. O novo blockbuster HBO terminou sua primeira e conturbada temporada sendo a série mais falada do ano. E o final, que aponta um novo e empolgante caminho pro futuro, indica a jornada para sua grande questão.

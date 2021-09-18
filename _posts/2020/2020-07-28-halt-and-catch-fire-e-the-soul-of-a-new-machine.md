@@ -8,7 +8,7 @@ tags:
 - Halt and Catch Fire
 - Tracy Kidder
 date: 2020-07-28 20:42 -0300
-permalink: "/post/658073696923156480/"
+tumblr_url: "/post/658073696923156480/"
 ---
 Ontem de noite estavam comentando sobre a abertura de uma das minhas séries favoritas no Twitter, *Halt and Catch Fire*:
 

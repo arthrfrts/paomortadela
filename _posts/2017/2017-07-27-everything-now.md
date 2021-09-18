@@ -8,7 +8,7 @@ tags:
   - rock
   - Arcade Fire
 author: arthurf
-permalink: "/post/658046742267297792/"
+tumblr_url: "/post/658046742267297792/"
 ---
 
 Quando eu terminei de ouvir _Everything Now_, eu fiquei desesperado.

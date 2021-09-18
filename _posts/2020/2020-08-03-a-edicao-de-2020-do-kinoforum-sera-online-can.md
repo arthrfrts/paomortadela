@@ -10,7 +10,7 @@ tags:
 - festivais
 - Kinoforum
 date: 2020-08-03 09:45 -0300
-permalink: "/post/658073945401098240/"
+tumblr_url: "/post/658073945401098240/"
 ---
 O curta-metragem sempre foi um interessante formato de experimentação e descoberta para o audiovisual. Até 1910 as sessões de cinema eram compostas por uma seleção de pequenos filmes que, após a passagem da década, passaram a ser exibidos como "complemento" para a atração principal: os *feature films* (longas-metragens). A partir daí, infelizmente, os espaços e caminhos de circulação dos filmes de curta-metragem foram se estreitando cada vez mais. Hoje, apesar do home vídeo, do streaming, e de todas as possibilidades e comodidades possíveis, o curta acaba por não fazer parte dos hábitos de consumo em cultura e audiovisual da grande maioria das pessoas, assim como não existem exibições dedicadas a este formato no circuito comercial de cinemas.
 

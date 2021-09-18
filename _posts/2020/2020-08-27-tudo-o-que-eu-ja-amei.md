@@ -9,7 +9,7 @@ image:
 tags:
 - meta
 date: 2020-08-27 09:27 -0300
-permalink: "/post/658075775425200128/"
+tumblr_url: "/post/658075775425200128/"
 ---
 Hoje é um dia estranho. Quer dizer, o dia em si até que tá tudo bem. Eu acordei cedo, fiz meus exercícios físicos, estudei um pouco e agora são 8h35 quando eu abri o meu editor de textos pra escrever esse post. As coisas tão indo bem.
 

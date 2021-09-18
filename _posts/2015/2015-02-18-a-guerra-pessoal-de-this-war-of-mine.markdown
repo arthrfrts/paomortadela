@@ -8,7 +8,7 @@ tags:
   - jogos
   - estratégia
   - guerra
-permalink: "/post/658003839478366208/"
+tumblr_url: "/post/658003839478366208/"
 ---
 
 Você esta com frio, fome e vivendo com desconhecidos sob o teto de uma casa abandonada.

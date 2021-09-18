@@ -8,7 +8,7 @@ tags:
 - jogos
 - The Sims
 date: 2020-10-29 20:02 -0300
-permalink: "/post/658084993755660288/"
+tumblr_url: "/post/658084993755660288/"
 ---
 
 <iframe src="https://player.twitch.tv/?video=783888743&parent=paomortadela.com.br&autoplay=false" frameborder="0" allowfullscreen="true" scrolling="no" class="full-width"></iframe>

@@ -7,7 +7,7 @@ tags:
   - livros
   - leituras
   - Robert W. Chambers
-permalink: "/post/658004088523538432/"
+tumblr_url: "/post/658004088523538432/"
 ---
 Se você está procurando apenas uma leitura divertida e sem compromisso, _O Rei de Amarelo_ não é para você. É com uma escrita rebuscada e arrastada que Robert Chambers cria o misterioso universo do Rei de Amarelo: um universo onde um livro de capa amarela levara à loucura qualquer um que atreva-se a lê-lo.
 

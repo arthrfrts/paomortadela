@@ -8,7 +8,7 @@ tags:
 - ficção científica
 - Denis Villeneuve
 date: 2020-09-09 14:00 -0300
-permalink: "/post/658076879603089408/"
+tumblr_url: "/post/658076879603089408/"
 ---
 <iframe class="full-width" src="//www.youtube-nocookie.com/embed/n9xhJrPXop4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -14,7 +14,7 @@ tags:
   - Onde Vivem os Monstros
   - HBO
 author: arthurf
-permalink: "/post/658050930342756352/"
+tumblr_url: "/post/658050930342756352/"
 ---
 
 Carol é grande e tem a voz esganiçada, Alexander tem um nariz ranhoso, Ira e Judith estão apaixonados um pelo outro, o Touro é quieto e assustador, e KW tem um olhar doce e cabelos ondulados. Todos eles são peludos, só alguns tem chifres, outros tem rabos longos e dentes pontudos. Mas tem um que é pequeno e não tem pelos. Ele veste uma roupa de lobo e apareceu no meio desses monstros depois de brigar com sua mãe e fugir de casa. Esse é Max, e os outros monstros o chamam de rei.

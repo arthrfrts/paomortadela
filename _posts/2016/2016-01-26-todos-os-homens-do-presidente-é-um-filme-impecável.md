@@ -10,7 +10,7 @@ tags:
   - suspense
   - thrillers
   - Alan J. Pakula
-permalink: "/post/658005722902233088/"
+tumblr_url: "/post/658005722902233088/"
 ---
 
 Thrillers processuais. Talvez um dos meus estilos de filme favoritos. *Todos os Homens do Presidente* talvez seja o melhor deles.

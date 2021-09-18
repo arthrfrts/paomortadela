@@ -10,7 +10,7 @@ tags:
   - Netflix
   - X-Men
 author: arthurf
-permalink: "/post/658046097366941696/"
+tumblr_url: "/post/658046097366941696/"
 ---
 
 E então, o que tu acha dessa onda de filmes e séries de super-heróis que explodiu nessa última década?

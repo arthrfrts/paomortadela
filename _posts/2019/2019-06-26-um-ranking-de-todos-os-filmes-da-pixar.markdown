@@ -12,7 +12,7 @@ tags:
   - Toy Story
 author: arthurf
 description: Aproveitamos o lançamento de Toy Story 4 para dar uma olhada na carreira do estúdio.
-permalink: "/post/658055061891629056/"
+tumblr_url: "/post/658055061891629056/"
 ---
 
 Com o lançamento de _Toy Story 4_ nesse último fim de semana, a Pixar está pronta para uma nova era. Quando o filme anterior da franquia foi lançado, em 2010, a Pixar vinha de uma série de sucessos de público e crítica que era invejável, e parecia não ter fim.

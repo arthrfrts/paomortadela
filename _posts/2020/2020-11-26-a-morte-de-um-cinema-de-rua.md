@@ -6,7 +6,7 @@ tags:
 - links
 - filmes
 date: 2020-11-26 08:46 -0300
-permalink: "/post/658085990210076672/"
+tumblr_url: "/post/658085990210076672/"
 ---
 [Rafael Aguinaga para a Piauí](https://piaui.folha.uol.com.br/morte-de-um-cinema-de-rua/):
 
