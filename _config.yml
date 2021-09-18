@@ -74,7 +74,7 @@ jekyll-archives:
   permalinks:
     year: "/:year/"
     month: "/:year/:month/"
-    tag: "/tagged/:name/"
+    tag: "/tag/:name/"
   slug_mode: default
 
 # Compose
