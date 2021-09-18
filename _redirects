@@ -1,0 +1,11 @@
+---
+---
+
+{%- assign posts = site.posts | where_exp: "item", "item.tumblr_url != nil" -%}
+
+{%- for post in posts -%}
+{%- if post.tumblr_url -%}
+{{ post.tumblr_url }}   {{ post.url | absolute_url }}   301
+{% endif -%}
+{%- endfor -%}
+/tagged/*  /tag/:splat   301
