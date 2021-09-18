@@ -35,12 +35,6 @@ GEM
       jekyll (>= 3.6, < 5.0)
     jekyll-compose (0.12.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-feed (0.15.1)
-      jekyll (>= 3.7, < 5.0)
-    jekyll-import (0.20.0)
-      jekyll (>= 3.7, < 5.0)
-      nokogiri (~> 1.0)
-      reverse_markdown (~> 1.0)
     jekyll-include-cache (0.2.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-loading-lazy (0.1.1)
@@ -77,8 +71,6 @@ GEM
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    reverse_markdown (1.4.0)
-      nokogiri
     rexml (3.2.5)
     rouge (3.26.1)
     safe_yaml (1.0.5)
@@ -88,12 +80,7 @@ GEM
       ffi (~> 1.9)
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    tzinfo (2.0.4)
-      concurrent-ruby (~> 1.0)
-    tzinfo-data (1.2021.1)
-      tzinfo (>= 1.0.0)
     unicode-display_width (1.8.0)
-    wdm (0.1.1)
     webrick (1.7.0)
 
 PLATFORMS
@@ -105,16 +92,11 @@ DEPENDENCIES
   jekyll (~> 4.2)
   jekyll-archives (~> 2.2.1)
   jekyll-compose (~> 0.12.0)
-  jekyll-feed (~> 0.15.1)
-  jekyll-import (~> 0.20.0)
   jekyll-include-cache (~> 0.2.1)
   jekyll-loading-lazy (~> 0.1.1)
   jekyll-paginate (~> 1.1.0)
   jekyll-seo-tag (~> 2.7.1)
   jekyll-sitemap (~> 1.4.0)
-  tzinfo (~> 2.0.4)
-  tzinfo-data
-  wdm (~> 0.1.1)
   webrick (~> 1.7)
 
 BUNDLED WITH
