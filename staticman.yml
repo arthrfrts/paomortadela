@@ -1,7 +1,7 @@
 comments:
   name: Pão com Mortadela
   branch: main
-  commitMessage: "adiciona novo comentário"
+  commitMessage: "Novo comentário"
   path: "_data/comments/{options.slug}"
   filename: "comment-{@timestamp}"
   format: yaml
@@ -35,9 +35,10 @@ comments:
 submit:
   name: Pão com Mortadela
   branch: main
-  commitMessage: "envia nova colaboração"
+  commitMessage: "Nova colaboração"
   path: "_drafts/"
   filename: "{@date:YYYY-MM-DD}-{fields.slug}"
+  extension: md
   format: frontmatter
   moderation: true
   allowedFields:
@@ -75,3 +76,11 @@ submit:
     authorEmail: guest_email
     content: content
     type: comment
+  pullRequestBody: >-
+    Olá, Arthur!
+
+    Alguém acabou de enviar uma nova sugestão de post, olha que bacana. :tada:
+
+    Faça um merge desse pull request se estiver tudo certo. Você também pode fazer algumas modificações no post antes de publicar.
+
+    Um abraço do seu amigo Staticman.
