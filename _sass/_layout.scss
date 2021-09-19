@@ -354,7 +354,8 @@
   resize: vertical;
 }
 
-.comment-fields {
+.comment-fields,
+.submit-fields {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: $spacing-unit / 2;
@@ -751,4 +752,18 @@
       }
     }
   }
+}
+
+input[type="text"].submit-title {
+  font-size: 2.7rem;
+}
+
+.submit-tag-field,
+.submit-bio-field {
+  margin-bottom: 2rem;
+}
+
+button[type="submit"].submit-button {
+  display: block;
+  width: 100%;
 }
