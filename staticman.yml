@@ -48,7 +48,8 @@ submit:
     - author_email
     - author_url
   generatedFields:
-    author.name: "{fields.author_name}"
+    author.name:
+      type: slug
     author.url: "{fields.author_url}"
     date:
       type: date
