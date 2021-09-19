@@ -37,17 +37,17 @@ submit:
   branch: main
   commitMessage: "envia nova colaboração"
   path: "_drafts/"
-  filename: "{@date:YYYY-MM-DD}-{fields.title}"
+  filename: "{@date:YYYY-MM-DD}-{fields.slug}"
   format: frontmatter
   moderation: true
   allowedFields:
     - title
     - content
     - tags
-    - author:
-      - name
-      - email
-      - url
+    - guest_name
+    - guest_email
+    - guest_url
+    - guest_bio
   generatedFields:
     date:
       type: date
@@ -55,14 +55,23 @@ submit:
         format: iso8601
     slug:
       type: slugify
+      options:
+        field: title
   requiredFields:
     - title
     - content
+    - guest_name
+    - guest_url
   transforms:
     author_email: md5
     content: frontmatterContent
+  allowedOrigins:
+    - "paomortadela.com.br"
+    - "localhost"
   akismet:
     enabled: true
-    author: author
+    author: guest_name
+    authorUrl: guest_url
+    authorEmail: guest_email
     content: content
     type: comment
