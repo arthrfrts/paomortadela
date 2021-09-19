@@ -37,16 +37,17 @@ submit:
   branch: main
   commitMessage: "envia nova colaboração"
   path: "_drafts/"
-  filename: "{@date:YYYY-MM-DD}-{@fields.title}"
+  filename: "{@date:YYYY-MM-DD}-{fields.title}"
   format: frontmatter
   moderation: true
   allowedFields:
     - title
     - content
     - tags
-    - author_name
-    - author_email
-    - author_url
+    - author:
+      - name
+      - email
+      - url
   generatedFields:
     date:
       options:
@@ -57,15 +58,15 @@ submit:
   requiredFields:
     - title
     - content
-    - author_name
-    - author_email
+    - author.name
+    - author.email
   transforms:
     author_email: md5
     content: frontmatterContent
   akismet:
     enabled: true
-    author: author_name
-    authorEmail: author_email
-    authorUrl: author_url
+    author: author.name
+    authorEmail: author.email
+    authorUrl: author.url
     content: content
     type: comment
