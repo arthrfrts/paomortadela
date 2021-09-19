@@ -9,3 +9,4 @@
 {% endif -%}
 {%- endfor -%}
 /tagged/*  /tag/:splat   301
+/submit   /contribua  301
