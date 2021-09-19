@@ -61,6 +61,7 @@ submit:
     - author_email
   transforms:
     author_email: md5
+    content: frontmatterContent
   akismet:
     enabled: true
     author: author_name
