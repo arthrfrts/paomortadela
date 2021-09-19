@@ -52,8 +52,8 @@ submit:
       name: "{fields.author_name}"
       url: "{fields.author_url}"
     date:
+      type: date
       options:
-        type: date
         format: iso8601
     slug:
       type: slugify
