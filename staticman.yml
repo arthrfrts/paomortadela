@@ -78,9 +78,12 @@ submit:
     type: comment
   pullRequestBody: >-
     Olá, Arthur!
-
+    \n
     Alguém acabou de enviar uma nova sugestão de post, olha que bacana. :tada:
-
+    \n
     Faça um merge desse pull request se estiver tudo certo. Você também pode fazer algumas modificações no post antes de publicar.
-
+    \n
     Um abraço do seu amigo Staticman.
+    \n
+    ---
+    \n
