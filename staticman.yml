@@ -32,3 +32,39 @@ comments:
     authorUrl: website
     content: message
     type: comment
+submit:
+  name: Pão com Mortadela
+  branch: main
+  commitMessage: "envia nova colaboração"
+  path: "_drafts/"
+  filename: "{@date:YYYY-MM-DD}-{@fields.title}"
+  format: frontmatter
+  moderation: true
+  allowedFields:
+    - title
+    - content
+    - tags
+    - author_name
+    - author_email
+    - author_url
+  generatedFields:
+    date:
+      options:
+        type: date
+        format: iso8601
+    slug:
+      type: slugify
+  requiredFields:
+    - title
+    - content
+    - author_name
+    - author_email
+  transforms:
+    author_email: md5
+  akismet:
+    enabled: true
+    author: author_name
+    authorEmail: author_email
+    authorUrl: author_url
+    content: content
+    type: comment
