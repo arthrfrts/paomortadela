@@ -1,8 +1,10 @@
-- title: Arquivo
+- title: Envie seu post
+  url: "/colabore/"
+- title: Arquivos + tags
   url: "/arquivo/"
 - title: Aleatório
   url: "/aleatorio/"
 - title: Sobre
   url: "/sobre/"
 - title: Pãodecast
-  url: "/arquivo/tag/pãodecast/"
+  url: "/tag/pãodecast/"
