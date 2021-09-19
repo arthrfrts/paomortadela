@@ -55,7 +55,7 @@ submit:
   requiredFields:
     - title
     - content
-    - author.name
+    - author[name]
   transforms:
     author_email: md5
     content: frontmatterContent
