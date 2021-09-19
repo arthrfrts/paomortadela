@@ -44,11 +44,13 @@ submit:
     - title
     - content
     - tags
-    - author:
-      - name
-      - email
-      - url
+    - author_name
+    - author_email
+    - author_url
   generatedFields:
+    author:
+      name: "{fields.author_name}"
+      url: "{fields.author_url}"
     date:
       options:
         type: date
@@ -58,15 +60,15 @@ submit:
   requiredFields:
     - title
     - content
-    - author.name
-    - author.email
+    - author_name
+    - author_email
   transforms:
     author_email: md5
     content: frontmatterContent
   akismet:
     enabled: true
-    author: author.name
-    authorEmail: author.email
-    authorUrl: author.url
+    author: author_name
+    authorEmail: author_email
+    authorUrl: author_url
     content: content
     type: comment
