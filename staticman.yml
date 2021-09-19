@@ -44,9 +44,10 @@ submit:
     - title
     - content
     - tags
-    - author[name]
-    - author[email]
-    - author[url]
+    - author:
+      - name
+      - email
+      - url
   generatedFields:
     date:
       type: date
