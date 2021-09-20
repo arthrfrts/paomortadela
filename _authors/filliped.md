@@ -1,4 +1,6 @@
 ---
 layout: author
-title: "Posts escritos por Fillipe Diniz"
+name: filliped
+display_name: Fillipe Diniz
+title: Posts escritos por Fillipe Diniz
 ---
