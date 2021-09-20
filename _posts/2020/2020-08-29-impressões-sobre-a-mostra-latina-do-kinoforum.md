@@ -12,7 +12,7 @@ tags:
 - festivais
 - Kinoforum
 date: 2020-08-29 15:24 -0300
-canonical_url: "https://paomortadela.com.br/post/658076346512228352/"
+tumblr_url: "/post/658076346512228352/"
 ---
 “O que é ser latina?”, era a pergunta que me atingia enquanto adentrava nos 15 curtas selecionados para a Mostra Latino Americana do 31º Kinoforum. Esse continente imaginário, fundado a partir das veias abertas, produz seu cinema de maneira quase à deriva. Os processos que vemos nas telas, são incrustados deste espírito que atravessa terras e memórias de povos subjugados e colonizados. De países que cresceram a mercê do domínio estrangeiro, mas que tem sua linguagem própria, seus mitos e seu imaginário coletivo para narrar no cinema.
 

@@ -10,7 +10,7 @@ tags:
 - festivais
 - Kinoforum
 date: 2020-08-25 20:55 -0300
-canonical_url: "https://paomortadela.com.br/post/658075617083981824/"
+tumblr_url: "/post/658075617083981824/"
 ---
 Uma das coisas mais bacanas nos festivais de cinema é aquela sensação única de que você tem filme demais pra assistir em pouco tempo. Um festival de cinema é um espaço que celebra esse tipo de exaustão: é um pouco do cinema de várias partes do mundo, e você precisa decidir o que assistir. Você quer descobrir algo novo, quer assistir o filme mais novo de um diretor que você gosta?
 
