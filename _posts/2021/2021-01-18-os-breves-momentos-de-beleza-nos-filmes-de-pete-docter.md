@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Os breves momentos de beleza nos filmes de Pete Docter
+date: 2021-01-18
 excerpt: >-
   Esse post revela momentos da trama de Soul.
 author: arthurf

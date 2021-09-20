@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Gilmore Girls não é a melhor série já feita, mas é a melhor série já feita"
+date: 2016-07-04
 tags:
   - séries
   - drama

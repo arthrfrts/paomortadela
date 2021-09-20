@@ -1,6 +1,7 @@
 ---
 layout: post
 title: As rotinas de Ursula K. Le Guin e David Lynch
+date: 2021-03-03
 author: arthurf
 tags:
   - links

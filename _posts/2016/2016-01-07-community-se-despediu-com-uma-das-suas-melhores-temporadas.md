@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Community se despediu com uma das suas melhores temporadas"
+date: 2016-01-07
 tags:
   - séries
   - comédia

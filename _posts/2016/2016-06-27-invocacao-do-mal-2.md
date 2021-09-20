@@ -2,6 +2,7 @@
 layout: post
 title: "Invocação do Mal 2 quase não assusta, mas também não tá aí pra isso"
 author: arthurf
+date: 2016-06-27
 tags:
   - filmes
   - cinema americano

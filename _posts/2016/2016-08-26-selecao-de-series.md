@@ -2,6 +2,7 @@
 layout: post
 title: As minhas séries favoritas para você assistir nessas férias
 author: arthurf
+date: 2016-08-26
 tags:
   - listas
   - séries

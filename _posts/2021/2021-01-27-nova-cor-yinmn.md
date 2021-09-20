@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Aparentemente descobriram uma nova tonalidade de azul
+date: 2021-01-27
 author: arthurf
 tags:
   - links

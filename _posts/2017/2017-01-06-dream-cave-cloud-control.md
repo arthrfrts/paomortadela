@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dream Cave é novo e empolgante."
+date: 2017-01-06
 tags:
   - músicas
   - indie

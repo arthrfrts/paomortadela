@@ -2,6 +2,7 @@
 layout: post
 title: Random Access Memories
 author: arthurf
+date: 2016-01-04
 image: "/uploads/2016/01/04/random-access-memories.jpg"
 tags:
   - resenhas

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: As coisas incríveis que meus amigos fazem
+date: 2020-12-17
 excerpt: >-
   Alguns links para você conferir alguns trabalhos dos meus amigos.
 author: arthurf

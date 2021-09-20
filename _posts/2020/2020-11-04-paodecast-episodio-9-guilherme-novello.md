@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Episódio 9 – com Guilherme Novello
+date: 2020-11-04
 author: arthurf
 tags:
   - Pãodecast

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: O Daft Punk acabou
+date: 2021-02-22
 author: arthurf
 tags:
   - músicas
