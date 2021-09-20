@@ -1,0 +1,32 @@
+a {
+  color: var(--color-link);
+  text-decoration: none;
+  transition: color 150ms ease;
+
+  &:hover,
+  &:focus {
+    color: var(--color-link-hover);
+    text-decoration: underline;
+  }
+}
+
+.post_content {
+  font-family: var(--font-content);
+}
+
+p, ul, ol, dl,
+blockquote, pre,
+table, audio, video {
+  .post_content > &:not(.full-width):not(.wide) {
+    max-width: 46rem;
+  }
+}
+
+img, iframe, audio, video,
+object, embed {
+  max-width: 100%;
+}
+
+iframe, video {
+  aspect-ratio: 16 / 9;
+}
