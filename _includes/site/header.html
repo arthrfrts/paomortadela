@@ -3,6 +3,7 @@
     <a href="{{ '/' | relative_url }}">
       {% if site.logo %}
         <img class="site_logo" title="{{ site.title }}" src="{{ site.logo | relative_url }}" />
+        {{ site.title }}
       {% else %}
         {{ site.title }}
       {% endif %}
@@ -20,4 +21,6 @@
   {% endif %}
 
   {% include site/menu.html %}
+
+  {% include assets/edge.svg %}
 </header>

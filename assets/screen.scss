@@ -2,12 +2,13 @@
 ---
 
 :root {
-  --base-font: system-ui;
+  --font-base: "League Spartan";
   --font-content: "Sorts Mill Goudy", serif;
+  --color-background: #fff;
   --color-text: rgb(33, 37, 41);
-  --color-brand: rgb(255,250,150);
+  --color-brand: #ffd32f;
   --color-link: rgb(214, 139, 185);
   --color-link-hover: rgb(0, 162, 133);
 }
 
-@import "site", "content";
+@import "fonts", "site", "content";
