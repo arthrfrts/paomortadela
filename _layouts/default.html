@@ -6,15 +6,7 @@
     <div id="site">
 
       <main class="content">
-        <div class="wrapper">
-          <div class="blog">
-            {{ content }}
-          </div>
-
-          {% unless page.layout == "page" %}
-            {% include_cached sidebar.html %}
-          {% endunless %}
-        </div>
+        {{ content }}
       </main>
 
 

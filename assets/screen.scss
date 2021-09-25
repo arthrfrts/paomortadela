@@ -4,11 +4,13 @@
 :root {
   --font-base: "League Spartan";
   --font-content: "Sorts Mill Goudy", serif;
-  --color-background: #fff;
+  --color-background: rgb(255, 255, 255);
   --color-text: rgb(33, 37, 41);
-  --color-brand: #ffd32f;
+  --color-brand: rgb(255, 211, 47);
   --color-link: rgb(214, 139, 185);
   --color-link-hover: rgb(0, 162, 133);
+  --spacing-unit: 1.5rem;
+  --content-width: 960px;
 }
 
 @import "fonts", "site", "content";

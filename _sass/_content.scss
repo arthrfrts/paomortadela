@@ -1,3 +1,44 @@
+/*
+  Text Elements
+*/
+p, ul, ol, dl,
+blockquote, pre,
+table, audio, video {
+  &:not(:last-child) {
+    margin-bottom: var(--spacing-unit);
+  }
+
+  .post_content > &:not(.full-width):not(.wide) {
+    max-width: 40rem;
+  }
+}
+
+.post_content {
+  font-family: var(--font-content);
+
+  b, strong {
+    font-weight: normal;
+    text-shadow: 1px 1px 1px #fff;
+    background: linear-gradient(
+      -100deg,
+      rgba(255,250,150,0.2),
+      rgba(255,250,150,0.8) 92%,
+      rgba(255,250,150,0.2)
+    );
+  }
+}
+
+// Headings
+
+.post_content {
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-base);
+    font-weight: normal;
+    margin-bottom: var(--spacing-unit);
+  }
+}
+
+// Links
 a {
   color: var(--color-link);
   text-decoration: none;
@@ -10,23 +51,7 @@ a {
   }
 }
 
-.post_content {
-  font-family: var(--font-content);
-
-  b, strong {
-    text-shadow: 1px 1px 1px #fff;
-    background-color: linear-gradient( -100deg,rgba(255,250,150,0.2),rgba(255,250,150,0.8) 92%,rgba(255,250,150,0.2) )
-  }
-}
-
-p, ul, ol, dl,
-blockquote, pre,
-table, audio, video {
-  .post_content > &:not(.full-width):not(.wide) {
-    max-width: 46rem;
-  }
-}
-
+// Media
 img, iframe, audio, video,
 object, embed {
   max-width: 100%;
@@ -35,3 +60,28 @@ object, embed {
 iframe, video {
   aspect-ratio: 16 / 9;
 }
+
+figure {
+  margin: 0;
+}
+
+img + em {
+  font-family: var(--font-base);
+  font-size: 0.875rem;
+  background: linear-gradient(
+    -100deg,
+    rgba(255,250,150,0.2),
+    rgba(255,250,150,0.8) 92%,
+    rgba(255,250,150,0.2)
+  );
+  display: inline-block;
+  padding: calc(var(--spacing-unit) / 4);
+  max-width: 250px;
+}
+
+.full-width,
+.wide {
+  text-align: right;
+}
+
+
