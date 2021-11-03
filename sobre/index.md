@@ -11,7 +11,7 @@ Se está na internet e nos deixou curiosos, nós achamos que você também vai g
 
 ## Contribua
 
-Você encontrou algo bacana que você gostaria de compartilhar? Tem uma opinião que gostaria de expressar? [Contribua com um post]({% link contribua/index.html %}. Nós vamos agendar ele e creditar a autoria para você.
+Você encontrou algo bacana que você gostaria de compartilhar? Tem uma opinião que gostaria de expressar? [Contribua com um post]({% link contribua/index.html %}). Nós vamos agendar ele e creditar a autoria para você.
 
 ## Entre em contato
 
