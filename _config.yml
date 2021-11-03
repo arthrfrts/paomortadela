@@ -46,19 +46,12 @@ keep_files:
 
 plugins:
   - jekyll-sitemap
-  - jekyll-seo-tag
   - jekyll-archives
   - jekyll-paginate
   - jekyll-loading-lazy
   - jekyll-include-cache
 
 # SEO
-social:
-  name: Pão com Mortadela
-  links:
-    - https://twitter.com/paomortadela
-    - https://www.facebook.com/paomortadela.com.br
-
 twitter:
   username: paomortadela
   card: summary
