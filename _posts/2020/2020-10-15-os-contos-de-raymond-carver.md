@@ -19,7 +19,7 @@ Demorou um bocado pra eu encontrar meu tempo pra ler como eu queria em 2020, mas
 Eu já tô lendo muito mais do que eu li nos últimos anos. Eu decidi que ia ler todos os contos do Raymond Carver, que se espalham por sete livros publicados e duas coleções de “restos” no gigantíssimo [_68 Contos de Raymond Carver_](https://www.companhiadasletras.com.br/detalhe.php?codigo=12687). Eu comecei relendo [_Iniciantes_](https://www.companhiadasletras.com.br/detalhe.php?codigo=12686), um livro com a versão “original” dos seus primeiros contos publicados. Eu já tinha lido esse livro em 2014 e gostado muito. Reli e continuei gostando muito, então decidi seguir em frente.
 
 {: .full-width }
-![Raymond Carver escrevendo em sua máquina de escrever em seu escritório cercado por uma estante de livros]({% link uploads/2020/10/15/raymond-carver.jpg %})
+![Raymond Carver escrevendo em sua máquina de escrever em seu escritório cercado por uma estante de livros]({%- link uploads/2020/10/15/raymond-carver.jpg -%})
 
 Raymond Carver foi considerado um dos grandes autores do minimalismo americano, uma abordagem à escrita que reduz a narrativa aos seus elementos mais básicos. Eu tenho a impressão que isso torna os contos do autor mais cinemáticos, também. Eles são bem diretos em termos do que está acontecendo, e torna o detalhismo bem mais eventual, e bem mais forte quando aparece. Em um dos meus contos favoritos, “Coreto”, Carver detalha a textura do lençol da cama de hotel que o casal está deitado. Mas ele o faz porque eles estão sobre aquele lençol por horas, e a textura começa a chamar a atenção de seus personagens.
 
