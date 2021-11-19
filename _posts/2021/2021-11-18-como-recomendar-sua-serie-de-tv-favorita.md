@@ -25,7 +25,7 @@ Pra mim, recomendar algo que eu amo é um ato de carinho bem íntimo. Eu quero c
 
 ***
 
-**Bônus:** aproveitem essas dicas de quais episódios assistir se você estiver a fim de experimentar uma das minhas séries favoritas.
+**Bônus:** aproveite essas dicas de quais episódios assistir se você estiver a fim de experimentar uma das minhas séries favoritas.
 
 ### The Leftovers
 
