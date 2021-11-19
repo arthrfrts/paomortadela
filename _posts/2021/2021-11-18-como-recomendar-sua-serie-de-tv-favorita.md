@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Como recomendar sua série de TV favorita
-excerpt: 'E mais: uma lista dos meus episódios favoritos para as minhas séries favoritas.'
+image: "/uploads/2021/11/succession.jpg"
+excerpt: >-
+  E mais: uma lista dos meus episódios favoritos para as minhas séries favoritas.
 author: arthurf
 tags:
-- esquinas
-- episódios
-- séries
-date: 2021-11-18 22:52 -0300
+  - esquinas
+  - episódios
+  - séries
 ---
+
 Faz um tempo que eu tô formulando o jeito certo de recomendar uma série que eu gosto muito para os meus amigos. Por muito tempo, eu ficava apresentando o piloto da série, mas essa recomendação geralmente vem acompanhada de um aviso parecido com “espera até o episódio 7 que a série fica boa” ou “se você não gostar da primeira temporada, a segunda fica *muito* melhor”. Isso não é muito eficaz.
 
 A maioria das minhas séries favoritas não tem premissas cativantes ou bons inícios. Pelo contrário, eu gosto de séries que *crescem* com o passar do tempo, séries que ficam mais e mais recompensadoras de assistir. Uma série que tem um início forte tem a dura missão de tentar repetir o seu sucesso desde o início. Uma série que tem um início promissor, mas falho, consegue aprender e ir melhorando a fórmula, acompanhando a [própria estrutura narrativa das séries]({% post_url 2021/2021-06-01-the-americans %}) ao ponto de atingir um clímax perfeito — e concluir melhor ainda.
@@ -122,4 +124,4 @@ O meu episódio favorito de *The Americans* é o anterior à esse, em que ocorre
 
 Nos meus piores dias, eu odeio esse episódio. A forma como ele traduz meus anseios, minha carência, e a forma como ele expõe — para fora da personagem, para que ela não possa perceber — aquilo que a gente tem de bom. Nos meus melhores dias, eu agradeço que eu possa ter assistido a algo tão honesto, algo tão emocionalmente cru como o quarto episódio da segunda temporada de *Fleabag*.
 
-Embora nada supere [aquela cena final da série]({{% post_url 2020/2020-05-05-foi-assim-que-fleabag-partiu-meu-coracao %}) em termos de “despedaçar meu coração”, ela funciona porque esse episódio fez todo o trabalho pesado. É aqui que Fleabag começa a se afastar de nós, porque é aqui que vemos ela chegar no seu ponto mais baixo, e nós vemos pela primeira vez o momento em que a vida dela mudou pra valer. É engraçado, como todo o episódio de *Fleabag* é, mas é banhado naquela tristeza íntima que a gente relembra da série na hora de recomendar para as pessoas. “Você vai morrer de rir, mas você também vai sentir a dor dela”, é como você poderia descrever a série para alguém. Mas nenhuma palavra consegue descrever o que é *assistir* esses sentimentos te destruírem e te remontarem por dentro. Se quiser ter uma provinha, você vai ser muito bem recebido por aqui.
+Embora nada supere [aquela cena final da série]({% post_url 2020/2020-05-05-foi-assim-que-fleabag-partiu-meu-coracao %}) em termos de “despedaçar meu coração”, ela funciona porque esse episódio fez todo o trabalho pesado. É aqui que Fleabag começa a se afastar de nós, porque é aqui que vemos ela chegar no seu ponto mais baixo, e nós vemos pela primeira vez o momento em que a vida dela mudou pra valer. É engraçado, como todo o episódio de *Fleabag* é, mas é banhado naquela tristeza íntima que a gente relembra da série na hora de recomendar para as pessoas. “Você vai morrer de rir, mas você também vai sentir a dor dela”, é como você poderia descrever a série para alguém. Mas nenhuma palavra consegue descrever o que é ver esses sentimentos te destruírem e te remontarem por dentro. Se quiser ter uma provinha, você vai ser muito bem recebido por aqui.
