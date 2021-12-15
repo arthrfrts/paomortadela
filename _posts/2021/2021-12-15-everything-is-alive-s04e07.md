@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Everything is Aive entrevista Sal, a meia
+title: Everything is Alive entrevista Sal, a meia
 author: arthurf
 tags:
 - links
