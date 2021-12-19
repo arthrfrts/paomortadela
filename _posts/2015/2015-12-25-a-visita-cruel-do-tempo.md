@@ -1,22 +1,21 @@
 ---
 layout: post
-title: A Visita Cruel do Tempo
-date: "2015-12-25 11:25 AM"
-image: "/uploads/2015/12/25/visita-cruel.jpg"
+title: O legado social do Nintendo 3DS
 author: arthurf
 tags:
-  - livros
-  - leituras
-  - Jennifer Egan
-tumblr_url: "/post/658004566262054912/"
+- jogos
+- Nintendo
+- Nintendo 3DS
+date: 2021-01-07 08:55 -0300
 ---
+Cecília D'Alessandro escreveu [um excelente post-mortem sobre o Nintendo 3DS](https://www.wired.com/story/obituary-nintendo-3ds-in-memoriam/) (e os portáteis da Nintendo de maneira geral) quando o pequeno foi descontinuado no ano passado:
 
-Você gosta de ler contos? Contos são excelentes formas de narrativa, grandes o suficiente para eu me prender a um personagem, pequenos o suficiente pra nos deixar com água na boca. Então, eu não gostava de ler contos. E eu aprendi a gostar deles com um romance.
+> Hardware matters, but in the end, portable console players want to connect to each other with as few barriers as possible. The legacy of the 3DS, at least for me, is as a reminder that gaming is more than just entertainment: It’s a social network. Strangers saw each other playing their 3DSes out in the world and forged quiet (or loud), immediate connections. The magic of the Switch is that it was one of the first consoles to bring those outside connections inside—from the cafe onto your sectional couch.
 
-*A Visita Cruel do Tempo* não é uma coletânea de contos, mas parece. Trata-se de um apanhado de histórias que se conectam por pequenos detalhes (o amigo de um personagem, uma data ou um local em comum) para contar a história de Sasha, a secretária de um empresário da música, que já foi muito famoso e influente, mas que hoje está decadente e lembrando do seu tempo de jovem, quando tinha uma banda com seus amigos e uma amiga que fugiu de casa para ficar com um produtor, que uma vez foi pra África com os dois filhos, um deles que se mataria anos depois, enquanto…
+[Eu comprei um Nintendo 3DS com o primeiro salário]({% post_url 2020/2020-09-17-a-era-dos-videogames-portateis-acabou %}) do meu primeiro trabalho. Eu e meus colegas da época jogávamos *Mario Kart* depois do almoço e antes de começar o turno da tarde. Depois que saí da empresa para ir para a faculdade, minha jogatina com o 3DS era quase sempre sozinha. Eu jogava no trem, indo de Porto Alegre para São Leopoldo, até que comecei a perceber que outras pessoas também estavam tirando seus videogames das mochilas e bolsas para jogar. Eu nunca fiquei amigo dessas pessoas, mas visitei várias cidades em *Animal Crossing: New Leaf* e perdi várias brigas no *Super Smash Bros.*
 
-Bem, e aí vai. Cada capítulo do livro nos apresenta ou um personagem dessa história intrincada, ou um momento diferente de um personagem que já conhecemos. Assim conhecemos a infância, juventude e meia-idade de Sasha, a juventude e idade avançada de Bennie, os momentos antes da morte de Rob, e assim por diante. Jennifer Egan narra *A Visita Cruel do Tempo* de maneiras tão diferentes que parece ser uma coletânea de diversos autores. Não é gratuito: as diferentes formas de contar história refletem os diferentes momentos ou os diferentes personagens que seguimos. Seja na São Francisco de 1970 ou a São Francisco de um futuro não muito distante (e um tanto doloroso), os personagens de A Visita… nos prendem uma percepção horrível: o tempo passa, e ele leva tudo.
+Esse tipo de interação era bastante único dos videogames portáteis: você via que alguém estava jogando, seja no parque, no shopping ou no trem, e tirava seu videogame. Antes do 3DS, você falava com a pessoa, vocês trocavam Friend Codes e então podiam jogar juntos. O 3DS facilitou um pouco esse primeiro contato. O próprio videogame piscava uma luz verde indicando que tinha alguém por perto, o Mii da pessoa chegava na sua praça virtual e vocês eram apresentados. Você olha ao redor e encontra a pessoa que acabou de conhecer.
 
-E não é a toa que o título brasileiro leva “tempo”. É ele, afinal, o personagem principal do livro. O implacável e imperceptível tempo, que vai transformar a vida de Sasha, vai arruinar a vida de seu tio; vai trazer saudades de Rob. Ao rodear esses personagens com o mundo da música, é impossível não perceber as mudanças que a cultura pop representou nesses anos todos. Como a própria Egan fala, “é impossível evitar se tornar parte do passado”. Enquanto você se acha o mais hipster por gostar do novo Bon Iver, não se surpreenda quando as crianças de hoje surgirem com a nova moda.
+Eu acho que o que tornou o Nintendo 3DS tão especial para aqueles que tiveram ele foi justamente esse sentimento de culminação, de a Nintendo entender completamente o apelo de um videogame portátil que consoles de mesa e celulares não tinham: o 3DS era uma espécie de sociedade secreta que você entrava e, ao mostrar o seu portátil para os outros, era recebido com boas vindas. O StreetPass, o SpotPass, o bloco de notas e o relatório de jogos eram recursos naturais em um videogame que você jogava em qualquer lugar, nem sempre confortável o suficiente para pegar o celular com outra mão e anotar o código que você precisa digitar na próxima fase do jogo. Tudo o que você precisava para jogar no 3DS, ele oferecia.
 
-Porque o tempo é cruel, não é? Não é assim que se diz?
+É algo que eu sinto bastante falta no Switch, que indica que a Nintendo vê ele muito mais como um console de mesa do que um portátil. Recursos sociais são escassos nele, enquanto que eram fundamentais pro sucesso do 3DS. O Switch é superior em quase todos os sentidos, mas a Nintendo sabia exatamente o que um portátil precisava no 3DS, e o tipo de interação que um videogame portátil provocava e incentivava. Com o fim daquele pequeno videogame (e da linhagem que ele seguiu), um pouco dessa mágica se perdeu.
