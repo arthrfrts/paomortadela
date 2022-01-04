@@ -3,10 +3,10 @@ layout: post
 title: Uma foto do Cometa Leonard
 author: arthurf
 tags:
-  - espaço
-  - fotos
+- espaço
+- fotos
+date: 2022-01-04 07:04 -0300
 ---
-
 {: .full-width }
 ![Um cometa cruzando o céu preto estrelado, com sua cauda branca deixando um rastro no céu]({% link uploads/2022/01/leonard.jpg %})
 
