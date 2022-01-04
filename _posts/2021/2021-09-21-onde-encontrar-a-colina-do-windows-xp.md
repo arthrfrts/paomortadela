@@ -4,7 +4,7 @@ title: Onde encontrar a colina do Windows XP
 author: arthurf
 date: 2021-09-21 20:27 -0300
 tags:
-  - fotografia
+  - fotos
   - tecnologia
   - curiosidades
 ---

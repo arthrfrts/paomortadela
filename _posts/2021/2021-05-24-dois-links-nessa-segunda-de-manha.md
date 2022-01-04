@@ -6,7 +6,7 @@ tags:
 - achados
 - links
 - vídeos
-- fotografia
+- fotos
 date: 2021-05-24 12:15 -0300
 ---
 Dois links nessa manhã de segunda:

@@ -4,7 +4,7 @@ title: Faces do Século
 date: '2021-08-04T07:53:47-03:00'
 author: arthurf
 tags:
-- fotografia
+- fotos
 tumblr_url: /post/658583770628259840/faces-do-s%C3%A9culo
 ---
 [Faces do Século](http://www.janlanger.net/en/Stoleti-cesi)
