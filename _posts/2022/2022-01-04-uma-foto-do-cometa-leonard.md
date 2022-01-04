@@ -14,4 +14,6 @@ Essa é uma foto (composta por outras doze fotos) do “cometa de natal”, Leon
 
 > “Apesar de estar bem baixo no céu a sudoeste, consegui tirar cerca de 12 minutos de fotos em close-up, o que me deu uma ótima visão da incrível estrutura e cor ao redor do núcleo. Eu não conseguia ver a olho nu, mas com binóculos dava para ver muito claramente. Você pode fotografá-lo com a câmera de um celular se souber onde procurar!”
 
+McCarthy apareceu no blog em abril do ano passado com [essa foto do Sol]({% post_url 2021/2021-04-28-olhe-para-esse-sol %}).
+
 Boas vindas ao ano novo, pessoal!
