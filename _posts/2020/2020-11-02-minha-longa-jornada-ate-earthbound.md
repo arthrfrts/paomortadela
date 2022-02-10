@@ -5,6 +5,7 @@ author: arthurf
 tags:
 - jogos
 - RPG
+- EarthBound
 - Nintendo
 date: 2020-11-02 18:23 -0300
 tumblr_url: "/post/658085249325121536/"
