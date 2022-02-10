@@ -13,5 +13,5 @@ group :jekyll_plugins do
 end
 
 gem "tzinfo", "~> 2.0", :install_if => Gem.win_platform?
-gem "tzinfo-data", "~> v1.2021.5" :install_if => Gem.win_platform?
+gem "tzinfo-data", :install_if => Gem.win_platform?
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
