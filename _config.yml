@@ -21,7 +21,6 @@ collections:
 # Build settings
 markdown: kramdown
 incremental: true
-livereload: true
 
 url: "https://paomortadela.com.br" # mudar no merge
 baseurl: ""
