@@ -8,7 +8,7 @@
           "type" : "sound"
         }
       ],
-      "script" : "#!\/bin\/sh\nbundle"
+      "script" : "#!\/bin\/sh\nbundle update"
     },
     "clean" : {
       "enabled" : true,
