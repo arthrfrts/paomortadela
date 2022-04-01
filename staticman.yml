@@ -1,0 +1,89 @@
+comments:
+  name: Pão com Mortadela
+  branch: main
+  commitMessage: "Novo comentário"
+  path: "_data/comments/{options.slug}"
+  filename: "comment-{@timestamp}"
+  format: yaml
+  moderation: false
+  allowedFields:
+    - name
+    - email
+    - website
+    - message
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: timestamp-seconds
+  requiredFields:
+    - name
+    - email
+    - message
+  transforms:
+    email: md5
+  allowedOrigins:
+    - "paomortadela.com.br"
+    - "localhost"
+  akismet:
+    enabled: true
+    author: name
+    authorEmail: email
+    authorUrl: website
+    content: message
+    type: comment
+submit:
+  name: Pão com Mortadela
+  branch: main
+  commitMessage: "Nova colaboração"
+  path: "_drafts/"
+  filename: "{@date:YYYY-MM-DD}-{fields.slug}"
+  extension: md
+  format: frontmatter
+  moderation: true
+  allowedFields:
+    - title
+    - content
+    - tags
+    - guest_name
+    - guest_email
+    - guest_url
+    - guest_bio
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: iso8601
+    slug:
+      type: slugify
+      options:
+        field: title
+  requiredFields:
+    - title
+    - content
+    - guest_name
+    - guest_url
+  transforms:
+    author_email: md5
+    content: frontmatterContent
+  allowedOrigins:
+    - "paomortadela.com.br"
+    - "localhost"
+  akismet:
+    enabled: true
+    author: guest_name
+    authorUrl: guest_url
+    authorEmail: guest_email
+    content: content
+    type: comment
+  pullRequestBody: >-
+    Olá, Arthur!
+    \n
+    Alguém acabou de enviar uma nova sugestão de post, olha que bacana. 🎉
+    \n
+    Faça um merge desse pull request se estiver tudo certo. Você também pode fazer algumas modificações no post antes de publicar.
+    \n
+    Um abraço do seu amigo Staticman. 🦸‍♂️
+    \n
+    ---
+    \n
