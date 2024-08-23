@@ -8,7 +8,7 @@ tags:
   - Steam
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/dear-esther-landmark-edition.jpg"
-tumblr_url: "/post/658040578256338944/"
+redirect_from: "/post/658040578256338944/"
 ---
 
 Eu me apaixonei por _Dear Esther_ logo depois do fade in. A gente está numa marina abandonada, e uma voz começa a ler uma carta. Você anda.

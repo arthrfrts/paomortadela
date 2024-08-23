@@ -6,7 +6,7 @@ author: arthurf
 tags:
 - web
 - experimentos
-tumblr_url: /post/659148617218768896/blob-opera-google-arts-culture
+redirect_from: /post/659148617218768896/blob-opera-google-arts-culture
 ---
 
 [_Blob Opera_]((https://artsandculture.google.com/experiment/blob-opera/AAHWrq360NcGbw)  ) é um experimento de aprendizado de máquina de David Li junto ao Google Arts and Culture, em que quatro vozes são moduladas pelo mouse do usuário para criar sons semelhantes aos cantores de Ópera.

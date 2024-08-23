@@ -8,7 +8,7 @@ tags:
 - curtas
 - Kinoforum
 - festivais
-tumblr_url: /post/660893125046353920/
+redirect_from: /post/660893125046353920/
 ---
 Afastando-se um pouco do contexto pandêmico, os dois últimos programas da mostra latina do 32º Kinoforum trouxeram reflexões acerca do passado colonizado e expropriado da América Latina mas também novas formas de narrá-lo.&nbsp;
 

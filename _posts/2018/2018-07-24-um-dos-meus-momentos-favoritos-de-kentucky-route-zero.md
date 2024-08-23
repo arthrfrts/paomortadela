@@ -7,7 +7,7 @@ tags:
   - jogos
   - momentos
   - Kentucky Route Zero
-tumblr_url: "/post/658049230204796928/"
+redirect_from: "/post/658049230204796928/"
 ---
 
 Eu acordei hoje lembrando de um dos meus momentos favoritos de _Kentucky Route Zero_ (dos vários):

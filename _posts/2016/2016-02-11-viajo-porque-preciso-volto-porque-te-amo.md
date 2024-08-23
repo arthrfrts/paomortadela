@@ -11,7 +11,7 @@ tags:
   - Karim Aïnouz
   - Marcelo Gomes
 image: "https://arthrfrts.files.wordpress.com/2018/03/viajo-porque-preciso-volto-porque-te-amo.jpg"
-tumblr_url: "/post/658006220634030080/"
+redirect_from: "/post/658006220634030080/"
 ---
 
 > Todo o casamento é perfeito, até que acaba.

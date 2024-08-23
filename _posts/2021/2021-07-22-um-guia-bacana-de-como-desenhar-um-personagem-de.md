@@ -7,7 +7,7 @@ tags:
 - tutoriais
 - tirinhas
 - Peanuts
-tumblr_url: /post/658146804078133248/um-guia-bacana-de-como-desenhar-um-personagem-de
+redirect_from: /post/658146804078133248/um-guia-bacana-de-como-desenhar-um-personagem-de
 ---
 <iframe width="400" height="225" id="youtube_iframe" src="https://www.youtube.com/embed/b0nWcBVvhd0?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

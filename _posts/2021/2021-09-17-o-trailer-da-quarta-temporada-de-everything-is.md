@@ -7,7 +7,7 @@ tags:
 - podcasts
 - Everything is Alive
 - conversas
-tumblr_url: https://paomortadela.com.br/post/662575334047301632/o-trailer-da-quarta-temporada-de-everything-is
+redirect_from: https://paomortadela.com.br/post/662575334047301632/o-trailer-da-quarta-temporada-de-everything-is
 ---
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/us/podcast/season-four-preview/id1388419519?i=1000535373091"></iframe>
 

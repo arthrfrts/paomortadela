@@ -8,7 +8,9 @@ tags:
   - animação
   - brinquedos
 image: "https://i.imgur.com/JY96DhZ.jpg"
-tumblr_url: "/post/658001039191146496/"
+redirect_from:
+  - /post/658001039191146496/
+  - /post/658001039191146496/tudo-%C3%A9-completamente-incrivelmente-especialmente
 ---
 
 Uma Aventura LEGO tinha um zilhão de chances de dar errado. Poderia acabar sendo um grande comercial das peças de montar, ou um monte de referências que crianças não entenderiam e que os adultos não gostariam (como nos dois últimos Shrek). Mas não: Uma Aventura LEGO acertou em cheio.

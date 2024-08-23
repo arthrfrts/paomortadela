@@ -1,0 +1,30 @@
+---
+layout: post
+title: O desorientante mito americano de Jackie
+date: '2019-07-10T00:00:00-03:00'
+tags:
+- achados
+- filmes
+- biografia
+redirect_from: https://paomortadela.com.br/post/658055228470558720/o-desorientante-mito-americano-de-jackie
+---
+![](https://64.media.tumblr.com/1f28d241b6d087dba5c217da00bb5602/3e5c1073fe0fa64b-0f/s540x810/317f710f31f98eed7ee393defb02830087336ff8.png)
+
+Eu não sei porque eu gostei de Jackie (na [Netflix](https://www.netflix.com/title/80141892)). Não é um filme que teria me chamado a atenção. É uma cinebiografia da Jackie Kennedy, a primeira dama do presidente John F. Kennedy, que foi assassinado numa passeata. Eu não me interesso muito por cinebiografias, nem por presidentes americanos. Mas Jackie não sai da minha cabeça (e não só porque eu tô sempre escutando [a excelente trilha-sonora](https://open.spotify.com/album/26oV0D5W0BYifdA6twoivA), composta por Mica Levi), e eu não sei muito bem o porquê.
+
+Então eu vou escrever esse texto pra tentar entender.
+
+Jackie se passa em três momentos, que estão misturados na linha do tempo do filme. Uma delas puxa a outra, e a terceira existe à parte, e serve mais como uma união temática entre tudo: a primeira é uma entrevista que Jackie oferece à um jornalista sobre os acontecimentos entre o assassinato do marido e a grandiosa cerimônia de sepultamento que ela organizou. A terceira, que parece que acontece mais adiante no futuro, é uma conversa de Jackie com um padre que vai re-sepultar (isso é uma expressão?) um dos filhos do casal ao lado do pai.
+
+A maior parte do filme acontece entre o assassinato de JFK e o seu sepultamento, e eu acho que é aí que o filme me ganha. Ao invés de tentar contar uma “história oficial” sobre o planejamento do sepultamento de um presidente dos Estados Unidos, ou sobre o porquê ele se transformou num mito, Jackie tá mais preocupado em entender o conflito de emoções que a esposa, esquecida e traída, precisa lidar para cuidar do legado do marido.
+
+Parece uma história banal, e é, até certo ponto. Em uma das melhores cenas de Jackie, a primeira dama briga com o cunhado sobre os motivos dela querer fazer uma cerimônia grandiosa, ao invés de apenas enterrá-lo como uma pessoa normal. Ela rebate, com uma das melhores falas do filme: “nós não somos pessoas normais. Pessoas normais não precisam fazer uma escolha dessas”. É forte, mas Jackie existe para entender esse momento, porque é um filme sobre como os EUA criam seus mitos, e o papel que as pessoas ao redor dessas figuras precisam assumir.
+
+<iframe id="youtube_iframe" src="https://www.youtube.com/embed/uySAZY3TMwQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="540" height="404" frameborder="0"></iframe>
+
+Jackie Kennedy é forçada a engolir seu marido distante como um herói nacional, sendo que ele (como o filme argumenta) passou os anos no governo dele impedindo crises que ele mesmo começou. Jackie não precisa só lidar com o luto, com o futuro incerto dos filhos — ela aponta, pra sua conselheira, como a esposa de Abrahan Lincoln morreu na pobreza — mas também em definir o legado do marido. Em um momento, o filme volta ainda mais no tempo para quando ela faz um tour para a TV pela Casa Branca, onde ela gastou milhões para restaurar. “É importante que o povo americano enxergue sua história de alguma forma”, ela fala, enquanto exibe os móveis usados pelos presidentes anteriores, recuperados e restaurados. Ela precisa fazer o mesmo com o marido: Jackie monta um funeral para um herói, porque é assim que ele precisa entrar na história americana.
+
+Segurando tudo isso nas costas tá Natalie Portman, que torna Jackie em uma figura pequena, à mercê dos movimentos políticos do cunhado, excluída da vida pelo marido, vista como um peso pelo gabinete do presidente que vai assumir o lugar de JFK. Portman cria uma mulher com fala delicada (e com roupas lindíssimas), mas que gradualmente cresce dentro do próprio corpo. Quando ela precisa bater o pé, sua voz desestabiliza, tanto sua força quanto sua fraqueza são sonoras. É a grande atuação de uma carreira excelente, em um filme que fecha o plano sempre próximo do seu rosto, criando um sentimento de desorientação onde no centro está essa mulher que tinha o domínio completo de sua imagem. É aquele tipo de paradoxo que vale um filme inteiro.
+
+Tem uma cena onde Jackie olha pela janela do carro para a vitrine de uma loja. As manequins todas com o seu corte de cabelo e suas roupas. Jackie enxerga o legado pelo qual ela fica conhecida: pela sua moda, seu estilo. Mas o filme argumenta que há um legado dela, e das mulheres ao lado dos homens que tem o poder, escondido e mais poderoso. Mais de uma vez o filme nos diz que a Casa Branca de Kennedy era referida como Camelot — e Jackie quer enxergar de onde vem esse mito.
+

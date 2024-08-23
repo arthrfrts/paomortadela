@@ -7,7 +7,7 @@ tags:
   - Pãodecast
   - podcasts
   - conversas
-tumblr_url: "/post/658085321972531200/"
+redirect_from: "/post/658085321972531200/"
 ---
 
 <iframe src="https://anchor.fm/paomortadela/embed/episodes/Guilherme-Novello-em015m" height="102px" class="full-width" frameborder="0" scrolling="no"></iframe>

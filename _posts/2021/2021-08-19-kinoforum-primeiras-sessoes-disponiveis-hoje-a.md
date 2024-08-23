@@ -7,7 +7,7 @@ tags:
 - filmes
 - festival
 - Kinoforum
-tumblr_url: /post/659978942128750592/kinoforum-primeiras-sess%C3%B5es-dispon%C3%ADveis-hoje-a
+redirect_from: /post/659978942128750592/kinoforum-primeiras-sess%C3%B5es-dispon%C3%ADveis-hoje-a
 ---
 <figure data-orig-width="664" data-orig-height="291" class="tmblr-full"><img src="https://64.media.tumblr.com/fd9f01e83ea70e3511877ad10db77bf0/dec36e1f52cdbd4f-52/s540x810/fbeaf6f7035f85c83bf252d2e0e28fa3953534be.png" alt="image" data-orig-width="664" data-orig-height="291"></figure>
 

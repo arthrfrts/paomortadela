@@ -8,7 +8,7 @@ tags:
 - festivais
 - Kinoforum
 - curta-metragens
-tumblr_url: /post/659988466979028992/o-gui-comentou-mais-cedo-como-o-p%C3%A3o-vai-cobrir-o
+redirect_from: /post/659988466979028992/o-gui-comentou-mais-cedo-como-o-p%C3%A3o-vai-cobrir-o
 ---
 <iframe width="400" height="225" id="youtube_iframe" src="https://www.youtube.com/embed/_B5Ioe_Iz2c?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

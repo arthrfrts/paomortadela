@@ -9,7 +9,9 @@ tags:
   - Black Mirror
   - ficção científica
 image: "https://arthrfrts.files.wordpress.com/2018/03/black-mirror.jpg"
-tumblr_url: "/post/657950368336166912/"
+redirect_from:
+  - /post/657950368336166912/
+  - /post/657950368336166912/voc%C3%AA-ainda-n%C3%A3o-assistiu-black-mirror
 ---
 
 Provavelmente você estava ocupado demais com Breaking Bad ou Dexter, eu sei. Mas agora que ambas as séries chegaram ao fim, você precisa de outro programa para estourar seus miolos e espalhá-los pelas paredes. Está na hora de assistir Black Mirror.

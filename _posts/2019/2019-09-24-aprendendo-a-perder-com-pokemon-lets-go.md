@@ -12,7 +12,7 @@ tags:
   - Nintendo
   - Nintendo Switch
   - RPG
-tumblr_url: "/post/658059418827669504/"
+redirect_from: "/post/658059418827669504/"
 ---
 
 Eu não dei muita bola para _Pokémon Let’s Go! Eevee_ na primeira vez que eu joguei, no ano passado. Focado nos novos jogadores que conheceram os monstrinhos através de _Pokémon Go_, _Let’s Go!_ é um remake dos primeiros jogos da franquia (_Pokémon Yellow_, pra ser mais exato) com algumas diferenças no sistema de capturas, que se assemelha mais à mecânica do jogo de celular. Antes, você batalhava com um pokémon selvagem para você enfraquecê-lo e ficar mais fácil de capturá-lo, agora você só precisa acertar bem a mira da pokébola.

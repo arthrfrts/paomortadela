@@ -9,7 +9,7 @@ tags:
   - séries
   - drama
   - HBO
-tumblr_url: "/post/658055883154210816/"
+redirect_from: "/post/658055883154210816/"
 ---
 
 Os Roys, a família no centro de _Succession_, não é muito diferente dos Sopranos e dos Lannisters, outras famílias que protagonizaram outras séries da HBO. Mas, diferente de _Família Soprano_ e de _Game of Thrones_, _Succession_ não pode ver sua família sob a ótica de um gênero televisivo, como a máfia dos Sopranos ou a alta fantasia com os Lannisters. Não, o mundo em que os Roys vive é bem semelhante ao nosso. É justamente o que dificulta você se apaixonar por uma série de tragicomédia como essa, mas é justamente o que torna ela tão boa.

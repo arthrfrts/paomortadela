@@ -10,6 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-compose", "~> 0.12.0"
   gem "jekyll-loading-lazy", "~> 0.1.1"
   gem "jekyll-include-cache", "~> 0.2.1"
+  gem "jekyll-redirect-from", "~> 0.16.0"
 end
 
 gem "tzinfo", "~> 2.0", :install_if => Gem.win_platform?

@@ -8,7 +8,7 @@ tags:
   - músicas
   - Cloud Control
 image: "https://arthrfrts.files.wordpress.com/2018/03/cloud-control-dream-cave.jpg"
-tumblr_url: "/post/657977490634129408/"
+redirect_from: "/post/657977490634129408/"
 ---
 
 Sexta-feira boa é sexta-feira acompanhada de uma boa música, certo? Pois bem, pra encerrar essa semana muito bem resolvi compartilhar com vocês outra banda que tem um espaço muito especial no meu coração. Hoje é a vez do Indie rock do Cloud Control.

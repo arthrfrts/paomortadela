@@ -7,7 +7,7 @@ tags:
 - podcasts
 - conversas
 date: 2020-11-18 09:19 -0300
-tumblr_url: "/post/658085773150765056/"
+redirect_from: "/post/658085773150765056/"
 ---
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Victor-Silva-emipvn" height="102" frameborder="0" scrolling="no"></iframe>
 

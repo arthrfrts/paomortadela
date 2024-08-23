@@ -7,7 +7,7 @@ tags:
 - links
 - Nintendo
 - parques
-tumblr_url: "/post/658086104828936192/"
+redirect_from: "/post/658086104828936192/"
 ---
 A Nintendo finalmente divulgou as primeiras imagens do parque temático baseado nos jogos da empresa, que deve abrir nos parques da Universal em Osaka, no Japão, em fevereiro do ano que vem.
 

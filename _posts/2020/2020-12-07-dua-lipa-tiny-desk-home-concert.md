@@ -10,7 +10,7 @@ tags:
 - Dua Lipa
 - NPR
 date: 2020-12-07 08:42 -0300
-tumblr_url: "/post/658086312568668160/"
+redirect_from: "/post/658086312568668160/"
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/F4neLJQC1_E" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

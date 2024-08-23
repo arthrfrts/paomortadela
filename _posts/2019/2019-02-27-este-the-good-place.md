@@ -11,7 +11,7 @@ tags:
   - comédia
   - Netflix
 author: emanueles
-tumblr_url: "/post/658051018964320256/"
+redirect_from: "/post/658051018964320256/"
 ---
 
 > Bem-vindo!

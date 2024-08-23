@@ -9,7 +9,7 @@ tags:
   - jogos
   - iOS
   - aventura
-tumblr_url: "/post/658055390289969152/"
+redirect_from: "/post/658055390289969152/"
 ---
 
 [_Journey_]({% post_url 2015/2015-08-10-journey %}) é um dos melhores jogos que eu já joguei. _flOw_ e _Flower_, os jogos anteriores da thatgamecompany, são experiências lindas e únicas. Mas _Journey_ sempre foi algo a mais: uma aventura em um deserto infinito que é linda por fora e reveladora por dentro. Uma jornada de autodescoberta como só um jogo consegue revelar.

@@ -10,7 +10,7 @@ tags:
   - mistério
   - Jeffrey Eugenides
 image: "https://arthrfrts.files.wordpress.com/2018/03/virgenssuicidas.jpg"
-tumblr_url: "/post/658003575962746880/"
+redirect_from: "/post/658003575962746880/"
 ---
 Cecilia, Mary, Lux, Therese e Bonnie estão mortas e não há nada que possa ser feito. As cinco filhas do sr. e da sra. Lisbon suicidaram-se, uma após a outra, e só nos resta ouvir o relato obcecado de um grupo de garotos apaixonados pelo enigma de suas breves vidas.
 

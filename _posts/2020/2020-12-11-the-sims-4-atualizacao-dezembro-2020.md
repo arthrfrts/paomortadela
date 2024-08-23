@@ -8,7 +8,7 @@ tags:
 - The Sims 4
 - Maxis
 date: 2020-12-11 08:53 -0300
-tumblr_url: "/post/658086409345925120/"
+redirect_from: "/post/658086409345925120/"
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/5k0KkN6PGyg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

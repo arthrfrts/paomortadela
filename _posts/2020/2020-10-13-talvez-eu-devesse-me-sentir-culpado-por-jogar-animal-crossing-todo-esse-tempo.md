@@ -11,7 +11,7 @@ tags:
 - Nintendo
 - Nintendo Switch
 date: 2020-10-13 09:12 -0300
-tumblr_url: "/post/658083967136858112/"
+redirect_from: "/post/658083967136858112/"
 ---
 Nas últimas semanas uns posts sobre *Animal Crossing* nos sites de jogos que eu leio têm me chamado a atenção. No [Polygon](https://www.polygon.com/2020/9/18/21445211/animal-crossing-new-horizons-guilt-trip-nintendo-email), a manchete é sobre como a gente chegou na “fase de culpa” (quando a gente raramente visita as vilas e os vizinhos começam a nos xingar por deixarmos eles sozinhos lá); o [Kotaku](https://kotaku.com/animal-crossing-new-horizons-six-months-later-1845146991) pega ainda mais pesado:
 

@@ -9,7 +9,7 @@ tags:
   - listas
   - filmes
   - blockbusters
-tumblr_url: "/post/658060025568378880/"
+redirect_from: "/post/658060025568378880/"
 ---
 
 Na primeira metade de 2019 eu comentei com um amigo meu que eu queria muito assistir _Godzilla II: Rei dos Monstros_. Vários motivos me fizeram dar essa importante declaração: 1. o [trailer do filme](https://youtu.be/wVDtmouV9kM) é sensacional; 2. nenhum filme do _Godzilla_ é ruim; e 3. eu amo um fracasso de bilheteria, e _Godzilla II_ parecia muito que ia ser bem o meu tipinho de fracasso.

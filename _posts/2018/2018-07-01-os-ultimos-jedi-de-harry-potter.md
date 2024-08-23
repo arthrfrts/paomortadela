@@ -8,7 +8,7 @@ tags:
   - Harry Potter
   - Star Wars
 title: Os Últimos Jedi de Harry Potter
-tumblr_url: "/post/658049059191472128/"
+redirect_from: "/post/658049059191472128/"
 ---
 
 Ontem de noite eu não tinha muita coisa pra pensar (ou melhor, eu devia estar pensando num post que eu tô escrevendo mas não tava conseguindo evoluir) e fiquei fazendo equivalentes entre _Star Wars_ e _Harry Potter_.

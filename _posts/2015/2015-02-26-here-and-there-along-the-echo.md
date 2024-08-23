@@ -10,7 +10,7 @@ tags:
   - experimentais
   - Cardboard Computer
   - Kentucky Route Zero
-tumblr_url: "/post/658004200046968832/"
+redirect_from: "/post/658004200046968832/"
 ---
 
 Não só uma das melhores experiências jogáveis dos últimos anos, *Kentucky Route Zero* é um incrível criador de lendas. Seu universo calcado no realismo fantástico, com fortes referências à literatura romântica e ao cinema de Tarkovsky (principalmente _Stalker_ e *Solaris*) dão aos ambientes e aos personagens do jogo dividido em cinco atos uma aura emblemática e inquisitiva. Não dá pra não se sentir preso ao universo de _KR0_ para descobrir os mistérios por baixo da encenação teatral.

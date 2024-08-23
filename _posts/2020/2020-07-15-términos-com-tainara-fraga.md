@@ -6,7 +6,7 @@ tags:
 - Pãodecast
 - podcasts
 date: 2020-07-15 13:21 -0300
-tumblr_url: "/post/658072875044077568/"
+redirect_from: "/post/658072875044077568/"
 ---
 
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Trminos--com-Tainara-Fraga-egn2th/a-a2mn3e3" frameborder="0" scrolling="no"></iframe>

@@ -7,7 +7,7 @@ tags:
 - podcasts
 - conversas
 date: 2020-10-07 09:13 -0300
-tumblr_url: "/post/658083853758611456/"
+redirect_from: "/post/658083853758611456/"
 ---
 
 <iframe class="full-width" src="https://anchor.fm/paomortadela/embed/episodes/Manuela-Neri-ekmupj" height="102" frameborder="0" scrolling="no"></iframe>

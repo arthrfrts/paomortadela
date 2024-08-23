@@ -10,7 +10,7 @@ tags:
 - Wim Wenders
 - MUBI
 date: 2020-12-06 18:49 -0300
-tumblr_url: "/post/658086247111262209/"
+redirect_from: "/post/658086247111262209/"
 ---
 <video class="full-width" src="//trailers.mubicdn.net/1502/t_paris-texas_en_xx_800_720x400_52_1502.m4v" controls poster="//assets.mubicdn.net/images/film/1502/image-w1280.jpg"></video>
 

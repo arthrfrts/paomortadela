@@ -5,7 +5,7 @@ date: '2021-08-11T13:42:09-03:00'
 author: arthurf
 tags:
 - jogos
-tumblr_url: /post/659239867035893760/o-apple-arcade-%C3%A9-excelente-para-descobrir-novos
+redirect_from: /post/659239867035893760/o-apple-arcade-%C3%A9-excelente-para-descobrir-novos
 ---
 A maioria dos jogos que eu me interesso no computador são independentes ou “experimentos de jogabilidade”. Não tem nenhum motivo poético aí: eu cresci em uma casa onde o único computador era o do trabalho do meu pai, e poucos jogos rodavam naquele gabinete da IBM com um processador Pentium 2. Meu pai, inclusive, [gostava de jogos de aventura de apontar-e-clicar]({% post_url 2018/2018-04-02-thimbleweed-park-me-lembrou-de-quando-eu-costumava-ferrar-com-os-saves-dos-jogos-do-meu-pai %}), então a gente não tinha nem iniciativa de ter um computador melhor para rodar os jogos mais pesados, a gente precisava aguentar jogar _The Sims 1_ quando _TS2_ já tinha sido lançado.
 

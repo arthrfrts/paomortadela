@@ -12,7 +12,7 @@ tags:
 image: /uploads/2020/05/11/acnh-capa.jpg
 excerpt: Jolly good!
 published: true
-tumblr_url: "/post/658069311201722368/"
+redirect_from: "/post/658069311201722368/"
 ---
 
 Eu ando pensando bastante em como vai ser daqui pra frente. Acho que todo mundo tá, né. O que vai sobrar depois dessa pandemia? O que vai acontecer? Vamos continuar seguindo rumo ao cataclisma econômico que vai acontecer depois do coronavirus, ou a gente vai parar pra decidir uma alternativa melhor? Agora que uma parte do mundo parou e lembrou que há muito mais além da exploração viciosa do nosso modelo econômico atual, a gente vai querer voltar pra esse ciclo de novo? O peso de ter que produzir mais finalmente vai ser levado em conta?

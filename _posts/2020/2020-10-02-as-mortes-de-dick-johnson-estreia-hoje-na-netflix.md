@@ -9,7 +9,7 @@ tags:
 - Kirsten Johnson
 - Netflix
 date: 2020-10-02 09:39 -0300
-tumblr_url: "/post/658083629071843328/"
+redirect_from: "/post/658083629071843328/"
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/wfTmT6C5DnM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -50,6 +50,7 @@ plugins:
   - jekyll-paginate
   - jekyll-loading-lazy
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 # SEO
 twitter:
@@ -68,14 +69,3 @@ jekyll-archives:
     month: "/:year/:month/"
     tag: "/tag/:name/"
   slug_mode: default
-
-# Compose
-jekyll_compose:
-  auto_open: true
-  default_front_matter:
-    drafts:
-      author: arthurf
-      tags:
-    posts:
-      author: arthurf
-      tags:

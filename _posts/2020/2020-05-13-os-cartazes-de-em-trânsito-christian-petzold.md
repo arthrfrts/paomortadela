@@ -7,7 +7,7 @@ tags:
 - cartazes
 - Christian Petzold
 - cinema alemão
-tumblr_url: "/post/658069658341146624/"
+redirect_from: "/post/658069658341146624/"
 ---
 
 {: .full-width }

@@ -10,7 +10,7 @@ tags:
   - Netflix
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/netflix-love.jpg"
-tumblr_url: "/post/658006280953282560/"
+redirect_from: "/post/658006280953282560/"
 ---
 
 Geralmente, o mundo não é um lugar bom nas comédias românticas. Tudo dá errado em _O Diário de Bridget Jones_, embora ela sempre consiga dar a volta por cima; ninguém em _Uma Linda Mulher_, com exceção de Julia Roberts, presta; e em _Embriagado de Amor_ o mundo é quase que um purgatório.

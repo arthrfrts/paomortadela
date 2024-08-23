@@ -5,7 +5,7 @@ date: '2021-08-04T07:53:47-03:00'
 author: arthurf
 tags:
 - fotos
-tumblr_url: /post/658583770628259840/faces-do-s%C3%A9culo
+redirect_from: /post/658583770628259840/faces-do-s%C3%A9culo
 ---
 [Faces do Século](http://www.janlanger.net/en/Stoleti-cesi)
 <figure class="tmblr-full" data-orig-height="600" data-orig-width="800"><img src="https://64.media.tumblr.com/3fe2aa3e2a0555f31175587306b9bdf2/4a04842b16503760-71/s540x810/dc231fb7f31d182a0cb7ecdc32aa1f6ff2cc356a.jpg" data-orig-height="600" data-orig-width="800"></figure><figure class="tmblr-full" data-orig-height="433" data-orig-width="600"><img src="https://64.media.tumblr.com/37302162108130046f241e894baaed4f/4a04842b16503760-aa/s540x810/e2a1cd125f7041d55ee5a70f08d7a51c9d4f0e25.jpg" data-orig-height="433" data-orig-width="600"></figure>

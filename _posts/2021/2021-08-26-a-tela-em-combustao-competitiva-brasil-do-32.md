@@ -9,7 +9,7 @@ tags:
 - curta-metragens
 - festivais
 - Kinoforum
-tumblr_url: /post/660585274878902272/a-tela-em-combust%C3%A3o-competitiva-brasil-do-32%C2%BA
+redirect_from: /post/660585274878902272/a-tela-em-combust%C3%A3o-competitiva-brasil-do-32%C2%BA
 ---
 
 ![](https://64.media.tumblr.com/e1d04a57a7842c2707ae0b4b65b20a65/9aba20a0eec4d7de-bf/s540x810/20242620312ccee8a5c185c100ec9190a0bf4f1a.jpg)

@@ -10,7 +10,7 @@ tags:
 - festivais
 - Festival de Gramado
 date: 2020-09-20 08:55 -0300
-tumblr_url: "/post/658077090980233217/"
+redirect_from: "/post/658077090980233217/"
 ---
 **Esse texto pode conter detalhes da trama do curta-metragem *Inabitável* (2020, Matheus Farias e Enock Carvalho), então se ainda não assistiu pense duas vezes antes de ler.**
 

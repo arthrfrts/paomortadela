@@ -10,7 +10,7 @@ tags:
 - Brownie Brown
 - Nintendo 3DS
 date: 2020-08-20 19:31 -0300
-tumblr_url: "/post/658075246530871296/"
+redirect_from: "/post/658075246530871296/"
 ---
 Eu não sei quando ou quem, mas alguém entrou na minha cabeça.
 

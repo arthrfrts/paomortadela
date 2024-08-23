@@ -13,7 +13,7 @@ tags:
 - drama
 - cinema americano
 date: 2020-09-30 21:13 -0300
-tumblr_url: "/post/658083531680088064/"
+redirect_from: "/post/658083531680088064/"
 ---
 Um dos meus textos favoritos sobre cinema é o [*Missing the Target*](https://www.jonathanrosenbaum.net/2018/02/missing-the-target/) do Jonathan Rosenbaum. Nele, o crítico comenta sobre uma observação que um amigo dele fez, de que filmes podem ser janelas ou espelhos. Filmes como espelhos são aqueles que parecem ter o espectador como alvo: é feito para agradar uma audiência específica. Filmes sobre o heroísmo americano no campo de batalha geralmente são filmes-espelho: eles agradam homens brancos americanos que acreditam na supremacia do seu país. Filmes como janela são o oposto, são filmes que nos pedem pra estender a nossa empatia para outra compreensão de mundo. São aqueles filmes sobre como é ser uma pessoa vivendo em um determinado lugar e em determinada época. São pequenas [máquinas do tempo]({% post_url 2020/2020-05-26-eu-nao-sei-se-vou-conseguir-ver-o-fim-do-mundo-na-tv %}).
 

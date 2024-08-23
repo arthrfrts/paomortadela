@@ -7,7 +7,7 @@ image: "https://i.imgur.com/LCq1cjC.png"
 tags:
 - etc.
 - Vivi
-tumblr_url: /post/660671787322032128/
+redirect_from: /post/660671787322032128/
 ---
 
 Eu olho pra esse último ano, e fico com medo de não ter mais sobre o que ou para quem escrever. Eu fico pensando que “eu perdi aquilo”. Aquela faísca mágica que se acende dentro de mim com ideia bruta. Ela tomava forma aos poucos. No início, bem devagar. Eu começava a entender no que ela ia se transformar. E daí ela tomava forma. Ela aparecia na minha frente de uma hora pra outra. As vezes, eu não conseguia reconhecê-la. As vezes, tudo o que eu conseguia ver era o que ela tinha sido antes. E as vezes, e essas eram as vezes que eu tinha conseguido, sua forma era surpreendente. Uma tangente ali, uma conexão aqui, algumas pernas pra lugar nenhum acolá.

@@ -9,7 +9,7 @@ tags:
   - aventura
   - Kentucky Route Zero
   - Cardboard Computer
-tumblr_url: "/post/658007755171545088/"
+redirect_from: "/post/658007755171545088/"
 ---
 
 > Kentucky Route Zero é uma tragédia. E todas as tragédias acabam do mesmo jeito.

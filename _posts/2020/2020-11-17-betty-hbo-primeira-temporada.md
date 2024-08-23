@@ -9,7 +9,7 @@ tags:
   - HBO
   - Crystal Moselle
   - Betty
-tumblr_url: "/post/658085730643542016/"
+redirect_from: "/post/658085730643542016/"
 ---
 
 <iframe class="full-width" src="https://www.youtube.com/embed/cCP1zqmdGs0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

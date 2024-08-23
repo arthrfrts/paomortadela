@@ -6,7 +6,7 @@ author: arthurf
 tags:
 - esportes
 - grandes feitos da humanidade
-tumblr_url: /post/658146590091083776/assistindo-a-rebeca-andrade-em-t%C3%B3quio-hoje-mais
+redirect_from: /post/658146590091083776/assistindo-a-rebeca-andrade-em-t%C3%B3quio-hoje-mais
 ---
 <iframe width="400" height="300" id="youtube_iframe" src="https://www.youtube.com/embed/PoU5PiAocGs?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

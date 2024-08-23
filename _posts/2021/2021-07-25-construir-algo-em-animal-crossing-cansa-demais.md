@@ -7,7 +7,7 @@ tags:
 - impressões
 - jogos
 - Animal Crossing
-tumblr_url: /post/658146530851782656/construir-algo-em-animal-crossing-cansa-demais
+redirect_from: /post/658146530851782656/construir-algo-em-animal-crossing-cansa-demais
 ---
 Eu passei o fim de semana jogando _Animal Crossing_. Não como eu passei os últimos meses. Eu passei horas na frente do meu Switch, na minha ilha. Agora é final de domingo, e eu tô **exausto**.
 

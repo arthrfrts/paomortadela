@@ -10,7 +10,7 @@ tags:
   - Netflix
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/crazy-ex-girlfriend.jpg"
-tumblr_url: "/post/658041091711467520/"
+redirect_from: "/post/658041091711467520/"
 ---
 
 <iframe width="1280" height="739" src="https://www.youtube-nocookie.com/embed/hkfSDSfxE4o"  allow="autoplay; encrypted-media" allowfullscreen></iframe>

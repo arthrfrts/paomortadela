@@ -9,7 +9,7 @@ tags:
   - músicas
   - eletrônica
   - Daft Punk
-tumblr_url: "/post/658005117089562624/"
+redirect_from: "/post/658005117089562624/"
 ---
 O que fazer depois de realizar um álbum praticamente perfeito, que redefiniria tudo o que se escuta nas pistas de dança dali em diante? O Daft Punk demorou doze anos, mas finalmente encontrou em *Random Access Memories* não só um verdadeiro sucessor para seu impecável *Discovery*, mas uma perfeita definição daquilo que o duo sempre foi.
 

@@ -10,7 +10,9 @@ tags:
   - Half-Life
   - Valve Software
 image: "https://arthrfrts.files.wordpress.com/2018/03/half-life-2-1038x576.jpg"
-tumblr_url: "/post/658001681471127552/"
+redirect_from:
+  - /post/658001681471127552/
+  - /post/658001681471127552/rise-and-shine-mr-freeman
 ---
 
 > Rise and shine, Mr. Freeman. Your time has come again.

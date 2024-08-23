@@ -7,7 +7,7 @@ tags:
 - jogos
 - leituras
 - Nintendo
-tumblr_url: /post/658146416609361920/falling-in-love-with-the-nintendo-3ds-10-years
+redirect_from: /post/658146416609361920/falling-in-love-with-the-nintendo-3ds-10-years
 ---
 [Malindy Hetfeld](https://www.eurogamer.net/articles/2021-06-20-falling-in-love-with-the-nintendo-3ds-ten-years-late)
 

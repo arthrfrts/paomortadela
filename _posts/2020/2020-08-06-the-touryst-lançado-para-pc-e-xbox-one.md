@@ -8,7 +8,7 @@ tags:
 - aventura
 - Shin'en
 date: 2020-08-06 13:28 -0300
-tumblr_url: "/post/658074116643061760/"
+redirect_from: "/post/658074116643061760/"
 ---
 <iframe src="https://www.youtube.com/embed/Ir2MnrPvO8Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

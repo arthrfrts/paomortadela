@@ -6,7 +6,7 @@ author: arthurf
 tags:
   - leituras
   - livros
-tumblr_url: "/post/658049293789298688/"
+redirect_from: "/post/658049293789298688/"
 ---
 
 Terminei _Uma Criatura Gentil_ do Dostoiévski hoje de manhã. Caramba, como eu senti raiva quando comecei a ler essa novela porque era incrível como o autor consegue desenvolver o mundo do narrador, a personalidade do narrador e a impressão que o narrador tem do mundo que o carca com tanta facilidade. É tão natural e flui tão bem a leitura (eu leio bem devagar) que as vezes eu esquecia completamente como o escritor delimita formalmente a história que ele tá contando.

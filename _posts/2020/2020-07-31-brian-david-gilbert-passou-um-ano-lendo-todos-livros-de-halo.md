@@ -10,7 +10,7 @@ tags:
 - ficção científica
 - Brian David Gilbert
 date: 2020-07-31 08:30 -0300
-tumblr_url: "/post/658073833973202944/"
+redirect_from: "/post/658073833973202944/"
 ---
 <iframe src="https://www.youtube.com/embed/WEWEdIcx1DI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -8,7 +8,7 @@ tags:
   - trailers
   - filmes
   - Godzilla
-tumblr_url: "/post/658049183445614592/"
+redirect_from: "/post/658049183445614592/"
 ---
 
 Ontem eu assisti o trailer de _Godzilla: King of the Monsters_, a continuação do filme de 2014 que eu nunca assisti.

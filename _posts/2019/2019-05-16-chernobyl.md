@@ -13,7 +13,7 @@ tags:
   - minisséries
   - drama
   - HBO
-tumblr_url: "/post/658052488630550528/"
+redirect_from: "/post/658052488630550528/"
 ---
 
 _Chernobyl_, a nova minissérie da HBO sobre a catástrofe nuclear de 1986 na Ucrânia, não é fácil de assistir. É uma triste e implacável série sobre um desastre feito pelo homem com efeitos que persistem até hoje (e, provavelmente, pelos próximos milhares de anos); que retrata uma disseminação sistemática de desinformação que acaba custando milhares de vidas civis; e que não foge de deixar claro o quão doloroso é o efeito da radiação sobre o corpo humano.

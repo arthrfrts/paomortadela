@@ -7,7 +7,7 @@ tags:
 - Kinoforum
 - festival
 - filmes
-tumblr_url: /post/660714511713566720/continuando-de-onde-paramos-mostra-internacional
+redirect_from: /post/660714511713566720/continuando-de-onde-paramos-mostra-internacional
 ---
 O curta-metragem sempre foi um formato permissivo à própria reinvenção e adaptável aos diferentes contextos criativos. Ao acompanhar a Mostra Internacional do 32° Curta Kinoforum, composta por 38 filmes e 8 sessões, pode-se dizer que às limitações impostas pela pandemia se mostraram um ponto de partida para a invenção de muitos dos filmes, mas não podemos esquecer que esse desejo de mudança vai muito além disso.
 

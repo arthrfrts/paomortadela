@@ -9,7 +9,7 @@ tags:
   - filmes
   - romance
   - Prime Video
-tumblr_url: "/post/658004816463888384/"
+redirect_from: "/post/658004816463888384/"
 ---
 
 Quantas pessoas bacanas você viu no cinema? Bacanas mesmo. Alguém gente-fina, que é legal e se importa em fazer algo bom — seja para si, para a família ou para um bem comum —, mas que não é um herói por isso. É só uma pessoa bacana.

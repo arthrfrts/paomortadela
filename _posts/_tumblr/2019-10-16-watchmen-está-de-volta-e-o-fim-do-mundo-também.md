@@ -1,0 +1,59 @@
+---
+layout: post
+title: Watchmen está de volta (e o fim do mundo também)
+date: '2019-10-16T00:00:00-03:00'
+tags:
+- esquinas
+- gibis
+- leituras
+- super heróis
+- séries
+- ação
+redirect_from: https://paomortadela.com.br/post/658059643295318016/watchmen-est%C3%A1-de-volta-e-o-fim-do-mundo-tamb%C3%A9m
+---
+![](https://64.media.tumblr.com/ef0fc2e0b2a90577de859f72c75cc3ab/0b45fdbbeac674ae-f9/s540x810/6180e0871f17762be6c02b98a947c541048ff8bc.png)
+
+Eu tenho uma teoria de que todas as “grandes obras de arte” refletem um pouco sobre elas mesmas, como Cidadão Kane usa a linguagem cinematográfica para explorar como o cinema pode manipular a forma que aquela história podia ser contada, por exemplo. Ou como a potência da voz da Elis em Falso Brilhante chama a nossa atenção não para nos distrair, mas para tornar a melodia ainda mais profunda, pra provocar o nosso íntimo como um suspiro no nosso ouvido que abala a nossa alma.
+
+É exatamente essa introspecção que Alan Moore e Dave Gibbons provocam em Watchmen, um dos maiores sucessos dos gibis de super-herói. Dividido em 12 volumes lançados entre os anos de 1986 e 1987, a obra procura explorar as raízes da fascinação americana pela imagem dos super-heróis, enquanto constrói uma grandiosa história sobre um grupo de pessoas desiludidas com o mundo ao redor delas, e como elas reagem à essa desilusão. É grandioso em ambição e em realização, com linhas temporais que são construídas em ritmos diferentes, não são necessariamente interligadas, mas que revelam várias histórias íntimas de super-heróis aposentados enquanto traça um panorama da queda do mito americano, e como os gibis ajudam a encobrir uma verdade desagradável da cultura que eles fazem parte.
+
+Só que essa complexidade é construída aos poucos, e testemunhada pelo leitor. Quando começa, Watchmen parece uma típica história pulp: se passando em uma realidade alternativa onde os Estados Unidos venceram a Guerra do Vietnã e desde então Richard Nixon é reeleito como presidente (ele já está no sexto mandato durante os acontecimentos da história). Vigilantes mascarados existiam, mas devido à violência de seus métodos que resultavam em criminosos ainda mais violentos, eles foram “aposentados” e, depois, criminalizados. Esses vigilantes não têm poderes especiais, com a única exceção sendo Dr. Manhattan, um ex-físico que, depois de ser destruído por um reator molecular, retorna como um homem que consegue manipular o átomo — um deus, praticamente.
+
+É com a morte de um desses vigilantes que Watchmen começa, aparentemente como um mistério pulp. O último vigilante ativo nos anos 1980, Rorschach passa a investigar a morte suspeita do ex-colega Comediante, passando a acreditar em uma conspiração para matar os Watchmen, o último grupo de vigilantes ativos antes de terem sido aposentados. É através de Rorschach que somos apresentados aos outros membros do grupo: o Coruja, antes praticamente um Batman que hoje se afunda em uma crise de meia-idade; a Espectral II, filha da primeira Espectral, que sempre achou sua herança um peso mais do que uma bênção, e está feliz com a aposentadoria; Ozymandias, considerado o homem mais inteligente do mundo, um visionário que se tornou em milionário ao comercializar o seu alter-ego vigilante com revistas, filmes e brinquedos; e o próprio Dr. Manhattan, que hoje trabalha para o governo americano para criar armas que intimidem a União Soviética e ponha todo o mundo à mercê de uma futura guerra nuclear.
+
+![](https://64.media.tumblr.com/a1927ab79993a74a4ea41f975dcdc9d6/0b45fdbbeac674ae-05/s540x810/43ba5f57f0d78589f486b21bb0a04bb886f3de3c.png)
+
+A partir desse mistério, Watchmen se expande para explorar a vida desses ex-vigilantes e explorar como a desilusão de mundo deles explicita a morte — ou até mesmo a inexistência — do sonho americano. Cada volume de Watchmen explora a vida de um desses personagens, ou a relação entre si ao mesmo tempo que leva o mistério central — a conspiração de Rorschach — um pouco mais para frente. Nós aprendemos que a crise de meia-idade do Coruja é em grande parte por perceber que seu grande feito foi propagar o fascismo velado do governo de Nixon; a desilusão de Espectral com sua vida vem muito por ter nascido em um mundo já destruído pela ideia de que existe uma bomba atômica ambulante só esperando para explodir; e o vazio existencial de Dr. Manhattan reflete seu crescente desinteresse pela humanidade — porque um deus precisaria se preocupar com as picuinhas de um mundo dizimado?
+
+Watchmen consegue fazer tanta coisa porque aproveita seu meio ao máximo. A extensão de história escrita por Moore e a complexidade visual da arte de Gibbons trabalham juntas para preencher os fascículos da série. Cada volume é acompanhado de um material adicional riquíssimo, como capítulos de livros e matérias de jornais que são mencionadas na história, com cartas entre personagens e álbuns de fotos. A arte é riquíssima em motifs (como os smilies e os relógios do fim do mundo) e cria momentos simbólicos como se fosse fácil. Com tanto significado, Watchmen ensina o leitor a esperar de tudo, e se surpreender com o nada.
+
+É claro que, quando a eventual adaptação para o cinema foi lançada, muito desse material precisou ser cortado.
+
+<iframe id="youtube_iframe" src="https://www.youtube.com/embed/BfD275Ew5pw?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="540" height="303" frameborder="0"></iframe>
+
+## É fácil perder a força de Watchmen de vista
+
+Ao adaptar uma história de um meio para outro mudanças são necessárias. Para traduzir o poder de contar histórias para o cinema com Reparação, o diretor Joe Wright não podia usar os mesmos artifícios que Ian McEwan, o autor do livro original, usou. Por serem meios diferentes, seus métodos e formas também são — o que faz sentido na página pode perder força na imagem.
+
+Embora a adaptação de Zack Snyder para o cinema seja fidelíssima nos visuais, Watchmen: O Filme cria atalhos narrativos e muda a ênfase da história para conseguir contá-la em suas quase três horas de duração. É um mal necessário, claro, mas o filme acaba interessado no fio condutor dos quadrinhos mais do que naquilo que o enriquece. Ao tornar o mistério do assassinato do Comediante no foco central do filme, e em Rorschach como o seu protagonista, Watchmen: O Filme remove a nuance que torna o original tão emblemático.
+
+Nos quadrinhos, a tragédia do personagem de Rorschach é a de que esse homem, frustrado com o mundo, decide fazer o possível para por as coisas no lugar. Mas Rorschach é um vigilante egoísta: ele é movido pela vingança e pelo desprezo da sociedade que ele diz vigiar, de uma sociedade que falhou com ele e que deve pagar pelo que fez, e não para impedir que a violência e abuso que ele sofreu acometa outras pessoas.
+
+Em um momento definitivo nos quadrinhos originais, por exemplo, Rorschach investiga o desaparecimento de uma menina. Ele descobre que um pedófilo estuprou, matou e jogou o corpo da criança para os cachorros comerem. No quadrinho, o momento em que Rorschach enfrenta o criminoso e o mata violentamente sela o seu destino, de vítima de violência para agente dela — de parte de um ciclo de destruição social. No filme, esse momento é usado para justificar a violência do personagem com o mundo, para mostrá-lo como o herói que ele deve ser. Enquanto que no gibi a crueldade de Rorschach é um símbolo de como suas motivações são tão corrompidas quanto a sociedade que ele despreza em um ciclo perigoso, no filme é um momento de apreço pela vingança.
+
+Os erros do filme são talvez o maior exemplo do legado complicado de Watchmen. Lançado no mesmo ano de O Cavaleiro das Trevas, em 1986, o gibi é hoje lembrado principalmente pela maturidade de seus temas: a desolação de um mundo no limite da aniquilação, o fim da desilusão do sonho americano e a crescente descrença na capacidade da humanidade. É amargo de se ler, e é fácil esquecer os momentos mais bonitos, como a crescente relação entre o dono de uma banca de jornal e o menino que fica lendo as revistas. Mas são esses momentos que dão à tragédia central de Watchmen o seu peso definitivo: de que as figuras que acreditamos e confiamos os nossos sonhos são justamente aquelas que acabaram destruindo ele. Watchmen parecia indicar que havia todo um universo de histórias para os quadrinhos explorarem o mundano, o belo da normalidade, e não o proto-fascismo do heroísmo americano.
+
+Talvez isso seja pelo fato de que, em 2009, os Estados Unidos estavam muito mais satisfeitos como país sobre o seu lugar como superpotência do que os anos seguintes ao fim do fracasso da Guerra do Vietnã (ou simplesmente porque Zack Snyder não entende de modulação emocional). Só que agora, dez anos depois, talvez seja um bom momento para voltarmos e observarmos o legado de Watchmen.
+
+## A volta de Watchmen faz todo sentido
+
+Quando a HBO anunciou que estava trabalhando em uma adaptação de Watchmen para a TV ninguém ficou surpreso: Game of Thrones estava na sua reta final e o canal precisava de uma nova super-produção, e com o catálogo da DC a sua disposição parecia a oportunidade perfeita de pegarem o gibi mais prestigiado e levá-lo para o canal mais prestigiado também.
+
+É natural que a produção deixe os fãs céticos sobre o tratamento da história, mas quando o anúncio de que Damon Lindelof, o criador de [The Leftovers](https://paomortadela.com.br/2017/09/the-leftovers-s03/), iria assumir a série me deu boas expectativas. De várias maneiras, The Leftovers usa uma forma semelhante à Watchmen para contar sua história, em que uma tragédia enorme, maior do que podemos imaginar, é vista através de vários momentos em pontos de vista diferentes — como a falta do filho que desapareceu volta a ser sentida quando uma mãe olha para o papel toalha na cozinha e lembra de como seu filho usava ele para limpar a boca.
+
+<iframe id="youtube_iframe" src="https://www.youtube.com/embed/9rPqGLPwaVg?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="540" height="303" frameborder="0"></iframe>
+
+Essa capacidade de tirar significado de tudo, e fazer o espectador encontrar significado mesmo nas coisas mais simples, é um traço forte nas obras de Lindelof (que também é um dos co-criadores de Lost, uma série que movimentou multidões atrás de pistas para resolver seus mistérios insolúveis). Na primeira temporada de Watchmen, que se passa mais de trinta anos depois dos acontecimentos do gibi, ele avança sua discussão mais um pouco — como nós temos que enfrentar esses símbolos que um dia já nos significaram tanto, e que agora parecem ser o motivo do mundo estar em ruínas. Observe como o trailer utiliza a frase icônica de Rorschach com um tom muito mais ameaçador do que o trailer do filme, por exemplo.
+
+Se Watchmen, o gibi, apareceu para observar as vésperas de um fim do mundo causado pelo holocausto nuclear (o primeiro volume foi publicado cinco meses depois da [catástrofe em Tchernóbil](https://paomortadela.com.br/2019/05/chernobyl/)), a série parece vir nas vésperas de uma catástrofe ambiental. Se Watchmen, a série, conseguir lidar com o colapso da civilização como o quadrinho, e ainda assim mostrar porque vale a pena lutar pelo que há de melhor na humanidade, como The Leftovers fez, então nós teremos uma continuação à altura — e, quem sabe, o gibi finalmente ganhe o legado que quis construir.
+

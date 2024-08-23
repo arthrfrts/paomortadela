@@ -9,7 +9,7 @@ tags:
 - Gilmore Girls
 - Amy Sherman-Palladino
 date: 2020-08-13 20:41 -0300
-tumblr_url: "/post/658074270261542912/"
+redirect_from: "/post/658074270261542912/"
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/jQCwJi0RDuY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

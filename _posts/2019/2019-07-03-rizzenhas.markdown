@@ -9,7 +9,7 @@ tags:
   - blogs
   - livros
 image: /uploads/2019/07/rizzenhas.png
-tumblr_url: "/post/658055145684434944/"
+redirect_from: "/post/658055145684434944/"
 ---
 
 Nessa última década parece parece que a Internet diminuiu. Quer dizer, é impossível a Internet diminuir porque a cada dia existem mais páginas, mais sites e mais tuítes de presidentes que são incapazes de evitar falar asneira. Mas _parece_ que ela diminuiu. Parece que acessamos menos desses sites, a gente descobre menos coisas novas. A gente conversa com nossos amigos no Facebook, a gente reclama dos nossos tios no Twitter, a gente escuta música no Spotify, e se for preguiçoso não precisa nem procurar uma música nova pra ouvir. A gente sequer precisa sair da primeira página de resultados do Google pra ter uma opinião formada esses dias.

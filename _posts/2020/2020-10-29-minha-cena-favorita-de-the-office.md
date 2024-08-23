@@ -8,7 +8,7 @@ tags:
 - The Office
 - Prime Video
 date: 2020-10-29 07:40 -0300
-tumblr_url: "/post/658084922981023744/"
+redirect_from: "/post/658084922981023744/"
 ---
 Essa é a minha cena favorita da versão americana the *The Office*:
 

@@ -7,7 +7,7 @@ tags:
 - filmes
 - festival
 - Kinoforum
-tumblr_url: /post/658797035046289408/2021-mais-um-ano-de-kinoforum
+redirect_from: /post/658797035046289408/2021-mais-um-ano-de-kinoforum
 ---
 No ano passado, graças à dedicação de algumas pessoas, realizamos a cobertura do 31° Festival Internacional de Curtas-Metragens de São Paulo. Foi uma forma de, em plena pandemia, mantermos o diálogo sobre cinema com amigos que compartilham desse interesse. Nada além do que já fazíamos anteriormente, porém com a missão de transmitir essa paixão para os nossos leitores e registrarmos nossas impressões sobre os filmes através dos textos.
 

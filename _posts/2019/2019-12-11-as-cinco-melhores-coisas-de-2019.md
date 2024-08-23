@@ -13,7 +13,7 @@ tags:
   - links
   - leituras
   - músicas
-tumblr_url: "/post/658060465565548544/"
+redirect_from: "/post/658060465565548544/"
 ---
 
 Eu escrevo essas listas de “melhores do ano” desde 2015 para o PCM, e muita coisa mudou nesses quatro anos por aqui. Minhas ideias sobre o que o site é e a finalidade daquilo que eu escrevo por aqui foram algumas dessas coisas. Quando a gente criou o blog, lá em 2014, ele servia como um espaço para fazermos resenhas daquilo que a gente gosta para recomendarmos uns para os outros.

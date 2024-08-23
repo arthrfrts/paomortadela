@@ -7,7 +7,7 @@ tags:
 - trailers
 - filmes
 - Mike Mills
-tumblr_url: https://paomortadela.com.br/post/661768222687854592/mike-mills-diretor-de-um-dos-meus-filmes
+redirect_from: https://paomortadela.com.br/post/661768222687854592/mike-mills-diretor-de-um-dos-meus-filmes
 ---
 <iframe width="400" height="225" id="youtube_iframe" src="https://www.youtube.com/embed/7mzushAOM88?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

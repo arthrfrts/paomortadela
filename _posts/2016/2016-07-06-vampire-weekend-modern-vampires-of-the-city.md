@@ -8,7 +8,7 @@ tags:
   - músicas
   - pop
   - Vampire Weekend
-tumblr_url: "/post/658007456070451200"
+redirect_from: "/post/658007456070451200"
 ---
 
 O Vampire Weekend sempre foi uma banda conhecida por sua música excêntrica e divertida. Eles são uma banda pop, afinal de contas. Eles rimam “horchata” com “balaclava”. Eles gostam de brincar.

@@ -4,8 +4,10 @@
 {%- assign posts = site.posts | where_exp: "item", "item.tumblr_url != nil" -%}
 
 {%- for post in posts -%}
-{%- if post.tumblr_url -%}
-{{ post.tumblr_url }}   {{ post.url | absolute_url }}   301
+{%- if post.redirect_from -%}
+{% for redirect_url in post.redirect_from %}
+{{ redirect_url }}*   {{ post.url | absolute_url }}   301
+{% endfor %}
 {% endif -%}
 {%- endfor -%}
 /tagged/*  /tag/:splat   301

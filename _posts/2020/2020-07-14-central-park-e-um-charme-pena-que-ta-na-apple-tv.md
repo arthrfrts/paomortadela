@@ -9,7 +9,7 @@ tags:
 - comédia
 - musical
 - animação
-tumblr_url: "/post/658072676373561344/"
+redirect_from: "/post/658072676373561344/"
 ---
 {: .full-width }
 <iframe width="806" height="373" src="https://www.youtube.com/embed/80406ua_ERo"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

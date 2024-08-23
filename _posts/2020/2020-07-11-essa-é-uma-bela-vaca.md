@@ -7,7 +7,7 @@ tags:
   - links
   - animais
   - filmes
-tumblr_url: "/post/658072479779241984/"
+redirect_from: "/post/658072479779241984/"
 ---
 
 {: .full-width }

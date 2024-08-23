@@ -8,7 +8,7 @@ tags:
 - engenharia
 - músicas
 - links
-tumblr_url: /post/659684065933459456/the-hidden-melodies-of-subways-around-the-world
+redirect_from: /post/659684065933459456/the-hidden-melodies-of-subways-around-the-world
 ---
 
 Meu tipo favorito de link é aquele sobre um assunto tão específico que é interessante tanto pelo assunto em si quanto pela curiosidade que levou até ele.

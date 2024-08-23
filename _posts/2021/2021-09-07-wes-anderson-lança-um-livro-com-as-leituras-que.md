@@ -8,7 +8,7 @@ tags:
 - livros
 - filmes
 - Wes Anderson
-tumblr_url: /post/661704040936259584/
+redirect_from: /post/661704040936259584/
 ---
 
 _A Crônica Francesa_, o décimo filme de Wes Anderson, é sobre uma revista publicada por escritores estadunidenses na França. A revista ficcional é inspirada na revista americana _New Yorker_&nbsp;e, agora, o diretor vai lançar [um livro com os artigos que o inspiraram a escrever o filme](https://www.newyorker.com/culture/the-new-yorker-interview/how-wes-anderson-turned-the-new-yorker-into-the-french-dispatch.

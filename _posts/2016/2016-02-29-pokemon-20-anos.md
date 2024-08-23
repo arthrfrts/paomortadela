@@ -10,7 +10,7 @@ tags:
   - RPG
   - Pokémon
   - Nintendo
-tumblr_url: "/post/658007069070393344/uma-carta-de-amor-a-pokémon/"
+redirect_from: "/post/658007069070393344/uma-carta-de-amor-a-pokémon/"
 ---
 
 _Pokémon_ fez vinte anos nesse último sábado, dia 27. Fazia anos que eu não enxia meus olhos com tantos dos monstrinhos de bolso que eu sempre amei.

@@ -9,7 +9,7 @@ tags:
   - filmes
   - documentários
   - Netflix
-tumblr_url: "/post/658052420915642368/"
+redirect_from: "/post/658052420915642368/"
 ---
 
 Quando Joey me apresentou a _Shirkers – O Filme Roubado_ no outro dia, ela disse que a fazia lembrar de uma palavra em português que eu apresentei pra ela. A palavra era “saudade”, e eu disse (e eu amo que ela se lembra até mesmo de como eu descrevi, porque eu esqueci completamente) como “estar feliz pelo que foi, e triste pelo que poderia ter sido”.

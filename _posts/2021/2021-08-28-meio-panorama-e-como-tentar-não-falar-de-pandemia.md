@@ -8,7 +8,7 @@ tags:
 - curtas
 - Kinoforum
 - festivais
-tumblr_url: /post/660770403254468608/
+redirect_from: /post/660770403254468608/
 ---
 <figure data-orig-width="526" data-orig-height="294" class="tmblr-full"><img src="https://64.media.tumblr.com/9e02b9ae0de150b0022c81a99b0023d2/e5682f3f24ea148e-53/s540x810/330f3e74d64aefbe6d38a40f24ad1888f59ed2b6.jpg" alt="image" data-orig-width="526" data-orig-height="294"></figure>
 

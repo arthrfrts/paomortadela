@@ -7,7 +7,7 @@ tags:
 - filmes
 - listas
 - trailers
-tumblr_url: https://paomortadela.com.br/post/661895965807132672/os-trailers-dos-meus-filmes-mais-esperados-nos
+redirect_from: https://paomortadela.com.br/post/661895965807132672/os-trailers-dos-meus-filmes-mais-esperados-nos
 ---
 [Depois]({% post_url 2021/2021-05-31-reaprendendo-a-amar-o-cinema %}) de um [bocado]({% post_url 2021/2021-03-04-sera-que-eu-quero-assistir-o-oscar-esse-ano %}) de [tempo]({% post_url 2020/2020-12-26-meus-filmes-favoritos-de-2020 %}), eu finalmente tô voltando a ficar empolgado com filmes de novo. Tá sendo um processo bem devagar, e bem calmo, de olhar pra algo e conseguir sentir uma certa empolgação de novo.
 

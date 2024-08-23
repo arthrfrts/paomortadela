@@ -6,7 +6,7 @@ author: arthurf
 tags:
 - arte
 - ecologia
-tumblr_url: /post/658493849639976960/de-onde-vem-essa-cacatua
+redirect_from: /post/658493849639976960/de-onde-vem-essa-cacatua
 ---
 [Esse artigo da Rebecca Mead para o The New Yorker](https://www.newyorker.com/magazine/2021/07/05/where-did-that-cockatoo-come-from) é sobre uma cacatua que aparece em um quadro renascentista do pintor Andrea Mantegna de 1496.
 

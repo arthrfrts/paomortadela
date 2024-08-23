@@ -7,7 +7,7 @@ tags:
 - leituras
 - história das coisas
 - web
-tumblr_url: /post/658146851784097792/reflections-as-the-internet-archive-turns-25
+redirect_from: /post/658146851784097792/reflections-as-the-internet-archive-turns-25
 ---
 [Reflections as the Internet Archive turns 25 - Internet Archive Blogs](https://blog.archive.org/2021/07/21/reflections-as-the-internet-archive-turns-25/)
 

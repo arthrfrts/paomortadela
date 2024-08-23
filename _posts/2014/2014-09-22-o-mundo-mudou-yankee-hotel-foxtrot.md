@@ -7,7 +7,7 @@ image: "https://arthrfrts.files.wordpress.com/2018/03/yankee-hotel-foxtrot.jpg"
 tags:
   - essenciais
   - músicas
-tumblr_url: "/post/658003258664697856/"
+redirect_from: "/post/658003258664697856/"
 ---
 
 As coisas não estavam indo muito bem para o Wilco quando lançaram Yankee Hotel Foxtrot. Mas é justamente em momentos de crise que grandes autores da literatura conseguiram criar grandes obras; grandes diretores conseguiram realizar grandes filmes; e uma grande banda conseguiu lançar sua obra-prima.

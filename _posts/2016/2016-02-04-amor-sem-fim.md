@@ -9,7 +9,7 @@ tags:
   - Ian McEwan
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/amor-sem-fim.jpg"
-tumblr_url: "/post/658006090538172416/"
+redirect_from: "/post/658006090538172416/"
 ---
 
 Qual o mistério de _Amor sem fim_?

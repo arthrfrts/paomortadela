@@ -10,7 +10,7 @@ tags:
   - Apple Arcade
   - iOS
   - macOS
-tumblr_url: "/post/658060241158717440/"
+redirect_from: "/post/658060241158717440/"
 ---
 
 Meu lançamento favorito esse ano não foi um jogo em si, mas um serviço. O [Apple Arcade](https://www.apple.com/br/apple-arcade/) é um plano de assinatura de jogos da Apple para o Mac, iOS e tvOS que chegou prometendo bem pouco — um punhado de jogos, sem microtransações e anúncios, por R$ 9,90. Diferente de [outro serviço de assinatura de jogos por aí](https://kotaku.com/google-s-stadia-just-ain-t-it-1839930224), porém, o Arcade entregou todas as suas poucas promessas com um grande truque na manga: a maioria dos jogos do serviço são muito bons, _e funcionam_.
