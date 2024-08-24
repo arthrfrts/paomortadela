@@ -7,6 +7,9 @@ tags:
   - jogos
   - The Legend of Zelda
 date: 2021-01-21 08:53 -0300
+redirect_from:
+  - /post/658091480042405889/apreciando-os-trailers-de-breath-of-the-wild
+  - /post/658091480042405889/
 ---
 
 Eu acordo mais de uma vez por semana pensando algo do tipo “o que será que vai acontecer em _Breath of the Wild 2_?” ou “quando vai ser lançado?” ou ainda “será que a Zelda vai ser jogável?”. Em alguns desses dias eu revejo a única informação confirmada de _Breath of the Wild 2_: um trailer que anuncia o seu desenvolvimento:

@@ -8,6 +8,9 @@ tags:
 - música instrumental
 - Max Richter
 date: 2021-01-22 13:58 -0300
+redirect_from:
+  - /post/658131228309995520/max-richter-tiny-desk-home-concert
+  - /post/658131228309995520/
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/blPehZQd6Ms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

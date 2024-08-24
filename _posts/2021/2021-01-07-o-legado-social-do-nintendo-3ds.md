@@ -7,6 +7,9 @@ tags:
 - Nintendo
 - Nintendo 3DS
 date: 2021-01-07 08:55 -0300
+redirect_from:
+  - /post/658090153557065728/
+  - /post/658090153557065728/o-legado-social-do-nintendo-3ds
 ---
 Cecília D'Alessandro escreveu [um excelente post-mortem sobre o Nintendo 3DS](https://www.wired.com/story/obituary-nintendo-3ds-in-memoriam/) (e os portáteis da Nintendo de maneira geral) quando o pequeno foi descontinuado no ano passado:
 

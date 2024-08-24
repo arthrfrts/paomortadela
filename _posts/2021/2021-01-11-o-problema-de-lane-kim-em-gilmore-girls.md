@@ -7,6 +7,9 @@ tags:
 - séries
 - Gilmore Girls
 date: 2021-01-11 14:00 -0300
+redirect_from:
+  - /post/658090224962994176/o-problema-de-lane-kim-em-gilmore-girls
+  - /post/658090224962994176/
 ---
 Emily VanDerWerff é uma das minhas escritoras favoritas. Ela escreve sobre TV, sua história e suas dinâmicas, como ninguém, e o melhor, ela te faz entender o que funciona e o que não funciona em uma série de TV. Como as melhores críticas e ensaístas, VanDerWerff põe em palavras aquilo que a gente sente quando assiste algo.
 

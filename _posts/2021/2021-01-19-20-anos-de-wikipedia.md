@@ -8,6 +8,9 @@ tags:
 - relatos
 - Wikipédia
 date: 2021-01-19 20:19 -0300
+redirect_from:
+  - /post/658091367483015168/a-hist%C3%B3ria-da-wikip%C3%A9dia-atrav%C3%A9s-dos-relatos-de
+  - /post/658091367483015168/
 ---
 A Wikipédia fez vinte anos na última sexta-feira, dia 15. Eu considero ela o site mais importante da internet. É o site que melhor define a promessa do que a internet pode ser — um espaço de informação livre e colaborativa, onde pontos de vista se somam ao invés de se isolar. É gratuita, é distribuída, e se um dia sair do ar, o buraco que ele vai deixar na sociedade é gigante demais. A Wikipédia conseguiu ser inestimável para nós em tão pouco tempo que é difícil de pensar numa internet em que ela geralmente não é o segundo resultado em qualquer pesquisa no Google.
 

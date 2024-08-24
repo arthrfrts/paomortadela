@@ -6,6 +6,9 @@ tags:
 - miscelânea
 - higiene
 date: 2021-01-06 13:47 -0300
+redirect_from:
+  - /post/658090090515529728/eu-ganhei-uma-escova-de-dentes-de-natal
+  - /post/658090090515529728/
 ---
 Meus pais me perguntaram se eu tava precisando de algo esse ano pra que eles pudessem me dar de presente de Natal. Faz uns anos já que eu nunca preciso de nada (eu tenho um trabalho, pais!), mas sempre lembro de um jogo que eu quero comprar ou de uma edição de colecionador de um filme que eu encontrei por aí e essa é geralmente a oportunidade perfeita de não desperdiçar meu dinheiro nesse tipo de coisa.
 

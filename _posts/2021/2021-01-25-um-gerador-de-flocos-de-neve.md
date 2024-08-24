@@ -6,8 +6,10 @@ title: Um gerador de flocos de neve
 tags:
   - links
   - miscelânea
-author:
-  - arthurf
+author: arthurf
+redirect_from:
+  - /post/658131275664769024/um-gerador-de-flocos-de-neve
+  - /post/658131275664769024/
 ---
 ![Gráfico de um floco de neve gerado por computador]({% link uploads/prose/snowflake.jpg %})
 

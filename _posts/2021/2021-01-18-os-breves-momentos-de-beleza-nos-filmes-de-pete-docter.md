@@ -12,6 +12,9 @@ tags:
   - carreiras em perspectiva
   - Pete Docter
   - Pixar
+redirect_from:
+  - /post/658090599490158592/os-breves-momentos-de-beleza-nos-filmes-de-pete
+  - /post/658090599490158592/
 ---
 
 _Esse post revela momentos da trama de Soul._

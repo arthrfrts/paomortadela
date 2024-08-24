@@ -7,6 +7,9 @@ tags:
   - FPS
   - Community
 date: 2021-01-19 08:52 -0300
+redirect_from:
+  - /post/658090678465740800/uns-f%C3%A3s-de-community-fizeram-um-jogo-de-paintball
+  - /post/658090678465740800/
 ---
 
 Um grupo de aspirantes a desenvolvedores de jogos se juntaram para criar _Six Seasons and a Game_, um jogo de paintball assassino na faculdade de Greendale, o cenário de _Community_. E não é que o resultado ficou muito bom?

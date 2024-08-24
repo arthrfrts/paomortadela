@@ -7,6 +7,9 @@ tags:
 - leituras
 - comida
 date: 2021-01-05 13:46 -0300
+redirect_from:
+  - /post/658090023191724033/
+  - /post/658090023191724033/rachel-handler-investiga-o-misterioso-caso-da
 ---
 [Rachel Handler](https://twitter.com/rachel_handler) é uma das jornalistas que eu mais gosto de acompanhar o trabalho. Ela [escrevia para o *The Dissolve*](http://thedissolve.com/authors/rachelhandler/), um site sobre filmes que eu amava muito, e sua escrita tinha um tom próprio muito forte: era bem humorado ao mesmo tempo que direto. Ela escrevia sobre qualquer coisa de forma clara, mas conseguia colocar tangentes nos assuntos com observações incisivas e hilárias. Ela tinha uma coluna no *The Dissolve* chamada [“Female Stuff”](http://thedissolve.com/news/category/female-stuff/) que eu revisito até hoje.
 
