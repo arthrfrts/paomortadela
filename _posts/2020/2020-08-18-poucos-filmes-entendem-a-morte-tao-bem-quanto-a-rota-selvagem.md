@@ -10,7 +10,9 @@ tags:
 - Prime Video
 - HBO
 date: 2020-08-18 21:02 -0300
-redirect_from: "/post/658075033290342400/"
+redirect_from:
+  - /post/658075033290342400/
+  - /post/658075033290342400/poucos-filmes-entendem-a-morte-tão-bem-quanto-a
 ---
 **Esse texto contém detalhes sobre a trama de *A Rota Selvagem*.**
 
