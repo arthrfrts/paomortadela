@@ -11,6 +11,8 @@ lang: pt-BR
 logo: "/assets/images/logo.png"
 timezone: "America/Sao_Paulo"
 
+comments: false
+
 collections:
   authors:
     output: true

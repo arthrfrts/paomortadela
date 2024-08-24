@@ -59,8 +59,9 @@ layout: default
     {% endif %}
   </footer>
 
-
-  {% include post/comments.html %}
+  {% unless site.comments == false %}
+    {% include post/comments.html %}
+  {% endunless %}
 </article>
 
 {% if page.previous or page.next %}

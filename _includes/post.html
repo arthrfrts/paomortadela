@@ -30,9 +30,11 @@
           </time>
         </a>
 
-        <a class="info comment_count" href="{{ include.post.url | append: '#comments' | absolute_url }}">
-          Comentários
-        </a>
+        {% unless site.comments == false %}
+          <a class="info comment_count" href="{{ include.post.url | append: '#comments' | absolute_url }}">
+            Comentários
+          </a>
+        {% endunless %}
       </p>
     </div>
   </header>
