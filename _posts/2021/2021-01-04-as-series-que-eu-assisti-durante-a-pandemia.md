@@ -7,6 +7,9 @@ tags:
 - séries
 - dieta cultural
 date: 2021-01-04 08:38 -0300
+redirect_from:
+  - /post/658089874918899712/
+  - /post/658089874918899712/as-s%C3%A9ries-que-me-fizeram-companhia-em-2020
 ---
 Mesmo com mais tempo ~~livre~~ para ficar assistindo TV durante os últimos dez meses, eu não assisti muito mais séries do que em 2019. Minha grande suspeita, como eu já expliquei [em agosto]({% post_url 2020/2020-09-21-eu-voltei-a-assistir-series-semanalmente %}), é que eu não ando mais maratonando séries. Eu prefiro ver elas por semana, ou no mínimo dia sim, dia não. Mesmo assim, algumas séries realmente me ajudaram a manter um senso de continuidade em um ano onde tudo pareceu parado.
 
