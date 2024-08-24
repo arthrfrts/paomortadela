@@ -6,6 +6,9 @@ published: true
 title: O que está acontecendo por aqui
 tags:
   - meta
+redirect_from:
+  - /post/680890060136120321/o-que-est%C3%A1-acontecendo-por-aqui
+  - /post/680890060136120321/
 ---
 Me desculpem pela falta de movimentação por aqui nesses últimos meses. Como eu comentei no [post de fim de ano](https://paomortadela.com.br/2021/12/top-5-2021/), eu ando meio atucanado com a reforma do meu apartamento e outros acontecimentos do lado de cá do computador, e o tempo está curto.
 

@@ -8,6 +8,9 @@ tags:
   - jogos
   - séries
 date: 2022-04-01 08:40 -0300
+redirect_from:
+  - /post/680891517126279168/minha-dieta-cultural-nas-%C3%BAltimas-semanas
+  - /post/680891517126279168/
 ---
 Eu ando sumido por aqui. Não só aqui, na verdade. Eu não ando escrevendo. Isso tem sido um problema que eu tô levando pra terapia já faz uns meses. Pode ser um punhado de coisas --- eu suspeito que seja o conjunto dessas coisas, com uma confusão amorosa, o calor (que me tira a inspiração) e a reforma do meu apartamento.
 

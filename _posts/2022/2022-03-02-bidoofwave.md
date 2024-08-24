@@ -8,6 +8,9 @@ tags:
 - Pokémon
 - ASMR
 date: 2022-03-02 14:31 -0300
+redirect_from:
+  - /post/680890881107247104/
+  - /post/680890881107247104/bidoof-vai-te-ajudar-a-se-concentrar
 ---
 Bidoof é o meu Pokémon favorito. Ele é inspirado no meu animal favorito, o castor. Ele é ao mesmo tempo um pokémon inútil e um dos mais úteis. Isso porque, embora ele não seja muito útil para batalhar (o principal objetivo de um pokémon nos jogos), ele é muito útil para te ajudar a navegar pelo mundo. Bidoof pode mover obstáculos e cortar caminhos. Quando eu jogo *Pokémon Diamond/Pearl*, Bidoof é a minha primeira captura, e o único pokémon que fica na minha equipe do início ao fim do jogo. Bidoof é um bom companheiro.
 

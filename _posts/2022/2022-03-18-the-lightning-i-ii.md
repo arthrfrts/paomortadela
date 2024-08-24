@@ -7,6 +7,9 @@ tags:
 - músicas
 - Arcade Fire
 date: 2022-03-18 18:54 -0300
+redirect_from:
+  - /post/680890950905626624/the-lightning-i-ii
+  - /post/680890950905626624/
 ---
 <iframe class="full-width" src="https://www.youtube.com/embed/qJiALpiqpk8" title="Reprodutor de vídeos do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

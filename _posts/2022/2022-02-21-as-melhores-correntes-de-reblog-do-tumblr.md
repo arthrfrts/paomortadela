@@ -6,8 +6,11 @@ tags:
 - links
 - web
 date: 2022-02-21 08:16 -0300
+redirect_from:
+  - /post/680890753987362816/as-melhores-correntes-de-reblog-do-tumblr
+  - /post/680890753987362816/
 ---
-O Tumblr está fazendo quinze anos nesse mês de fevereio. Para celebrar, a equipe decidiu homenagear as melhores correntes de reblog que aconteceram na plataforma nesse tempo através de reblogs (claro) no blog [best-of-reblogs](https://best-of-reblogs.tumblr.com/). É surreal de tão bom.
+O Tumblr está fazendo quinze anos nesse mês de fevereiro. Para celebrar, a equipe decidiu homenagear as melhores correntes de reblog que aconteceram na plataforma nesse tempo através de reblogs (claro) no blog [best-of-reblogs](https://best-of-reblogs.tumblr.com/). É surreal de tão bom.
 
 Se você não participou do Tumblr nos tempos áureos de 2010---2015, pode não saber o que é uma cadeia de reblogs, e deixa eu te explicar: é a melhor coisa que uma rede social já conseguiu criar. No tumblr, cada post pode ser "reblogado". Se você postou algo que eu gostei, eu posso reblogar no meu próprio blog e adicionar alguma contribuição. Algumas vezes, os reblogs acontecem por dias ou [meses](https://best-of-reblogs.tumblr.com/post/676737691917877248/miles-superus-117-animentality) e as vezes até anos, criando uma cadeia de reblogs de colaboração, geralmente muito bem humoradas e as vezes muitíssimo informativas.
 

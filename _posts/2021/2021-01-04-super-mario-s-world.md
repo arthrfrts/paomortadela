@@ -8,6 +8,9 @@ tags:
 - Super Mario
 - Nintendo
 date: 2021-01-04 16:02 -0300
+redirect_from:
+  - /post/658089973235548160/
+  - /post/658089973235548160/a-evolu%C3%A7%C3%A3o-dos-personagens-de-super-mario
 ---
 *Mario Bros.* é uma das franquias mais famosas e importantes dos jogos, e tá fazendo trinta e cinco anos. Para comemorar, a Nintendo relançou no fim do ano passado os excelentes *64*, *Sunshine* e *Galaxy* na coletânea *Super Mario 3D All-Stars*, e vai relançar o (também excelente) *Super Mario 3D World*, até então exclusivo do Wii U, no Switch em março.
 

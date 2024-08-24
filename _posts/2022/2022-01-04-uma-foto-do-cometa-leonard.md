@@ -6,6 +6,9 @@ tags:
 - espaço
 - fotos
 date: 2022-01-04 07:04 -0300
+redirect_from:
+  - /post/680889871251963904/essa-%C3%A9-uma-foto-composta-por-outras-doze-fotos
+  - /post/680889871251963904/
 ---
 {: .full-width }
 ![Um cometa cruzando o céu preto estrelado, com sua cauda branca deixando um rastro no céu]({% link uploads/2022/01/leonard.jpg %})

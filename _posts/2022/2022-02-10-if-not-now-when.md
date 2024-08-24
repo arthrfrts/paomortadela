@@ -7,6 +7,9 @@ tags:
 - instalações
 - Mike Rugnetta
 date: 2022-02-10 09:42 -0300
+redirect_from:
+  - /post/680890119731970048/if-not-now-when
+  - /post/680890119731970048/
 ---
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/-01GW5iXyhQ" title="Reprodutor de vídeos do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

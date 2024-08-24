@@ -7,6 +7,9 @@ tags:
 - arte
 - pintura
 date: 2021-11-11 16:49 -0300
+redirect_from:
+  - /post/680884297997139968/mona-lisa-explicada
+  - /post/680884297997139968/
 ---
 <iframe class="full-width" src="https://www.youtube-nocookie.com/embed/ElWG0_kjy_Y" title="Reprodutor de vídeo do YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

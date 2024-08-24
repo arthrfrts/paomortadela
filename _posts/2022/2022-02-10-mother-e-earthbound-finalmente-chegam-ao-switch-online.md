@@ -8,6 +8,9 @@ tags:
 - EarthBound
 - Nintendo
 date: 2022-02-10 10:02 -0300
+redrect_from:
+  - /post/680890277513347072/mother-e-earthbound-finalmente-chegam-ao-switch
+  - /post/680890277513347072/
 ---
 Eu não tenho ideia do porquê demorou tanto tempo para a Nintendo adicionar _EarthBound_, [um dos melhores jogos do SNES]({% post_url 2020/2020-11-02-minha-longa-jornada-ate-earthbound %}), no Switch Online --- o serviço de assinatura em que eles disponibilizam alguns jogos clássicos do NES, SNES e Nintendo 64. Mas a espera acabou: tanto _EarthBound_ quanto o jogo anterior da série, _Mother_, que nunca saiu do Japão na época do NES, chegaram ao Switch Online ontem de noite.
 

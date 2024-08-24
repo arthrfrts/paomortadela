@@ -9,6 +9,9 @@ tags:
 - drama
 - HBO
 date: 2022-02-11 09:46 -0300
+redirect_from:
+  - /post/680890412401147904/esta%C3%A7%C3%A3o-onze-torna-o-mundo-grande-de-novo
+  - /post/680890412401147904/
 ---
 Tem um momento bem breve no primeiro capítulo de _Estação Onze_ em que dois personagens --- os protagonistas Jeevan e Kirsten --- estão em uma estação de trem. Quando o trem chega, e eles partem, a estação fica vazia. A imagem "pisca", e vemos como a estação estará em vinte anos: tomada pela natureza, e seus verdes e marrons. É um contraste breve de imagem, mas tão poderoso que define a série inteira: o futuro pós-apocalíptico de _Estação Onze_ é colorido e quente e acolhedor. O presente é cinza e escuro e hostil. Quando a imagem voltou para a estação no presente, eu comecei a chorar.
 

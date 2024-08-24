@@ -7,6 +7,9 @@ tags:
 - experimentos
 - rabiscos
 date: 2021-11-08 08:23 -0300
+redirect_from:
+  - /post/680884228664262657/um-site-para-rabiscar
+  - /post/680884228664262657/
 ---
 {: .full-width }
 ![Captura de tela de uma série de rabiscos feitos por Clive Thompson, em que uma linha da cor preta faz ângulos retos enquanto cruza em cima de si mesma]({% link uploads/2021/11/rabiscos.png %})

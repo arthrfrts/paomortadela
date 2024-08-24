@@ -6,6 +6,9 @@ tags:
 - links
 - humor
 date: 2022-02-14 13:37 -0300
+redirect_from:
+  - /post/680890478938488832/o-tratamento-malsucedido-de-um-caso-de-bloqueio
+  - /post/680890478938488832/
 ---
 Esse é o artigo acadêmico _The Unsuccessful Self-Treatment of a Case of "Writer's Block"_ na íntegra:
 

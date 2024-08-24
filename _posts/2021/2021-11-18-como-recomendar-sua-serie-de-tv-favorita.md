@@ -9,6 +9,9 @@ tags:
   - esquinas
   - episódios
   - séries
+redirect_from:
+  - /post/680885392478732288/como-recomendar-sua-s%C3%A9rie-de-tv-favorita
+  - /post/680885392478732288/
 ---
 
 Faz um tempo que eu tô formulando o jeito certo de recomendar uma série que eu gosto muito para os meus amigos. Por muito tempo, eu ficava apresentando o piloto da série, mas essa recomendação geralmente vem acompanhada de um aviso parecido com “espera até o episódio 7 que a série fica boa” ou “se você não gostar da primeira temporada, a segunda fica *muito* melhor”. Isso não é muito eficaz.

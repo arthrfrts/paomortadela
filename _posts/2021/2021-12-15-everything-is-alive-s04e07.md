@@ -8,6 +8,9 @@ tags:
 - entrevistas
 - Everything is Alive
 date: 2021-12-15 19:35 -0300
+redirect_from:
+  - /post/680885540107812864/everything-is-alive-entrevista-sal-a-meia
+  - /post/680885540107812864/
 ---
 <iframe allow="autoplay *; encrypted-media *; fullscreen *" frameborder="0" class="full-width" height="175" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/br/podcast/sal-sock/id1388419519?i=1000545009843"></iframe>
 

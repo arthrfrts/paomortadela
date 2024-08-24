@@ -7,6 +7,9 @@ tags:
 - livros
 - músicas
 date: 2021-11-17 07:42 -0300
+redirect_from:
+  - /post/680884713163046912/relendo-a-visita-cruel-do-tempo
+  - /post/680884713163046912/
 ---
 Tem um sentimento que eu gosto muito, e que eu percebi que eu tô sentindo de novo depois de muito tempo, que é o de ouvir uma música que eu amo e me lembrar de todos os momentos que ela tocou no *momento perfeito*, ou todos os momentos perfeitos que eu queria que *essa música* estivesse tocando.
 
