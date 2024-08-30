@@ -1,18 +1,10 @@
 ---
-layout: post
-date: 2020-05-05 07:48:00 -03:00
-author: arthurf
-tags:
-  - séries
-  - Prime Video
-  - comédia
-  - romance
+published: true
 title: Foi assim que Fleabag partiu meu coração
-image: "/uploads/2020/05/05/fleabag.jpg"
-excerpt: "“Vai passar”."
-redirect_from: "/post/658066609582260224/"
+redirect_from:
+  - /post/658066609582260224/
+  - /post/658066609582260224/foi-assim-que-fleabag-partiu-meu-cora%C3%A7%C3%A3o
 ---
-
 Como todo o mundo, no meio do ano passado eu me peguei no meio do furacão que era a segunda temporada de _Fleabag_. A primeira temporada da série inglesa sobre uma mulher tentando levar a vida em meio a um colapso familiar, sexual e profissional é engraçada pra cacete desde o primeiro episódio, com a Fleabag parando a ação para comentários rápidos, muitas vezes sarcásticos, sobre o que está acontecendo ao redor dela. Mas quando _Fleabag_ voltou com tudo, ano passado, ela jogou pro alto todas as regras que tinha criado na primeira temporada e, no caminho, partiu meu coração.
 
 {:.pull}
@@ -34,7 +26,7 @@ Quando eu vi a segunda temporada de _Fleabag_ pela primeira vez ano passado, o f
 Esse finalzinho partiu meu coração pela primeira vez nessa cena
 
 > FLEABAG: Eu te amo.
->
+> 
 > PADRE: Vai passar.
 
 Partiu meu coração porque a entrega é sublime. Quando o padre fala isso, os dois se olham por um segundo a mais. Eles sabem que é mentira. O amor que eles vão sentir pode mudar, com o tempo. Mas ele vai continuar ali, entre eles.
@@ -42,8 +34,6 @@ Partiu meu coração porque a entrega é sublime. Quando o padre fala isso, os d
 Então o padre vai embora, e Fleabag, como toda ferrada nessa vida, vê que seu ônibus foi cancelado. Não só levou um fora, vai ter que voltar a pé pra casa. A câmera segue, mas Fleabag para, olha pra trás e diz que não. A gente fica pra trás, ela dá uma última olhada e acena, timidamente. Fleabag segue em frente.
 
 É quando a série parte o meu coração, pra valer.
-
-<iframe width="806" height="453" src="https://www.youtube.com/embed/7K3ffDrignk"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Eu revi a temporada várias vezes depois disso, porque o efeito desse final em mim foi surreal. Como foi que _Fleabag_ me afetou tanto assim? O que ela faz de diferente de outras comédias pra me ter me deixado tão desolado?
 
