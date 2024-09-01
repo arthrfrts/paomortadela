@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: “No Man’s Sky” chega ao Nintendo Switch
 date: '2022-10-11T10:49:32-03:00'
 tags:
 - jogos
@@ -8,9 +8,9 @@ tags:
 - astronomia
 - ficção científica
 - espaço
-redirect_from: https://paomortadela.com.br/post/697823314199117824/no-mans-sky-chega-ao-nintendo-switch
+redirect_from: 
+  - /post/697823314199117824/no-mans-sky-chega-ao-nintendo-switch
 ---
-# “No Man’s Sky” chega ao Nintendo Switch
 
 <iframe width="356" height="200" id="youtube_iframe" src="https://www.youtube.com/embed/KWgZ2kjL4bM?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="No Man's Sky Waypoint (4.0) Update Trailer"></iframe>
 

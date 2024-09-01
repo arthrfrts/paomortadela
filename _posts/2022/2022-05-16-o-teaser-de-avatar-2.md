@@ -1,15 +1,16 @@
 ---
 layout: post
-title: no title
+title: O teaser de Avatar 2
 date: '2022-05-16T15:39:23-03:00'
 tags:
 - filmes
 - trailers
 - ficção científica
 - Avatar
-redirect_from: https://paomortadela.com.br/post/684433199107080192/o-teaser-de-avatar-2
+redirect_from: 
+  - /post/684433199107080192/o-teaser-de-avatar-2
+  - /post/684433199107080192/
 ---
-# O teaser de Avatar 2
 
 <iframe width="356" height="200" id="youtube_iframe" src="https://www.youtube.com/embed/6AvFHlKS6OE?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

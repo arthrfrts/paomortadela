@@ -1,13 +1,14 @@
 ---
 layout: post
-title: no title
+title: Home Sweet Homepage
 date: '2022-04-07T16:40:31-03:00'
 tags:
 - links
 - gibis
-redirect_from: https://paomortadela.com.br/post/680903764188823552/home-sweet-homepage
+redirect_from: 
+  - /post/680903764188823552/home-sweet-homepage
+  - /post/680903764188823552/
 ---
-# Home Sweet Homepage
 
 ![](https://64.media.tumblr.com/250411836a26a7a76a0e060f4b9d75fe/4910ea9404349570-e3/s640x960/7781e6b6e16d3358c849ef17cdc25306a8d15545.jpg)
 

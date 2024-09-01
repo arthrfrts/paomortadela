@@ -1,13 +1,14 @@
 ---
 layout: post
-title: no title
+title: Prompt.press
 date: '2022-07-09T16:13:14-03:00'
 tags:
 - links
 - experimentos
-redirect_from: https://paomortadela.com.br/post/689327564944179200/promptpress
+redirect_from: 
+  - /post/689327564944179200/promptpress
+  - /post/689327564944179200/
 ---
-# Prompt.press
 
 [AI generated artwork inspired by current events](https://href.li/?https://prompt.press/)
 

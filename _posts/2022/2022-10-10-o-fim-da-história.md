@@ -1,14 +1,14 @@
 ---
 layout: post
-title: no title
+title: O fim da história
 date: '2022-10-10T17:57:37-03:00'
 tags:
 - esquinas
 - filmes
 - jogos
-redirect_from: https://paomortadela.com.br/post/697759650136915968/o-fim-da-hist%C3%B3ria
+redirect_from: 
+  - /post/697759650136915968/o-fim-da-hist%C3%B3ria
 ---
-# O fim da história
 
 ![Tilda Swinton e Idris Elba em “Três Mil Anos de Saudade”](https://64.media.tumblr.com/de748c26ef75090945b7e082249b0f2b/d3df9ecfc2378bdc-a0/s640x960/0c806dcb775db81943ea27e1aade329b266f4c58.jpg)ALT
 

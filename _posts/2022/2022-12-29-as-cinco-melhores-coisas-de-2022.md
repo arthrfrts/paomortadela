@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: As cinco melhores coisas de 2022
 date: '2022-12-29T08:14:45-03:00'
 tags:
 - listas
@@ -9,9 +9,9 @@ tags:
 - jogos
 - músicas
 - links
-redirect_from: https://paomortadela.com.br/post/704974512128753664/as-cinco-melhores-coisas-de-2022
+redirect_from: 
+  - /post/704974512128753664/as-cinco-melhores-coisas-de-2022
 ---
-# As cinco melhores coisas de 2022
 
 ![](https://64.media.tumblr.com/c62cc9ddc8cc595ef88ecb0d2d172e2f/bcb83398c2cf2868-3e/s640x960/e13433248b375a6946d92a11f3cf3cf6add479b2.png)
 

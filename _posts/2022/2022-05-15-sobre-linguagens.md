@@ -1,18 +1,17 @@
 ---
 layout: post
-title: no title
+title: Sobre linguagens
 date: '2022-05-15T16:31:04-03:00'
 tags:
 - etc.
-redirect_from: https://paomortadela.com.br/post/684345854405017600/sobre-linguagens
+redirect_from: 
+  - /post/684345854405017600/sobre-linguagens
+  - /post/684345854405017600/
 ---
-# Sobre linguagens
 
 ![](https://64.media.tumblr.com/a3bc3d42a98b1f2dbc6c8aabcf9f0aaa/c8d12db504accac3-60/s640x960/079bb443ec8aa39cd6e5824ae7260d1da91153f8.jpg)
 
 Eu perdi meu melhor amigo nesses últimos meses. Amizade é uma das coisas mais especiais da minha vida. Elas são as únicas relações que não se tornam mais escassas com o tempo. Nós continuamos disponíveis e suscetíveis às amizades por toda a vida. Nós escolhemos nos dedicar aos afetos e nossas famílias, mas sempre podemos fazer e perder amigos com o passar de todo esse tempo.
-
-<!-- more -->
 
 Eu sou uma pessoa feita pelos meus amigos. Eu sou um pouquinho de cada um deles, e eu deixo com cada um deles um pedacinho diferente de mim. Quando eu percebi que eu e meu melhor amigo estávamos nos afastando, meu coração se despedaçou como nunca antes, como eu nunca achei possível. Eu vi a vergonha nos olhos dele enquanto ele os desviava para me contar o que seria a pedra que estávamos colocando entre nós, e eu percebi que ele não queria que lutássemos contra ela como lutamos contra as outras. Esse era o fim.
 

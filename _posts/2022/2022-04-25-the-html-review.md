@@ -1,13 +1,14 @@
 ---
 layout: post
-title: no title
+title: The HTML Review
 date: '2022-04-25T10:57:19-03:00'
 tags:
 - links
 - web
-redirect_from: https://paomortadela.com.br/post/682512916527841280/the-html-review
+redirect_from: 
+  - /post/682512916527841280/the-html-review
+  - /post/682512916527841280/
 ---
-# The HTML Review
 
 ![](https://64.media.tumblr.com/55578b7911b33e8c26b7c7c4b4fc8e5a/b9dda92915eee3b5-be/s640x960/03c6283cdccab170ed38f36001835ba277f42c1d.png)
 

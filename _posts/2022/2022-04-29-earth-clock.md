@@ -1,14 +1,15 @@
 ---
 layout: post
-title: no title
+title: Earth Clock
 date: '2022-04-29T10:05:12-03:00'
 tags:
 - links
 - web
 - experimentos
-redirect_from: https://paomortadela.com.br/post/682872026419036160/earth-clock
+redirect_from: 
+  - /post/682872026419036160/earth-clock
+  - /post/682872026419036160/
 ---
-# Earth Clock
 
 ![](https://64.media.tumblr.com/e63c1a00f44c87cf721a0b4a10008e41/8b92e328b48cff4e-e9/s640x960/15a44ed30d8256db55dbb6aa8f3b296b08c127d4.jpg)
 

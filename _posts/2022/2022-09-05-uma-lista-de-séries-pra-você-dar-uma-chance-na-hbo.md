@@ -1,13 +1,14 @@
 ---
 layout: post
-title: no title
+title: "Uma lista de séries pra você dar uma chance na HBO Max"
 date: '2022-09-05T14:14:01-03:00'
 tags:
 - listas
 - séries
-redirect_from: https://paomortadela.com.br/post/694574688782909440/uma-lista-de-s%C3%A9ries-pra-voc%C3%AA-dar-uma-chance-na-hbo
+redirect_from: 
+  - /post/694574688782909440/uma-lista-de-s%C3%A9ries-pra-voc%C3%AA-dar-uma-chance-na-hbo
+  - /post/694574688782909440/
 ---
-# Uma lista de séries pra você dar uma chance na HBO Max
 
 Então, você tá assistindo _A Casa do Dragão_. Você assinou, ou está aproveitando aquele período de teste da HBO Max, e vai assistir o prequel de _Game of Thrones_. Eu espero que você se divirta muito! Parece uma série muito boa, e os dragões são mais reais do que na série original. Eu particularmente gosto do escopo menor de _A Casa do Dragão_, é como uma mistura de _Succession_ com _O Senhor dos Aneis_.
 

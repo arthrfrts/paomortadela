@@ -6,7 +6,8 @@ tags:
 - podcasts
 - links
 - Everything is Alive
-redirect_from: https://paomortadela.com.br/post/696187246086438913/a-nova-temporada-de-everything-is-alive-come%C3%A7ou
+redirect_from: 
+  - /post/696187246086438913/a-nova-temporada-de-everything-is-alive-come%C3%A7ou
 ---
 <iframe allow="autoplay *; encrypted-media *; fullscreen *; clipboard-write" frameborder="0" height="175" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.podcasts.apple.com/br/podcast/alzo-rental-car/id1388419519?i=1000580143704"></iframe>
 

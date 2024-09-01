@@ -8,7 +8,8 @@ tags:
 - filmes
 - jogos
 - Youtube
-redirect_from: https://paomortadela.com.br/post/704204673981218816/o-trailer-de-super-mario-bros-o-filme-feito-no
+redirect_from: 
+  - /post/704204673981218816/
 ---
 # O trailer de _Super Mario Bros.: O Filme_ feito no Nintendo 64
 

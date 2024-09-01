@@ -1,14 +1,15 @@
 ---
 layout: post
-title: no title
+title: “Nobody Shares Anymore”
 date: '2022-07-28T15:43:01-03:00'
 tags:
 - links
 - vídeos
 - Mike Rugnetta
-redirect_from: https://paomortadela.com.br/post/691047005976461312/nobody-shares-anymore
+redirect_from: 
+  - /post/691047005976461312/nobody-shares-anymore
+  - /post/691047005976461312/
 ---
-# “Nobody Shares Anymore”
 
 <iframe width="356" height="200" id="youtube_iframe" src="https://www.youtube.com/embed/ZDuyyH60FOg?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="Nobody Shares Anymore"></iframe>
 

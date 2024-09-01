@@ -1,6 +1,6 @@
 ---
 layout: post
-title: no title
+title: "Ninguém está bem"
 date: '2022-06-20T14:52:45-03:00'
 tags:
 - esquinas
@@ -10,13 +10,12 @@ tags:
 - Ruptura
 - Arcade Fire
 - Spotify
-redirect_from: https://paomortadela.com.br/post/687601159228260352/ningu%C3%A9m-est%C3%A1-bem
+redirect_from: 
+  - /post/687601159228260352/ningu%C3%A9m-est%C3%A1-bem
+  - /post/687601159228260352/
 ---
-# Ninguém está bem
 
-![Bill Harder em “Barry”, da HBO.](https://64.media.tumblr.com/f95a6e01679f44e41fdcfaf3d6757a49/e9f110d9f80e7306-80/s640x960/51920856278d309e3ded474f0c6d69ea1da1e5ea.png)ALT
-
-<!-- more -->
+![Bill Harder em “Barry”, da HBO.](https://64.media.tumblr.com/f95a6e01679f44e41fdcfaf3d6757a49/e9f110d9f80e7306-80/s640x960/51920856278d309e3ded474f0c6d69ea1da1e5ea.png)
 
 As cenas de assassinato na série _Barry_ são longas — a tensão cresce lentamente, junto com o desespero das vítimas, que percebem estar na mira de um predador e que dificilmente sairão dela vivos. Mas não é por isso que a terceira temporada da série é tão difícil de assistir.
 

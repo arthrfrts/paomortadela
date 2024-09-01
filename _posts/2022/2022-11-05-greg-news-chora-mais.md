@@ -1,15 +1,15 @@
 ---
 layout: post
-title: no title
+title: "Greg News: “Chora Mais”"
 date: '2022-11-05T01:43:16-03:00'
 tags:
 - links
 - vídeos
 - política
 - eleições
-redirect_from: https://paomortadela.com.br/post/700053870151335936/greg-news-chora-mais
+redirect_from: 
+  - /post/700053870151335936/greg-news-chora-mais
 ---
-# Greg News: “Chora Mais”
 
 <iframe width="356" height="200" id="youtube_iframe" src="https://www.youtube.com/embed/ntvJjeNEo_A?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen title="GREG NEWS | CHORA MAIS"></iframe>
 
