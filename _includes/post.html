@@ -30,8 +30,8 @@
           </time>
         </a>
 
-        {% unless site.comments == false %}
-          <a class="info comment_count" href="{{ include.post.url | append: '#comments' | absolute_url }}">
+        {% unless page.comments == false %}
+          <a class="info comment_count" href="{{ include.post.url | append: '#disqus_thread' | absolute_url }}">
             Comentários
           </a>
         {% endunless %}

@@ -1,45 +1,21 @@
-{% if site.data.comments[page.slug] or page.comments != false %}
-  <section id="comments" class="post_comments">
-    <h2 class="comments-title">
-      Comentários
-    </h2>
+{% unless page.comments == false %}
+  <div id="disqus_thread"></div>
+  <script>
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
 
-    {% if site.data.comments[page.slug] %}
-      <ol class="comments-list">
+      var disqus_config = function () {
+        this.page.url =  "{{ page.url | absolute_url }}";  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = "{{ page.permalink }}"; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
 
-        {% assign comments = site.data.comments[page.slug] | sort: date %}
-
-        {% for comment in comments %}
-          {% assign comment_body = comment | last %}
-          <li class="comment-item">
-            <section class="comment">
-              <header class="comment-meta">
-                <img class="author-avatar" src="//www.gravatar.com/avatar/{{ comment_body.email }}?d=identicon&s=64" alt="" />
-                <h5 class="author">
-                  {% if comment_body.website %}
-                    <a href="{{ comment_body.website }}" rel="author">
-                      {{ comment_body.name }}
-                    </a>
-                  {% else %}
-                    {{ comment_body.name }}
-                  {% endif %}
-                </h5>
-
-                <time datetime="{{ comment_body.date | date_to_xmlschema }}" class="comment-date">
-                  {{ comment_body.date | date: "%d/%m/%Y às %k:%M" }}
-                </time>
-              </header>
-
-              <div class="comment-body">
-                {{ comment_body.message | markdownify }}
-              </div>
-            </section>
-          </li>
-        {% endfor %}
-
-      </ol>
-    {% endif %}
-
-    {% include post/comment-form.html %}
-  </section>
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = 'https://paomortadela.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+  </script>
+  <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 {% endif %}
