@@ -1,18 +1,19 @@
 ---
 layout: post
 title: Não tem como descrever o “Clube da Esquina”
-description: E uma despedida.
+description: >-
+  E uma despedida.
 author: arthurf
 image: "/uploads/2024/11/clube.jpg"
 tags:
-- música
-- MPB
-- Milton Nascimento
-- Lô Borges
-- impressões
-- esquinas
-date: 2024-11-13 15:01 -0300
+  - música
+  - MPB
+  - Milton Nascimento
+  - Lô Borges
+  - impressões
+  - esquinas
 ---
+
 Primeiro, vamos considerar o vento.
 
 <audio controls autoplay poster="/uploads/2024/11/clube.jpg" style="width: 100%; aspect-ratio: 4 / 3; margin-bottom: 1em;">
@@ -28,9 +29,9 @@ Foi isso que "Clube da Esquina No. 2" me fez sentir numa tarde dessas, enquanto 
 
 O _Clube da Esquina_ está em todo lugar, assim como o vento. Pode ser lento, pode ser intenso, mas é exatamente o que precisa ser no momento exato. É lindamente revolucionário ("Nada Será Como Antes"), profundamente triste ("Os Povos") e misteriosamente poético ("Estrelas"). É também tudo isso ao mesmo tempo: "O Trem Azul" é tão misteriosamente melancólico quanto é divertido de cantar junto, e "Cais" pode ser hipnótico no jeito como te transporta para a praia, para suas areias e, sim... para seu vento.
 
-Eu poderia continuar descrevendo (pobremente) cada faixa do _Clube da Esquina_, mas honestamente é impossível. Milton Nascimento e Lô Borges (e Beto Guedes, Toninho Horta, Márcio Borges e Wagner Tiso, o "clube") parecem tão enraizados na mesma terra que nós, e tão misteriosamente divinos. Eles conseguem te fazer sentir o mundo girando, conseguem dobrar o próprio tempo. Traduzem a convulsão e a violência de sua época, enquanto ao mesmo tempo descrevem a languidez do sol num dia quente de verão, ou a noite fria de um coração partido. Está sempre mudando, se transformando, indo a algum lugar, indo de harmonias a propulsões de som, sem nunca deixar para trás os pequenos detalhes que podem tornar as vidas cotidianas, nossas vidas cotidianas, bonitas, "repletas".
+Eu poderia continuar descrevendo (pobremente) cada música do _Clube da Esquina_, mas honestamente é impossível. Milton Nascimento e Lô Borges (e Beto Guedes, Toninho Horta, Márcio Borges e Wagner Tiso, o "clube") parecem tão enraizados na mesma terra que nós, e tão misteriosamente divinos. Eles conseguem te fazer sentir o mundo girando, conseguem dobrar o próprio tempo. Traduzem a convulsão e a violência de sua época, enquanto ao mesmo tempo descrevem a languidez do sol num dia quente de verão, ou a noite fria de um coração partido. Está sempre mudando, se transformando, indo a algum lugar, indo de harmonias a propulsões de som, sem nunca deixar para trás os pequenos detalhes que podem tornar as vidas cotidianas, nossas vidas cotidianas, bonitas, "repletas".
 
-É curioso como um álbum tão enraizado naquela esquina em Belo Horizonte, nas montanhas de Minas Gerais, pode também encapsular tanto. Talvez seja porque o _Clube da Esquina_ não é apenas um lugar, é também a ideia de uma comunidade. Quando Milton e Lô cantam, suas vozes — uma, profunda e ressonante; outra jovem e cristalina — criam uma vasta tela onde memórias e sons e lugares coexistem. O sol na sua cabeça em "O Trem Azul", o sal do mar em "Cais"... é uma esquina onde todo nosso país, por mais bagunçado e odioso que seja, é também bonito, triste, sagrado, divertido. Tudo ao mesmo tempo. É o único lugar onde o Clube da Esquina poderia existir: na esquina onde suas canções podem também ser uma oração, um grito de protesto e o próprio ar que respiramos.
+É curioso como um disco tão enraizado naquela esquina em Belo Horizonte, nas montanhas de Minas Gerais, pode também encapsular tanto. Talvez seja porque o _Clube da Esquina_ não é apenas um lugar, é também a ideia de uma comunidade. Quando Milton e Lô cantam, suas vozes — uma, profunda e ressonante; outra jovem e cristalina — criam uma vasta tela onde memórias e sons e lugares coexistem. O sol na sua cabeça em "O Trem Azul", o sal do mar em "Cais"... é uma esquina onde todo nosso país, por mais bagunçado e odioso que seja, é também bonito, triste, sagrado, divertido. Tudo ao mesmo tempo. É o único lugar onde o Clube da Esquina poderia existir: na esquina onde suas canções podem também ser uma oração, um grito de protesto e o próprio ar que respiramos.
 
 É como se o próprio Clube da Esquina também estivesse se movendo com suas canções. Mesmo que enraizado na ditadura em que foi feito, com urgência, está voando através do tempo -- até você, naquela viagem de ônibus; até seu vizinho indo à feira, até eu mesmo naquele passeio ao entardecer. Assim como o vento. “Corro a te encontrar”, canta o Milton no final da esperançosa “Ao Que Vai Nascer”. Sempre ficarei feliz quando ele me encontrar de novo.
 
