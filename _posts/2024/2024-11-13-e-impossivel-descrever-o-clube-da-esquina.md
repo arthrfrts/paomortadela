@@ -33,7 +33,9 @@ Eu poderia continuar descrevendo (bem mal) cada música do _Clube da Esquina_, m
 
 É curioso como um disco tão enraizado naquela esquina em Belo Horizonte, nas montanhas de Minas Gerais, pode também encapsular tanto. Talvez seja porque o _Clube da Esquina_ não é apenas um lugar, é também a ideia de uma comunidade. Quando Milton e Lô cantam, suas vozes — uma profunda e ressonante; outra jovem e cristalina — criam uma vasta tela onde memórias e sons e lugares coexistem. O sol na sua cabeça em "O Trem Azul", o sal do mar em "Cais"... é uma esquina onde todo nosso país, por mais bagunçado e odioso que seja, é também bonito, triste, sagrado, divertido. Tudo ao mesmo tempo. É o único lugar onde o _Clube da Esquina_ poderia existir: na esquina onde suas canções podem também ser uma oração, um grito de protesto e o próprio ar que respiramos.
 
-É como se o próprio _Clube da Esquina_ também estivesse se movendo com suas canções. Mesmo que enraizado na ditadura em que foi feito, com urgência, está voando através do tempo -- até você, naquela viagem de ônibus; até seu vizinho indo à feira, até eu mesmo naquele passeio ao entardecer. Assim como o vento. “Corro a te encontrar”, canta o Milton no final da esperançosa “Ao Que Vai Nascer”. Sempre ficarei feliz quando ele me alcançar de novo.
+É como se o próprio _Clube da Esquina_ também estivesse se movendo com suas canções. Mesmo que enraizado na ditadura em que foi feito, com urgência, ele voa através do tempo -- até você, naquela viagem de ônibus; até seu vizinho indo à feira, até eu mesmo naquele passeio ao entardecer. Assim como o vento.
+
+“Corro a te encontrar”, canta o Milton no final da esperançosa “Ao Que Vai Nascer”. Eu vou sempre gostar quando ele me alcançar de novo.
 
 <iframe class="full-width" style="width: 100%; height: auto; aspect-ratio: 16 / 9;" src="https://www.youtube.com/embed/WwTf61AZNEo" title="Milton &amp; Lô Borges - Clube da Esquina" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
