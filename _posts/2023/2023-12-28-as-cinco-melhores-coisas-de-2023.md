@@ -3,6 +3,7 @@ layout: post
 title: As cinco melhores coisas de 2023
 author: arthurf
 date: '2023-12-28T20:28:00-03:00'
+image: "//64.media.tumblr.com/72084e32175eb8bc5bacb2709601a47b/9c923996f41484a8-61/s640x960/7b2a06472ec5790cb6c8211c5f90dffa3dc5fd76.png"
 tags:
 - listas
 - filmes
@@ -11,7 +12,7 @@ tags:
 - músicas
 - links
 - podcasts
-- retrospectiva do ano
+- melhores do ano
 redirect_from: 
   - /post/737879602849087488/as-cinco-melhores-coisas-de-2023
   - /post/737879602849087488/
