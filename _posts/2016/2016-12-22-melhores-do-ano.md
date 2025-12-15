@@ -10,6 +10,7 @@ tags:
   - jogos
   - séries
   - leituras
+  - melhores do ano
 author: arthurf
 image: "https://arthrfrts.files.wordpress.com/2018/03/pcm-melhores-2016.png"
 redirect_from: "/post/658008276246642688/os-5-melhores-de-2016"
